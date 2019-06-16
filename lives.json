@@ -27,19 +27,8 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/358023401783002/",
-      "#title": "standnewshk",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/657330324737543/",
-      "#title": "standnewshk2",
-      "active": false
-    },{
-      "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/438632073636282/",
-      "#title": "standnewshk3",
+      "#title": "standnewshk",
       "active": true
     },
     {
