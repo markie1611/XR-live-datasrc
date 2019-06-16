@@ -5,7 +5,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/638054990027107/",
       "#title": "icablenews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -42,6 +42,12 @@
       "#id": "https://www.facebook.com/inmediahk/videos/435474993959968/",
       "#title": "inmediahk",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/socrec/videos/604141960096267/",
+      "#title": "socrec",
+      "active": true
     },
     {
       "type": "facebook",
