@@ -15,6 +15,12 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/rthkPCA/videos/1332605006905127/",
+      "#title": "rthkPCA",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/395044097770770/",
       "#title": "now.comNews",
       "active": false
