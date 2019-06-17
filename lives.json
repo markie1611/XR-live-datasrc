@@ -21,15 +21,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/706238029813944/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/376581139636766/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/434940237327121/",
+      "#id": "https://www.facebook.com/standnewshk/videos/344241089584318/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
