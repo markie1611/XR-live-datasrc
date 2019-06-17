@@ -96,6 +96,12 @@
       "#id": "https://www.facebook.com/RTHKcityforum/videos/2056599964649453/",
       "#title": "RTHKcityforum",
       "active": false
-    }
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/HOCCHOCC/videos/372169673435767/",
+      "#title": "HOCCHOCC",
+      "active": true
+    },
   ]
 }
