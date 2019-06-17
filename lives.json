@@ -68,6 +68,12 @@
       "active": true
     },
     {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/KRdfY0FEoRI",
+      "#title": "Ruptly",
+      "active": true
+    },
+    {
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/616388602180035/",
       "#title": "TMHK.ORG",
