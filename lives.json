@@ -15,12 +15,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/378931819415988/",
-      "#title": "RTHKVNEWS 2",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/1460922927382712/",
       "#title": "now.comNews",
       "active": false
