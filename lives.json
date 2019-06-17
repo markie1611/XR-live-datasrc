@@ -9,9 +9,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/337730420456960/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2270523083029578/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -21,9 +21,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/376581139636766/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/322307578703225/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -63,21 +63,21 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/2fIE3JSMX8s",
-      "#title": "三立新聞網SETN.com",
-      "active": true
-    },
-    {
-      "type": "youtube",
       "#id": "https://www.youtube.com/embed/KRdfY0FEoRI",
       "#title": "Ruptly",
       "active": true
     },
     {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/2fIE3JSMX8s",
+      "#title": "三立新聞網SETN.com",
+      "active": true
+    },
+    {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/616388602180035/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/2484614858439450/",
       "#title": "TMHK.ORG",
-      "active": false
+      "active": true
     },
     {
       "type": "yahoo",
