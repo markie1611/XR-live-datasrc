@@ -3,9 +3,9 @@
   "lives": [
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/462514090972690/",
+      "#id": "https://www.facebook.com/icablenews/videos/2280163128736973/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -15,9 +15,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/1460922927382712/",
+      "#id": "https://www.facebook.com/now.comNews/videos/395044097770770/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -71,7 +71,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/2fIE3JSMX8s",
       "#title": "三立新聞網SETN.com",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
