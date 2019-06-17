@@ -9,9 +9,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1071110653081707/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/687719445000854/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -29,7 +29,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/361386864562056/",
       "#title": "standnewshk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -60,6 +60,12 @@
       "#id": "https://www.youtube.com/embed/13Tr91aBK6E",
       "#title": "HKTheEpochTimes",
       "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/2317196591932658/ ",
+      "#title": "TMHK.ORG",
+      "active": true
     },
     {
       "type": "yahoo",
