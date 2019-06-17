@@ -9,9 +9,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2270523083029578/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2276242109294057/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -96,12 +96,6 @@
       "#id": "https://www.facebook.com/RTHKcityforum/videos/2056599964649453/",
       "#title": "RTHKcityforum",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/HOCCHOCC/videos/372169673435767/",
-      "#title": "HOCCHOCC",
-      "active": true
     }
   ]
 }
