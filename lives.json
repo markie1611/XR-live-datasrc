@@ -23,7 +23,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/376581139636766/",
       "#title": "hk.nextmedia",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -60,6 +60,12 @@
       "#id": "https://www.youtube.com/embed/13Tr91aBK6E",
       "#title": "HKTheEpochTimes",
       "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/2fIE3JSMX8s",
+      "#title": "三立新聞網SETN.com",
+      "active": true
     },
     {
       "type": "facebook",
