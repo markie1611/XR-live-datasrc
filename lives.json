@@ -17,7 +17,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/rthkPCA/videos/2210315525756316/",
       "#title": "rthkPCA",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -33,9 +33,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/377762982866791/",
+      "#id": "https://www.facebook.com/standnewshk/videos/1355024637983782/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -53,7 +53,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/354474691920451/",
       "#title": "onccnews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
