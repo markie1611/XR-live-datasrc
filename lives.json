@@ -9,9 +9,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/695509544205328",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/366620793989115/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2304964262950012/",
+      "#title": "RTHKVNEWS-2",
+      "active": true
     },
     {
       "type": "facebook",
@@ -27,9 +33,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/618764358633140/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2250880068558955/",
       "#title": "hk.nextmedia",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -81,7 +87,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/2484614858439450/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/2481926701853198/",
       "#title": "TMHK.ORG",
       "active": false
     },
