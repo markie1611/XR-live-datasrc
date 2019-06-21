@@ -21,9 +21,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/441700159958792/",
+      "#id": "https://www.facebook.com/now.comNews/videos/2214757628836884/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -57,9 +57,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/467118667436650/",
+      "#id": "https://www.facebook.com/onccnews/videos/490783488331863/",
       "#title": "onccnews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
