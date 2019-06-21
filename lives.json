@@ -47,7 +47,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/687470738340834/",
       "#title": "standnewshk-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -83,6 +83,12 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/2fIE3JSMX8s",
       "#title": "三立新聞網SETN.com",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/830NyAVy8N8",
+      "#title": "freedomchina2018",
       "active": false
     },
     {
