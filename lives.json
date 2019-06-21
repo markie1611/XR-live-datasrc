@@ -3,9 +3,9 @@
   "lives": [
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/1389013357906269/",
+      "#id": "https://www.facebook.com/icablenews/videos/481274352669859/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -23,13 +23,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/rthkPCA/videos/315816022706518/",
       "#title": "rthkPCA",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/1162179193962082/",
+      "#id": "https://www.facebook.com/now.comNews/videos/441700159958792/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -89,7 +89,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/QGXP_q5MyV4",
       "#title": "NTDCHINESE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
