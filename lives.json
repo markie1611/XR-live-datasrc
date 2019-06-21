@@ -53,7 +53,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/405366720060760/",
       "#title": "socrec",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -84,6 +84,12 @@
       "#id": "https://www.youtube.com/embed/2fIE3JSMX8s",
       "#title": "三立新聞網SETN.com",
       "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/QGXP_q5MyV4",
+      "#title": "NTDCHINESE",
+      "active": true
     },
     {
       "type": "facebook",
