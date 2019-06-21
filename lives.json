@@ -11,7 +11,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/444557129455961/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -41,7 +41,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/410323266362443/",
       "#title": "inmediahk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -53,7 +53,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/467118667436650/",
       "#title": "onccnews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -83,13 +83,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/rthkPCA/videos/315816022706518/",
       "#title": "rthkPCA",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/QGXP_q5MyV4",
       "#title": "NTDCHINESE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
