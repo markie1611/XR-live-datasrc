@@ -81,9 +81,9 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/2fIE3JSMX8s",
+      "#id": "https://www.youtube.com/embed/ZudVkj8SePc",
       "#title": "三立新聞網SETN.com",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
