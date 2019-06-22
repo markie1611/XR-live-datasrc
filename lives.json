@@ -2,6 +2,12 @@
   "visibleCount": 4,
   "lives": [
     {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Zd0c19QvyZM",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/337582430256676/",
       "#title": "icablenews",
