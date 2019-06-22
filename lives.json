@@ -3,7 +3,7 @@
   "lives": [
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Zd0c19QvyZM",
+      "#id": "https://www.youtube.com/embed/Zd0c19QvyZM?autoplay=1&loop=1&playlist=Zd0c19QvyZM",
       "#title": "OFFLINE",
       "active": true
     },
