@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Zd0c19QvyZM?autoplay=1&loop=1&playlist=Zd0c19QvyZM",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -84,7 +84,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/447504725983426/",
       "#title": "TMHK.ORG",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
