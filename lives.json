@@ -11,7 +11,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/339228886749330/",
       "#title": "icablenews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -94,9 +94,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/490783488331863/",
+      "#id": "https://www.facebook.com/onccnews/videos/378801679440181/",
       "#title": "onccnews",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
