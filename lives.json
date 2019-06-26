@@ -9,15 +9,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/605025230022030/",
+      "#id": "https://www.facebook.com/icablenews/videos/635671310282264/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/346207016056813/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/630541164125608/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
