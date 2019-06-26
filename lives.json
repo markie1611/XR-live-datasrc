@@ -33,9 +33,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/453570758524346/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/409687089632887/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -45,7 +45,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/337728970451388/",
+      "#id": "https://www.facebook.com/standnewshk/videos/694428944321796/",
       "#title": "standnewshk",
       "active": true
     },
@@ -93,9 +93,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/471433913618706/",
+      "#id": "https://www.facebook.com/onccnews/videos/333294414259661/",
       "#title": "onccnews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
