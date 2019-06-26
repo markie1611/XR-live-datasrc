@@ -27,9 +27,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/2214757628836884/",
+      "#id": "https://www.facebook.com/now.comNews/videos/443021666278762/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -81,21 +81,21 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/684193595338586/",
-      "#title": "TMHK.ORG",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/411693046222451/",
       "#title": "HK01",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/378801679440181/",
+      "#id": "https://www.facebook.com/onccnews/videos/471433913618706/",
       "#title": "onccnews",
-      "active": false
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/684193595338586/",
+      "#title": "TMHK.ORG",
+      "active": true
     },
     {
       "type": "facebook",
