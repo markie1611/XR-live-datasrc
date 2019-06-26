@@ -47,7 +47,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/309297863283240",
       "#title": "standnewshk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -117,9 +117,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/rthkPCA/videos/412541372673090/",
+      "#id": "https://www.facebook.com/rthkPCA/videos/638133636691242/",
       "#title": "rthkPCA",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
