@@ -93,6 +93,12 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/hk01.news/videos/2388131961467596/",
+      "#title": "HK01-2",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/333294414259661/",
       "#title": "onccnews",
       "active": false
@@ -101,6 +107,12 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/2484481091809353/",
       "#title": "TMHK.ORG",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/496763447732407/",
+      "#title": "TMHK.ORG-2",
       "active": true
     },
     {
