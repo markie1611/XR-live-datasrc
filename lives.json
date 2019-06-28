@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=UUKnyEeutNfjo7khaI78jdew",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -15,9 +15,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/369008093816200/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/622142024951542/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
