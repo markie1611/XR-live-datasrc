@@ -140,6 +140,12 @@
       "active": false
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
+      "#title": "scmp",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/QGXP_q5MyV4",
       "#title": "NTDCHINESE",
