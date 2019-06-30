@@ -69,9 +69,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/321803785389540/",
+      "#id": "https://www.facebook.com/inmediahk/videos/869971620050003/",
       "#title": "inmediahk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -105,9 +105,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/333294414259661/",
+      "#id": "https://www.facebook.com/onccnews/videos/1108138026061270/",
       "#title": "onccnews",
-      "active": false
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/OqwAXNgs3eE",
+      "#title": "China Uncensored",
+      "active": true
     },
     {
       "type": "facebook",
@@ -156,12 +162,6 @@
       "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
       "#title": "scmp",
       "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/OqwAXNgs3eE",
-      "#title": "China Uncensored",
-      "active": true
     },
     {
       "type": "youtube",
