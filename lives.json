@@ -59,7 +59,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/359249061440021/",
       "#title": "standnewshk-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -171,9 +171,9 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/5yOchfc6o8g",
+      "#id": "https://www.youtube.com/embed/DovI_E48jo4",
       "#title": "HKTheEpochTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
