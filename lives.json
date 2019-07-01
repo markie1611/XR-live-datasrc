@@ -99,12 +99,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/429369737914225/",
-      "#title": "socrec",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/490040748230352/",
       "#title": "HK01",
       "active": false
@@ -149,6 +143,12 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/496763447732407/",
       "#title": "TMHK.ORG-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/socrec/videos/442291563272035/",
+      "#title": "socrec",
       "active": false
     },
     {
