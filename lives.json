@@ -9,52 +9,57 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/2333876090208560/",
+      "#id": "https://www.facebook.com/icablenews/videos/2224469614315626/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1813326712146700",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/447816789387576/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/365823714136060/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/398673480990300/",
       "#title": "RTHKVNEWS-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/691117718027078/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2322294114503477/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
-    
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/2377999729088180/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2296338913951065/",
+      "#title": "hk.nextmedia-2",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/331012481153584/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2280994748817432/",
+      "#id": "https://www.facebook.com/standnewshk/videos/346726759557683/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/424147304847688/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2858420010899844/",
       "#title": "standnewshk-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/425874978000945/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2138266369803771/",
       "#title": "standnewshk-3",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -70,9 +75,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/912986272375804/",
+      "#id": "https://www.facebook.com/inmediahk/videos/430900794173040/",
       "#title": "inmediahk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -106,9 +111,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/468930630562549/",
+      "#id": "https://www.facebook.com/hk01.news/videos/490040748230352/",
       "#title": "HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -120,6 +125,12 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/1108138026061270/",
       "#title": "onccnews",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/onccnews/videos/436494280464066/",
+      "#title": "onccnews-2",
       "active": true
     },
     {
@@ -148,9 +159,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/661259280986907/",
+      "#id": "https://www.facebook.com/passiontimes/videos/349454635722558/",
       "#title": "passiontimes",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -175,6 +186,12 @@
       "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
       "#title": "scmp",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/mingpaoinews/videos/2340384052850275/",
+      "#title": "mingpaoinews",
+      "active": true
     },
     {
       "type": "youtube",
