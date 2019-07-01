@@ -117,7 +117,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/1550576728410861/",
+      "#id": "https://www.facebook.com/passiontimes/videos/680890939002631/",
       "#title": "passiontimes",
       "active": true
     },
@@ -129,9 +129,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/378778022774109/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/317978532421490/",
       "#title": "atvhongkong",
-      "active": false
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/ABCNews/videos/414639495801280/",
+      "#title": "ABCNews",
+      "active": true
     },
     {
       "type": "facebook",
