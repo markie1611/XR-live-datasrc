@@ -71,7 +71,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/861851924196797/",
       "#title": "standnewshk-4",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -239,7 +239,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/YmCahpLkLUk",
       "#title": "Ruptly",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
