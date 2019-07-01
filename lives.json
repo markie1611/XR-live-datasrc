@@ -195,8 +195,14 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/7umyDFh3EJI",
-      "#title": "NTDCHINESE",
+      "#id": "https://www.youtube.com/embed/kKiNMWBTnzs",
+      "#title": "GuardianNews",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/4TczrAqv0yk",
+      "#title": "RT",
       "active": true
     },
     {
