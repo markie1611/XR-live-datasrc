@@ -93,12 +93,6 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/13Tr91aBK6E",
-      "#title": "HKTheEpochTimes",
-      "active": false
-    },
-    {
-      "type": "youtube",
       "#id": "https://www.youtube.com/embed/KRdfY0FEoRI",
       "#title": "Ruptly",
       "active": false
@@ -171,8 +165,8 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/29_YMzyFbF4",
-      "#title": "tvbs",
+      "#id": "https://www.youtube.com/embed/5yOchfc6o8g",
+      "#title": "HKTheEpochTimes",
       "active": true
     },
     {
@@ -209,6 +203,12 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/ixNClY6OeMY",
       "#title": "台灣大紀元時報",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/29_YMzyFbF4",
+      "#title": "tvbs",
       "active": true
     },
     {
