@@ -36,7 +36,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/2377999729088180/",
       "#title": "now.comNews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -46,9 +46,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2728923003789885/",
+      "#id": "https://www.facebook.com/standnewshk/videos/385057242216053/",
       "#title": "standnewshk-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
