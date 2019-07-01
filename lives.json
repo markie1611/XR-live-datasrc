@@ -92,12 +92,6 @@
       "active": false
     },
     {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/KRdfY0FEoRI",
-      "#title": "Ruptly",
-      "active": false
-    },
-    {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/490040748230352/",
       "#title": "HK01",
@@ -209,6 +203,18 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/ixNClY6OeMY",
       "#title": "台灣大紀元時報",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Sxos1A17lpg",
+      "#title": "Ruptly",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Zv9q6IPkPm8",
+      "#title": "Agenda-Free TV",
       "active": true
     },
     {
