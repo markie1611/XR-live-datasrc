@@ -27,12 +27,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/706213903131979/",
-      "#title": "now.comNews",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/691117718027078/",
       "#title": "hk.nextmedia",
       "active": true
@@ -65,6 +59,12 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/347072369311022/",
       "#title": "standnewshk-5",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/342879883313680/",
+      "#title": "now.comNews",
       "active": true
     },
     {
