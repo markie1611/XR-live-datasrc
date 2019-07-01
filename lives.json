@@ -33,7 +33,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/384564802413007/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/693974431034750/",
       "#title": "hk.nextmedia-2",
       "active": true
     },
@@ -117,9 +117,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/869630866723635/",
+      "#id": "https://www.facebook.com/passiontimes/videos/727832767672622/",
       "#title": "passiontimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
