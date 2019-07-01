@@ -66,7 +66,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/342879883313680/",
       "#title": "now.comNews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -138,7 +138,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/2291226114298986/",
       "#title": "TMHK.ORG",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
