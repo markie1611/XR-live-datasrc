@@ -143,7 +143,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/425873191475751/",
       "#title": "passiontimes",
-      "active": true
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/atvhongkong/videos/581749882350938/",
+      "#title": "atvhongkong",
+      "active": false
     },
     {
       "type": "facebook",
@@ -234,12 +240,6 @@
       "#id": "https://finance.yahoo.com/video/yahootv-612-085700502.html?format=embed",
       "#title": "yahootv",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/581749882350938/",
-      "#title": "atvhongkong",
-      "active": true
     },
     {
       "type": "facebook",
