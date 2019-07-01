@@ -154,6 +154,12 @@
     },
     {
       "type": "youtube",
+      "#id": "https://www.youtube.com/embed/AtFY8gcXUvg",
+      "#title": "TTVNEWS",
+      "active": true
+    },
+    {
+      "type": "youtube",
       "#id": "https://www.youtube.com/embed/ZudVkj8SePc",
       "#title": "三立新聞網SETN.com",
       "active": false
