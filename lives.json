@@ -165,12 +165,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/UPMEDIA.MG/videos/496718194468592/",
-      "#title": "UPMEDIA.MG-2",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/mingpaoinews/videos/1029797114077279/",
       "#title": "mingpaoinews",
       "active": false
