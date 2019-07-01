@@ -251,12 +251,18 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Zv9q6IPkPm8",
       "#title": "Agenda-Free TV",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/YmCahpLkLUk",
-      "#title": "Ruptly",
+      "#id": "https://www.youtube.com/embed/Zv9q6IPkPm8",
+      "#title": "Agenda-Free TV",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/LKtU2oINZeE",
+      "#title": "NBC",
       "active": true
     },
     {
