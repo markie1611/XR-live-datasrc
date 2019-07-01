@@ -123,9 +123,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/458859334892818/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/662730390805932/",
       "#title": "TMHK.ORG",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -161,7 +161,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/mingpaoinews/videos/465235247599200/",
       "#title": "mingpaoinews",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
