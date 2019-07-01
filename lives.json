@@ -201,9 +201,9 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/QGXP_q5MyV4",
+      "#id": "https://www.youtube.com/embed/7umyDFh3EJI",
       "#title": "NTDCHINESE",
-      "active": false
+      "active": true
     },
     {
       "type": "yahoo",
