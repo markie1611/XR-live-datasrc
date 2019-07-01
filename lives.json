@@ -135,12 +135,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/558734684654944/",
-      "#title": "socrec",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/2250040698641428/",
       "#title": "passiontimes",
       "active": true
@@ -197,6 +191,12 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/kKiNMWBTnzs",
       "#title": "GuardianNews",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/socrec/videos/558734684654944/",
+      "#title": "socrec",
       "active": true
     },
     {
