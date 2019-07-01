@@ -45,9 +45,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/357400154932787/",
+      "#id": "https://www.facebook.com/standnewshk/videos/406277083329579/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -207,14 +207,14 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Sxos1A17lpg",
-      "#title": "Ruptly",
+      "#id": "https://www.youtube.com/embed/Zv9q6IPkPm8",
+      "#title": "Agenda-Free TV",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Zv9q6IPkPm8",
-      "#title": "Agenda-Free TV",
+      "#id": "https://www.youtube.com/embed/Sxos1A17lpg",
+      "#title": "Ruptly",
       "active": true
     },
     {
