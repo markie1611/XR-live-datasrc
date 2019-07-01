@@ -237,6 +237,18 @@
     },
     {
       "type": "youtube",
+      "#id": "https://www.youtube.com/embed/YmCahpLkLUk",
+      "#title": "Ruptly",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/LKtU2oINZeE",
+      "#title": "NBC",
+      "active": true
+    },
+    {
+      "type": "youtube",
       "#id": "https://www.youtube.com/embed/7umyDFh3EJI",
       "#title": "NTDCHINESE",
       "active": true
@@ -252,18 +264,6 @@
       "#id": "https://www.youtube.com/embed/Zv9q6IPkPm8",
       "#title": "Agenda-Free TV",
       "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/YmCahpLkLUk",
-      "#title": "Ruptly",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/LKtU2oINZeE",
-      "#title": "NBC",
-      "active": true
     },
     {
       "type": "youtube",
