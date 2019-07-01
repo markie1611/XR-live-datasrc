@@ -153,9 +153,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/441258823388851/",
+      "#id": "https://www.facebook.com/passiontimes/videos/470582077032881/",
       "#title": "passiontimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -209,7 +209,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/29_YMzyFbF4",
       "#title": "tvbs",
-      "active": true
+      "active": false
     },
     {
       "type": "yahoo",
