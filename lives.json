@@ -27,14 +27,8 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/509799579788837/",
-      "#title": "hk.nextmedia-2",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/384564802413007/",
-      "#title": "hk.nextmedia-3",
+      "#title": "hk.nextmedia-2",
       "active": true
     },
     {
