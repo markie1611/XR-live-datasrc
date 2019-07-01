@@ -93,6 +93,12 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/UPMEDIA.MG/videos/477460586353358/",
+      "#title": "UPMEDIA.MG",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/479481385959546/",
       "#title": "HK01",
       "active": true
@@ -132,12 +138,6 @@
       "#id": "https://www.facebook.com/TMHK.ORG/videos/496763447732407/",
       "#title": "TMHK.ORG-2",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/UPMEDIA.MG/videos/477460586353358/",
-      "#title": "UPMEDIA.MG",
-      "active": true
     },
     {
       "type": "facebook",
