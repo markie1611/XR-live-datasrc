@@ -123,6 +123,12 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/passiontimes/videos/435766073930847/",
+      "#title": "passiontimes-2",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/atvhongkong/videos/378778022774109/",
       "#title": "atvhongkong",
       "active": false
