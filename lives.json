@@ -167,7 +167,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/pQeeo6ZqMds",
       "#title": "三立新聞網SETN.com",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -203,6 +203,12 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/4TczrAqv0yk",
       "#title": "RT",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/7umyDFh3EJI",
+      "#title": "NTDCHINESE",
       "active": true
     },
     {
