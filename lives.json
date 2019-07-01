@@ -3,30 +3,6 @@
   "lives": [
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/474981309917145/",
-      "#title": "standnewshk",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2728923003789885/",
-      "#title": "standnewshk-2",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2449208248477107/",
-      "#title": "standnewshk-3",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2124003701230774/",
-      "#title": "standnewshk-4",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/347072369311022/",
       "#title": "standnewshk-5",
       "active": false
@@ -67,6 +43,30 @@
       "#id": "https://www.facebook.com/now.comNews/videos/342879883313680/",
       "#title": "now.comNews",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/474981309917145/",
+      "#title": "standnewshk",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/2728923003789885/",
+      "#title": "standnewshk-2",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/2449208248477107/",
+      "#title": "standnewshk-3",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/2124003701230774/",
+      "#title": "standnewshk-4",
+      "active": true
     },
     {
       "type": "facebook",
