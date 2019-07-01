@@ -131,7 +131,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/436494280464066/",
       "#title": "onccnews-2",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -149,7 +149,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/458859334892818/",
       "#title": "TMHK.ORG",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
