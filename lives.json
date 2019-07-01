@@ -158,6 +158,12 @@
       "active": true
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/mingpaoinews/videos/1029797114077279/",
+      "#title": "mingpaoinews",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/pQeeo6ZqMds",
       "#title": "三立新聞網SETN.com",
@@ -185,12 +191,6 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
       "#title": "scmp",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/mingpaoinews/videos/2340384052850275/",
-      "#title": "mingpaoinews",
       "active": false
     },
     {
