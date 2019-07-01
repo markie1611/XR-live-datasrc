@@ -29,7 +29,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/402262060379216/",
       "#title": "hk.nextmedia",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -185,13 +185,13 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/wzwKEM4tBtQ",
       "#title": "WashingtonPost",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/LKtU2oINZeE",
       "#title": "NBC",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
