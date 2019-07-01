@@ -183,6 +183,12 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/662730390805932/",
+      "#title": "TMHK.ORG",
+      "active": false
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/558734684654944/",
       "#title": "socrec",
       "active": true
@@ -197,12 +203,6 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/4TczrAqv0yk",
       "#title": "RT",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/662730390805932/",
-      "#title": "TMHK.ORG",
       "active": true
     },
     {
