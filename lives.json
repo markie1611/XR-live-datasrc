@@ -161,7 +161,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/DovI_E48jo4",
       "#title": "HKTheEpochTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -180,6 +180,18 @@
       "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
       "#title": "scmp",
       "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/wzwKEM4tBtQ",
+      "#title": "WashingtonPost",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/LKtU2oINZeE",
+      "#title": "NBC",
+      "active": true
     },
     {
       "type": "youtube",
@@ -228,18 +240,6 @@
       "#id": "https://www.youtube.com/embed/YmCahpLkLUk",
       "#title": "Ruptly",
       "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/LKtU2oINZeE",
-      "#title": "NBC",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/wzwKEM4tBtQ",
-      "#title": "WashingtonPost",
-      "active": true
     },
     {
       "type": "youtube",
