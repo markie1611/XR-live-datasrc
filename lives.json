@@ -195,9 +195,15 @@
     },
     {
       "type": "youtube",
+      "#id": "https://www.youtube.com/embed/JDcFeHx3ri8",
+      "#title": "Global News",
+      "active": true
+    },
+    {
+      "type": "youtube",
       "#id": "https://www.youtube.com/embed/kKiNMWBTnzs",
       "#title": "GuardianNews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
