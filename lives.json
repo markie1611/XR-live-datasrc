@@ -59,7 +59,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/347072369311022/",
       "#title": "standnewshk-5",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -77,7 +77,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/2254552128191420/",
       "#title": "inmediahk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -125,13 +125,13 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/OqwAXNgs3eE",
       "#title": "China Uncensored",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/atvhongkong/videos/2145191289104102/",
       "#title": "atvhongkong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
