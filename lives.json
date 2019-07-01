@@ -137,7 +137,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/2329770860684162/",
       "#title": "passiontimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -149,7 +149,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/atvhongkong/videos/317978532421490/",
       "#title": "atvhongkong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
