@@ -123,12 +123,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/581749882350938/",
-      "#title": "atvhongkong",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/458859334892818/",
       "#title": "TMHK.ORG",
       "active": false
@@ -240,6 +234,12 @@
       "#id": "https://finance.yahoo.com/video/yahootv-612-085700502.html?format=embed",
       "#title": "yahootv",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/atvhongkong/videos/581749882350938/",
+      "#title": "atvhongkong",
+      "active": true
     },
     {
       "type": "facebook",
