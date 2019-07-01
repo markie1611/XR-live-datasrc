@@ -21,9 +21,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/2322294114503477/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/402262060379216/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -108,6 +108,12 @@
       "#id": "https://www.facebook.com/hk01.news/videos/2388131961467596/",
       "#title": "HK01-2",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/icablenews/videos/387592011863908/",
+      "#title": "icablenews-2",
+      "active": true
     },
     {
       "type": "facebook",
