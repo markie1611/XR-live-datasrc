@@ -39,15 +39,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/2087688258002843/",
+      "#id": "https://www.facebook.com/now.comNews/videos/633512933816658/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/431887174328321/",
+      "#id": "https://www.facebook.com/standnewshk/videos/423875668341068/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
