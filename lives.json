@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -270,6 +270,12 @@
       "#id": "https://finance.yahoo.com/video/yahootv-612-085700502.html?format=embed",
       "#title": "yahootv",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/CivilHumanRightsFront/videos/561905774342746/",
+      "#title": "CivilHumanRightsFront",
+      "active": true
     },
     {
       "type": "facebook",
