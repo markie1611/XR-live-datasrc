@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -15,9 +15,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1016354865226329/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2929311767141395/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -39,15 +39,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/421633268434658/",
+      "#id": "https://www.facebook.com/now.comNews/videos/906726909675271/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1527745857367692/",
+      "#id": "https://www.facebook.com/now.comNews/videos/906726909675271/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -159,9 +159,9 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/DovI_E48jo4",
+      "#id": "https://www.youtube.com/embed/ARkwjvWdZRE",
       "#title": "HKTheEpochTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
