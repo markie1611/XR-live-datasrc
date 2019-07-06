@@ -29,13 +29,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/637343466756787/",
       "#title": "hk.nextmedia",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/370009116989855/",
       "#title": "hk.nextmedia-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -107,7 +107,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/381395159045299/",
       "#title": "onccnews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
