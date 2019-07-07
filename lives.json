@@ -21,6 +21,12 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/rthkPCA/videos/443348456216230/",
+      "#title": "RTHK-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/3372903266068549/",
       "#title": "hk.nextmedia",
       "active": true
@@ -71,12 +77,6 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/2063336693972306/",
       "#title": "inmediahk-2",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/rthkPCA/videos/443348456216230/",
-      "#title": "RTHK-2",
       "active": true
     },
     {
@@ -231,9 +231,9 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/YmCahpLkLUk",
+      "#id": "https://www.youtube.com/embed/HjWbm_tZUME",
       "#title": "Ruptly",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
