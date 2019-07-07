@@ -116,6 +116,12 @@
       "active": false
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/mingpaoinews/videos/2333599916717112/",
+      "#title": "mingpaoinews",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/OqwAXNgs3eE",
       "#title": "China Uncensored",
@@ -131,12 +137,6 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/ABCNews/videos/414639495801280/",
       "#title": "ABCNews",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/mingpaoinews/videos/465235247599200/",
-      "#title": "mingpaoinews",
       "active": false
     },
     {
