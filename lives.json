@@ -221,7 +221,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/2402852119990463/",
       "#title": "passiontimes-2",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
