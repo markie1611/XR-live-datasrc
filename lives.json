@@ -15,9 +15,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/rthkPCA/videos/454723711771473/",
+      "#id": "https://www.facebook.com/rthkPCA/videos/2353157101618857/",
       "#title": "RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -69,9 +69,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/346378192696034/",
+      "#id": "https://www.facebook.com/inmediahk/videos/1404108173047035/",
       "#title": "inmediahk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
