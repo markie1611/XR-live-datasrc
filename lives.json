@@ -16,14 +16,14 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/693203657794561/?notif_id=1562323448406215&notif_t=live_video_explicit",
-      "#title": "RTHKVNEWS",
+      "#title": "RTHK",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/696954364099843/",
-      "#title": "RTHKVNEWS-2",
-      "active": false
+      "#id": "https://www.facebook.com/rthkPCA/videos/443348456216230/",
+      "#title": "RTHK-2",
+      "active": true
     },
     {
       "type": "facebook",
@@ -155,12 +155,6 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/830NyAVy8N8",
       "#title": "freedomchina2018",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/rthkPCA/videos/2503166976577773/",
-      "#title": "rthkPCA",
       "active": false
     },
     {
