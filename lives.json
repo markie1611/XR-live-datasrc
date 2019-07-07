@@ -77,7 +77,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/969695593422687/",
       "#title": "inmediahk-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -137,24 +137,6 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/ABCNews/videos/414639495801280/",
       "#title": "ABCNews",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/pQeeo6ZqMds",
-      "#title": "三立新聞網SETN.com",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/E7p_yURgFFU",
-      "#title": "HKTheEpochTimes",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/830NyAVy8N8",
-      "#title": "freedomchina2018",
       "active": false
     },
     {
@@ -225,9 +207,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/719257598532883/",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2508559405890221/",
       "#title": "MichaelYonFanPage",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
