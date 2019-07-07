@@ -47,13 +47,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/2449396358616480",
       "#title": "standnewshk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/2564894996878139",
       "#title": "standnewshk-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -209,13 +209,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/2837082812985156/",
       "#title": "socrec-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/464482357698985/",
       "#title": "passiontimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -227,7 +227,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/719257598532883/",
       "#title": "MichaelYonFanPage",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
