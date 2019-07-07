@@ -171,18 +171,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/352433488770056/",
-      "#title": "TMHK.ORG",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/496763447732407/",
-      "#title": "TMHK.ORG-2",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/2334717520124272/",
       "#title": "socrec",
       "active": false
@@ -203,6 +191,18 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/1305215289638828/",
       "#title": "passiontimes-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/2344891522238509/",
+      "#title": "TMHK.ORG",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/496763447732407/",
+      "#title": "TMHK.ORG-2",
       "active": false
     },
     {
@@ -227,7 +227,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/RTnews/videos/844598745918948/",
       "#title": "RT-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
