@@ -173,7 +173,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/352433488770056/",
       "#title": "TMHK.ORG",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -209,7 +209,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2508559405890221/",
       "#title": "MichaelYonFanPage",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
