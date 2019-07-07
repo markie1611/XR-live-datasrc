@@ -197,7 +197,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/323968278510917/",
       "#title": "passiontimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -222,6 +222,18 @@
       "#id": "https://www.youtube.com/embed/O7SRDXoZLBg",
       "#title": "RT",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTnews/videos/844598745918948/",
+      "#title": "RT-2",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hongkongfp/videos/346812339333927/",
+      "#title": "hongkongfp",
+      "active": true
     },
     {
       "type": "youtube",
