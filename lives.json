@@ -236,6 +236,12 @@
       "active": true
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/ABC7/videos/2454896098064978/",
+      "#title": "ABC7",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/f8lmRaKWc10",
       "#title": "HKTheEpochTimes",
