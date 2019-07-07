@@ -224,6 +224,12 @@
       "active": false
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/719257598532883/",
+      "#title": "MichaelYonFanPage",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/4TczrAqv0yk",
       "#title": "RT",
