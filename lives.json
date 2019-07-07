@@ -33,9 +33,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/906726909675271/",
+      "#id": "https://www.facebook.com/now.comNews/videos/314409222611001/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -119,7 +119,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/mingpaoinews/videos/2336704789933613/",
       "#title": "mingpaoinews",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -207,9 +207,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/845502285812067/",
+      "#id": "https://www.facebook.com/socrec/videos/2837082812985156/",
       "#title": "socrec-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -219,7 +219,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/1278403879001031/",
+      "#id": "https://www.facebook.com/passiontimes/videos/2237002316550405/",
       "#title": "passiontimes-2",
       "active": false
     },
