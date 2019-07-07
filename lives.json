@@ -71,7 +71,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/1404108173047035/",
       "#title": "inmediahk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -215,7 +215,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/e0t62lzJ6-8",
       "#title": "euronews",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
