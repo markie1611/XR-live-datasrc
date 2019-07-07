@@ -71,7 +71,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/361267617919354/",
       "#title": "inmediahk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -197,25 +197,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/1106254752894013/",
       "#title": "passiontimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/2402852119990463/",
       "#title": "passiontimes-2",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2508559405890221/",
-      "#title": "MichaelYonFanPage",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/O7SRDXoZLBg",
-      "#title": "RT",
-      "active": true
     },
     {
       "type": "youtube",
@@ -225,20 +213,14 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/7umyDFh3EJI",
-      "#title": "NTDCHINESE",
-      "active": false
+      "#id": "https://www.youtube.com/embed/e0t62lzJ6-8",
+      "#title": "euronews",
+      "active": true
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/ixNClY6OeMY",
-      "#title": "台灣大紀元時報",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Zv9q6IPkPm8",
-      "#title": "Agenda-Free TV",
+      "#id": "https://www.youtube.com/embed/O7SRDXoZLBg",
+      "#title": "RT",
       "active": false
     },
     {
