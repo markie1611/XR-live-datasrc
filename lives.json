@@ -285,12 +285,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/nokhinau/videos/1564117900384944/",
-      "#title": "nokhinau",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/cuspcusp/videos/379670842686867/",
       "#title": "cuspcusp",
       "active": false
