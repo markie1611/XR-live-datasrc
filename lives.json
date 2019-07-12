@@ -288,6 +288,12 @@
       "#id": "https://www.facebook.com/cuspcusp/videos/379670842686867/",
       "#title": "cuspcusp",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hkucampustv/videos/1187304751441145/",
+      "#title": "hkucampustv",
+      "active": true
     }
   ]
 }
