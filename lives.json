@@ -5,19 +5,19 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/icablenews/videos/2770375356584977/",
+      "#title": "icablenews",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/350563125612549/",
-      "#title": "icablenews",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2420472284682996/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1667850813359855/",
       "#title": "RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -27,9 +27,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/applecitycrime/videos/351740465504552/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/716107618833046/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -45,9 +45,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/647367085729317/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2445602549050353/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -69,9 +69,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/482835739221959/",
+      "#id": "https://www.facebook.com/inmediahk/videos/2334203810226270/",
       "#title": "inmediahk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -93,9 +93,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/459549998175022/",
+      "#id": "https://www.facebook.com/hk01.news/videos/2357303851158928/",
       "#title": "HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
