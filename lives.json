@@ -294,6 +294,12 @@
       "#id": "https://www.facebook.com/hkucampustv/videos/1187304751441145/",
       "#title": "hkucampustv",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/maddog.hk/videos/1079001465823306/",
+      "#title": "maddog",
+      "active": true
     }
   ]
 }
