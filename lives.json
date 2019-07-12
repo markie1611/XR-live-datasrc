@@ -291,15 +291,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hkucampustv/videos/1187304751441145/",
+      "#id": "https://www.facebook.com/hkucampustv/videos/351107225584575/",
       "#title": "hkucampustv",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/2302059590108974/",
-      "#title": "maddog",
-      "active": false
+      "#id": "https://www.facebook.com/undergradnews/videos/1295932430559952/",
+      "#title": "undergradnews",
+      "active": true
     }
   ]
 }
