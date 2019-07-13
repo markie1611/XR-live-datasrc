@@ -9,13 +9,13 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/2249655912011682/",
+      "#id": "https://www.facebook.com/icablenews/videos/451074802395879/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2385346068417659/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2350407565223686/",
       "#title": "RTHK",
       "active": true
     },
@@ -39,9 +39,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/873724816318029/",
+      "#id": "https://www.facebook.com/now.comNews/videos/319925718887803/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -51,25 +51,25 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2357238691201476/",
+      "#id": "https://www.facebook.com/standnewshk/videos/895187970845214/",
       "#title": "standnewshk-2",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/691497671302806/",
+      "#id": "https://www.facebook.com/standnewshk/videos/1113451838840462/",
       "#title": "standnewshk-3",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/861851924196797/",
+      "#id": "https://www.facebook.com/standnewshk/videos/466971047465053/",
       "#title": "standnewshk-4",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/358831044780963/",
+      "#id": "https://www.facebook.com/inmediahk/videos/821591998236743/",
       "#title": "inmediahk",
       "active": true
     },
@@ -279,9 +279,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/680985635745903/",
+      "#id": "https://www.facebook.com/am730hk/videos/2915408885199022/",
       "#title": "am730hk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
