@@ -224,11 +224,17 @@
       "active": false
     },
     {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/OiZxdhNH1xg",
+      "#title": "News Update Live",
+      "active": true
+    },
+    {
       "type": "facebook",
       "#id": "https://www.facebook.com/RTnews/videos/844598745918948/",
       "#title": "RT-2",
       "active": false
-    },
+    },  
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hongkongfp/videos/2412508842364650/",
