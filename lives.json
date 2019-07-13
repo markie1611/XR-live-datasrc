@@ -15,9 +15,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2280347078897433/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2385346068417659/",
       "#title": "RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -27,9 +27,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/871859069842208/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2043361732437082/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -45,7 +45,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1125521874306742/",
+      "#id": "https://www.facebook.com/standnewshk/videos/479437076144655/",
       "#title": "standnewshk",
       "active": true
     },
@@ -93,9 +93,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/901442436876055/",
+      "#id": "https://www.facebook.com/hk01.news/videos/2432746586957645/",
       "#title": "HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -105,9 +105,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/387168171927816/",
+      "#id": "https://www.facebook.com/onccnews/videos/2282232815178661/",
       "#title": "onccnews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
