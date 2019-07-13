@@ -11,7 +11,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/569386273598395",
       "#title": "icablenews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -83,7 +83,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hongkongfp/videos/1258371114337738/",
       "#title": "hongkongfp",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
