@@ -339,9 +339,21 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/cuhkcampusradio/videos/418139145454213/",
+      "#title": "cuhkcampusradio",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/undergradnews/videos/1295932430559952/",
       "#title": "undergradnews",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/161014811328873/videos/450334498885679/",
+      "#title": "鄺俊宇",
+      "active": true
     }
   ]
 }
