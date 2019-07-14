@@ -71,7 +71,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/theinitium/videos/452339405347035/",
       "#title": "theinitium",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -177,9 +177,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/2469191506478297/",
+      "#id": "https://www.facebook.com/passiontimes/videos/480668449166574/",
       "#title": "passiontimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
