@@ -141,9 +141,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/508549609685546/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/685742121886733/",
       "#title": "atvhongkong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -257,7 +257,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/8B4tdguEnlc",
       "#title": "TheEpochTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
