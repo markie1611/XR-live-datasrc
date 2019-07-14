@@ -83,7 +83,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/494819967934167/",
       "#title": "inmediahk-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -117,9 +117,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/358306381522538/",
+      "#id": "https://www.facebook.com/hk01.news/videos/2049805911982927/",
       "#title": "HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
