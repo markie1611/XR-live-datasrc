@@ -71,7 +71,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/627430307752917/",
       "#title": "inmediahk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -191,7 +191,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/340240363569004",
       "#title": "socrec-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
