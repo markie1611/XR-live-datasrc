@@ -177,9 +177,9 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/kKiNMWBTnzs",
+      "#id": "https://www.youtube.com/embed/VmNIJWcfKyk",
       "#title": "GuardianNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -249,9 +249,9 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/AKo2vaFW8Wo",
+      "#id": "https://www.youtube.com/embed/6Gc0VphTN4g",
       "#title": "post852",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
