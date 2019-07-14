@@ -69,6 +69,12 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/1167351586806787/",
+      "#title": "standnewshk-5",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/theinitium/videos/452339405347035/",
       "#title": "theinitium",
       "active": false
@@ -179,7 +185,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/480668449166574/",
       "#title": "passiontimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -227,13 +233,13 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/B73wwYI4Luc",
       "#title": "Ruptly",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/VmNIJWcfKyk",
       "#title": "GuardianNews",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -269,7 +275,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/42JT0we8BYY",
       "#title": "TheEpochTimes-2",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
