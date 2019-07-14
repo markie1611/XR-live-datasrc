@@ -65,7 +65,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/700452740393989/",
       "#title": "standnewshk-4",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -177,9 +177,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/1182075451964858/",
+      "#id": "https://www.facebook.com/passiontimes/videos/684169592010462/",
       "#title": "passiontimes-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
