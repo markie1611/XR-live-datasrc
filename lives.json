@@ -63,9 +63,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/467492187362582/",
+      "#id": "https://www.facebook.com/standnewshk/videos/700452740393989/",
       "#title": "standnewshk-4",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -179,7 +179,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/634549673723994/",
       "#title": "passiontimes-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -192,6 +192,12 @@
       "#id": "https://www.facebook.com/TMHK.ORG/videos/496763447732407/",
       "#title": "TMHK.ORG-2",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/376552872550155/videos/2804312792931043/",
+      "#title": "米報 Rice Post",
+      "active": true
     },
     {
       "type": "youtube",
