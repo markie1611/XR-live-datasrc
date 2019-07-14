@@ -249,9 +249,15 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/f8lmRaKWc10",
-      "#title": "HKTheEpochTimes",
-      "active": false
+      "#id": "https://www.youtube.com/embed/8B4tdguEnlc",
+      "#title": "TheEpochTimes",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/42JT0we8BYY",
+      "#title": "TheEpochTimes-2",
+      "active": true
     },
     {
       "type": "youtube",
