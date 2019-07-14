@@ -59,7 +59,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/2500596856637575/",
       "#title": "standnewshk-3",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -131,7 +131,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/361878261177819/",
       "#title": "onccnews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
