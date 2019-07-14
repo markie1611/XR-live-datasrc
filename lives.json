@@ -9,9 +9,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/569386273598395",
+      "#id": "https://www.facebook.com/icablenews/videos/375630876664037/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -201,9 +201,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/445701422936303/",
+      "#id": "https://www.facebook.com/passiontimes/videos/487952068633053/",
       "#title": "passiontimes-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
