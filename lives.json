@@ -17,7 +17,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/670467260127522/",
       "#title": "RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -281,7 +281,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/am730hk/videos/653347251836492/",
       "#title": "am730hk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
