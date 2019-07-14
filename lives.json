@@ -71,7 +71,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/370453283612924/",
       "#title": "inmediahk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -197,7 +197,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/376552872550155/videos/2804312792931043/",
       "#title": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
