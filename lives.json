@@ -9,21 +9,21 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/455507095181893/",
+      "#id": "https://www.facebook.com/icablenews/videos/2386189531661245/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/586946205466097",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1422414301267899/",
       "#title": "RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/670467260127522/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/388910482022889/",
       "#title": "RTHK-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
