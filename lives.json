@@ -27,9 +27,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/456200048512799/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/444283009457750/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -75,7 +75,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/892771141075156/",
+      "#id": "https://www.facebook.com/inmediahk/videos/2339573106254800/",
       "#title": "inmediahk",
       "active": true
     },
@@ -285,9 +285,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/demosisto/videos/1118329835042648/",
+      "#id": "https://www.facebook.com/joshuawongchifung/videos/637513073406031/",
       "#title": "demosisto",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
