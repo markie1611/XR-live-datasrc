@@ -342,6 +342,12 @@
       "#id": "https://www.facebook.com/undergradnews/videos/1295932430559952/",
       "#title": "undergradnews",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/maddog.hk/videos/500639170680272/",
+      "#title": "maddog.hk",
+      "active": true
     }
   ]
 }
