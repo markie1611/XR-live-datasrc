@@ -41,7 +41,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/498029174335689/",
       "#title": "now.comNews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -87,9 +87,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/987567364968004/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/704646916648758/",
       "#title": "hongkongfp",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
