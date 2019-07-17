@@ -89,7 +89,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hongkongfp/videos/704646916648758/",
       "#title": "hongkongfp",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -131,7 +131,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/356291725053897/",
       "#title": "onccnews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
