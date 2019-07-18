@@ -9,15 +9,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/2386189531661245/",
+      "#id": "https://www.facebook.com/icablenews/videos/2398270610256141/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/446122909453032/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2494083903991216/",
       "#title": "RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -33,9 +33,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/2249655912011682/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/1524331024370401/",
       "#title": "hk.nextmedia-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -53,7 +53,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/2547127105508452/",
       "#title": "standnewshk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -87,9 +87,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/704646916648758/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/367203943969905/",
       "#title": "hongkongfp",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -117,9 +117,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/348659062478996",
+      "#id": "https://www.facebook.com/hk01.news/videos/2324965091096342/",
       "#title": "HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -195,9 +195,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/2590978464269023/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/348452026089548/",
       "#title": "TMHK.ORG",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
