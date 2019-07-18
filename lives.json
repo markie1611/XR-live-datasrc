@@ -51,9 +51,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/341802360057697/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2547127105508452/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -197,7 +197,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/2590978464269023/",
       "#title": "TMHK.ORG",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
