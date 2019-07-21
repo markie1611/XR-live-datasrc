@@ -18,13 +18,7 @@
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/326052788273345/",
       "#title": "RTHK",
       "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/471247477011931/",
-      "#title": "RTHK-2",
-      "active": false
-    },
+    }
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/702389283554674/",
@@ -39,7 +33,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/909622622723938/",
+      "#id": "https://www.facebook.com/now.comNews/videos/391004308206440/",
       "#title": "now.comNews",
       "active": true
     },
@@ -48,6 +42,12 @@
       "#id": "https://www.facebook.com/icablenews/videos/2020452441392461/",
       "#title": "icablenews-2",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/642116389616311/",
+      "#title": "RTHK-2",
+      "active": true
     },
     {
       "type": "facebook",
@@ -257,7 +257,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/0lKDkB18jKk",
       "#title": "Ruptly",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -323,7 +323,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2357531994313873/",
       "#title": "MichaelYonFanPage",
-      "active": true
+      "active": false
     },
     {
       "type": "yahoo",
