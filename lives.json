@@ -53,7 +53,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/2342065876119624/",
       "#title": "standnewshk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -65,7 +65,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/1922813261152318/",
       "#title": "standnewshk-3",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -89,11 +89,11 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/1211213825753598/",
       "#title": "inmediahk-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/348632769386060/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/895755364135069/",
       "#title": "hongkongfp",
       "active": true
     },
@@ -213,9 +213,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/2274890192602605/",
+      "#id": "https://www.facebook.com/376552872550155/videos/2452280028126242/",
       "#title": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
