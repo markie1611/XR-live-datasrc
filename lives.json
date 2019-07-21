@@ -87,9 +87,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/2256251408018895/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/2461771033859225/",
       "#title": "hongkongfp",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -141,9 +141,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/mingpaoinews/videos/2439414622955379/",
+      "#id": "https://www.facebook.com/mingpaoinews/videos/2286025498378605/",
       "#title": "mingpaoinews",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
