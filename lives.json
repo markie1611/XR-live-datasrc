@@ -75,6 +75,12 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/655297038314005/",
+      "#title": "standnewshk-6",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/465670770894620/",
       "#title": "inmediahk",
       "active": false
