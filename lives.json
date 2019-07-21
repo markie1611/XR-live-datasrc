@@ -15,9 +15,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/711070706009752/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/358006341780545/",
       "#title": "RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -173,7 +173,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/691999107880545/",
       "#title": "socrec",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
