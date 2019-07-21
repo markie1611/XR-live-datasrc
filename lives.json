@@ -212,6 +212,12 @@
       "active": true
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/376552872550155/videos/2274890192602605/",
+      "#title": "米報 Rice Post-2",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/wzwKEM4tBtQ",
       "#title": "WashingtonPost",
