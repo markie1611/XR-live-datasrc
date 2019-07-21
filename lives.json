@@ -45,6 +45,12 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/icablenews/videos/2020452441392461/",
+      "#title": "icablenews-2",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/496334567836225/",
       "#title": "standnewshk",
       "active": true
