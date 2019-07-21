@@ -75,9 +75,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/2267884283267522/",
+      "#id": "https://www.facebook.com/inmediahk/videos/1972416432863035/",
       "#title": "inmediahk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -87,15 +87,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/367203943969905/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/2256251408018895/",
       "#title": "hongkongfp",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/505480190191896/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/1191895104268189/",
       "#title": "hongkongfp-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -209,7 +209,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/376552872550155/videos/396752204285286/",
       "#title": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -309,9 +309,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/653347251836492/",
+      "#id": "https://www.facebook.com/am730hk/videos/1067330086789284/",
       "#title": "am730hk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
