@@ -173,7 +173,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/2289949067771692/",
       "#title": "socrec",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -311,7 +311,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/am730hk/videos/1067330086789284/",
       "#title": "am730hk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
