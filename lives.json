@@ -237,15 +237,15 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/JDcFeHx3ri8",
+      "#id": "https://www.youtube.com/embed/l7VHf1aEq1Y",
       "#title": "Global News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/B73wwYI4Luc",
+      "#id": "https://www.youtube.com/embed/0lKDkB18jKk",
       "#title": "Ruptly",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
