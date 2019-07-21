@@ -213,7 +213,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/900780563608721/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/2251198865192855/",
       "#title": "TMHK.ORG",
       "active": true
     },
@@ -251,7 +251,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/l7VHf1aEq1Y",
       "#title": "Global News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
