@@ -137,13 +137,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/459541134842960/",
       "#title": "HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/2067068413595770",
       "#title": "HK01-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
