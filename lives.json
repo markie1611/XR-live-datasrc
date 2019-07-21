@@ -59,7 +59,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/326096111606104/",
       "#title": "standnewshk-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -143,7 +143,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/mingpaoinews/videos/2286025498378605/",
       "#title": "mingpaoinews",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
