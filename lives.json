@@ -248,6 +248,12 @@
       "active": false
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/457994375034552/",
+      "#title": "MichaelYonFanPage",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/l7VHf1aEq1Y",
       "#title": "Global News",
@@ -372,12 +378,6 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/500639170680272/",
       "#title": "maddog.hk",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/457994375034552/",
-      "#title": "MichaelYonFanPage",
-      "active": true
     }
   ]
 }
