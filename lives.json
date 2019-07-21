@@ -75,15 +75,21 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/2528243607227120/",
+      "#title": "standnewshk-5",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/465670770894620/",
       "#title": "inmediahk",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/2275324732778404/",
+      "#id": "https://www.facebook.com/inmediahk/videos/1211213825753598/",
       "#title": "inmediahk-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -215,7 +221,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/376552872550155/videos/2274890192602605/",
       "#title": "米報 Rice Post-2",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
