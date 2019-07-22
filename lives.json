@@ -9,9 +9,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/2309824645729885/",
+      "#id": "https://www.facebook.com/icablenews/videos/371330383580618/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -45,9 +45,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/488612451870886/",
+      "#id": "https://www.facebook.com/now.comNews/videos/1215446535302916/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -345,7 +345,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/360436187935901/",
+      "#id": "https://www.facebook.com/am730hk/videos/2331778513744490/",
       "#title": "am730hk",
       "active": false
     },
