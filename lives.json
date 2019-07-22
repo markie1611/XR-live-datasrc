@@ -119,13 +119,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hongkongfp/videos/356041878412988/",
       "#title": "hongkongfp",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hongkongfp/videos/699566813803453/",
       "#title": "hongkongfp-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -149,7 +149,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/640293373148451/",
       "#title": "HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -159,7 +159,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/656150958214378/",
+      "#id": "https://www.facebook.com/onccnews/videos/2251614294933901/",
       "#title": "onccnews",
       "active": true
     },
@@ -173,7 +173,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/mingpaoinews/videos/2275354805895203/",
       "#title": "mingpaoinews",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -215,7 +215,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/771793376556318/",
       "#title": "passiontimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
