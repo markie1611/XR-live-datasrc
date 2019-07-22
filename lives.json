@@ -21,9 +21,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/366660003999874/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1278343085672451/",
       "#title": "RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -33,9 +33,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/1039379839599491/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/433374964176173/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -141,9 +141,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/464777357691888/",
+      "#id": "https://www.facebook.com/hk01.news/videos/640293373148451/",
       "#title": "HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -153,9 +153,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/440633766785364/",
+      "#id": "https://www.facebook.com/onccnews/videos/656150958214378/",
       "#title": "onccnews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -207,9 +207,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/487044098737689/",
+      "#id": "https://www.facebook.com/passiontimes/videos/771793376556318/",
       "#title": "passiontimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
