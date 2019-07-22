@@ -33,9 +33,9 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/WB90VhmXytY",
+      "#id": "https://www.facebook.com/now.comNews/videos/2571220952922006/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
