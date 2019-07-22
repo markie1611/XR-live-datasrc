@@ -41,13 +41,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/2146877925611121/",
       "#title": "hk.nextmedia-2",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/337095137234549/",
       "#title": "hk.nextmedia-3",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
