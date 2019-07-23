@@ -21,15 +21,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2389023694681438/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2457499941020636/",
       "#title": "RTHK",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/403434923611236/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2389023694681438/",
       "#title": "RTHK-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
