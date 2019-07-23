@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -23,7 +23,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/647296255776458/",
       "#title": "RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -35,7 +35,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/500480844021392/",
       "#title": "hk.nextmedia",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -149,7 +149,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/621154541626631/",
       "#title": "HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
