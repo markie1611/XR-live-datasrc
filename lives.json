@@ -35,7 +35,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/applecitycrime/videos/498236324336318/",
       "#title": "hk.nextmedia",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -63,7 +63,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1544667535669964/",
+      "#id": "https://www.facebook.com/standnewshk/videos/361272017825765/",
       "#title": "standnewshk",
       "active": true
     },
@@ -107,7 +107,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/1411843812288685/",
       "#title": "inmediahk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -161,7 +161,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/2317765868462582/",
       "#title": "onccnews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
