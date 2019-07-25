@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -390,6 +390,12 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/500639170680272/",
       "#title": "maddog.hk",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/Ng.ManYuen/videos/584863112046167",
+      "#title": "Ng.ManYuen",
+      "active": true
     }
   ]
 }
