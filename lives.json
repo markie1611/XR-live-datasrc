@@ -21,9 +21,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/846659379050006/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2284985168418181/",
       "#title": "RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -33,9 +33,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/applecitycrime/videos/498236324336318/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/1088804461508421/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
