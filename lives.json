@@ -161,7 +161,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/375770473130779/",
       "#title": "onccnews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -395,7 +395,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/Ng.ManYuen/videos/584863112046167",
       "#title": "Ng.ManYuen",
-      "active": true
+      "active": false
     }
   ]
 }
