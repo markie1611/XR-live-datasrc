@@ -63,9 +63,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/521985458542009/",
+      "#id": "https://www.facebook.com/standnewshk/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -201,9 +201,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/442547893260410/",
+      "#id": "https://www.facebook.com/socrec/videos/321345305248768/",
       "#title": "socrec",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
