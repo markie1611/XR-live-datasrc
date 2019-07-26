@@ -261,9 +261,9 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/l7VHf1aEq1Y",
+      "#id": "https://www.youtube.com/embed/0XASQTEqn4A",
       "#title": "Global News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
