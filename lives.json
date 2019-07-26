@@ -153,9 +153,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/2067068413595770",
+      "#id": "https://www.facebook.com/hk01.news/videos/1410421222446926",
       "#title": "HK01-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -207,9 +207,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/855728304813527/",
+      "#id": "https://www.facebook.com/socrec/videos/379526562758547/",
       "#title": "socrec-2",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
