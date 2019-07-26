@@ -63,9 +63,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1313955025437740/",
+      "#id": "https://www.facebook.com/standnewshk/videos/698783117213632/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -263,7 +263,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/0XASQTEqn4A",
       "#title": "Global News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
