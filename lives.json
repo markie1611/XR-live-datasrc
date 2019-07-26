@@ -35,7 +35,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/2181294975313221/",
       "#title": "hk.nextmedia",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -63,7 +63,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1233562206824920/",
+      "#id": "https://www.facebook.com/standnewshk/videos/455171241702933/",
       "#title": "standnewshk",
       "active": true
     },
