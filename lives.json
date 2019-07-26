@@ -303,9 +303,15 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/eWuW0zU2v60",
+      "#id": "https://www.youtube.com/embed/b64YtOvjpPE",
       "#title": "TheEpochTimes",
-      "active": false
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/eWuW0zU2v60",
+      "#title": "TheEpochTimes-2",
+      "active": true
     },
     {
       "type": "youtube",
@@ -396,6 +402,12 @@
       "#id": "https://www.facebook.com/Ng.ManYuen/videos/584863112046167",
       "#title": "Ng.ManYuen",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/setnews/videos/361551467843787/",
+      "#title": "setnews",
+      "active": true
     }
   ]
 }
