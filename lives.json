@@ -394,6 +394,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/news.hkcd/videos/2309266876054169/",
+      "#title": "香港商報",
+      "#source": "香港商報",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/2100room/videos/1829969383772639/",
       "#title": "TVBS",
       "#source": "TVBS",
