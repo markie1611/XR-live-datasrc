@@ -89,7 +89,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/1108112069384790/",
       "#title": "Hong Kong Free Press HKFP",
       "#source": "Hong Kong Free Press HKFP",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -191,10 +191,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/587513601656433/",
+      "#id": "https://www.facebook.com/am730hk/videos/368628593836280/",
       "#title": "am730",
       "#source": "am730",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
