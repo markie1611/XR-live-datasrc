@@ -212,6 +212,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/passiontimes/videos/478047046288855/",
+      "#title": "熱血時報 PassionTimes (2)",
+      "#source": "熱血時報 PassionTimes",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/823184638077676/",
       "#title": "Truth Media Hong Kong",
       "#source": "Truth Media Hong Kong",
