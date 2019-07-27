@@ -212,10 +212,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/732683100496603/",
+      "#id": "https://www.facebook.com/passiontimes/videos/487297582021285/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -401,7 +401,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/EdUHKSUEB/videos/465567050944246/",
+      "#id": "https://www.facebook.com/EdUHKSUEB/videos/474852706427420/",
       "#title": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board",
       "#source": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board ",
       "active": true
