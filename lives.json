@@ -58,10 +58,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/517072245697103/",
+      "#id": "https://www.facebook.com/standnewshk/videos/512662839473974/",
       "#title": "立場新聞 Stand News (4)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -72,17 +72,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/470001127175511/",
+      "#id": "https://www.facebook.com/inmediahk/videos/535376550533674/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/494834211085704/",
+      "#id": "https://www.facebook.com/inmediahk/videos/535376550533674/",
       "#title": "香港獨立媒體網 inmediahk.net (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
