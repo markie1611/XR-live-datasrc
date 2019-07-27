@@ -93,10 +93,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/699566813803453/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/490751098349142/",
       "#title": "Hong Kong Free Press HKFP (2)",
       "#source": "Hong Kong Free Press HKFP",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -366,10 +366,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hsusueb/videos/524819394951556/",
+      "#id": "https://www.facebook.com/hsusueb/videos/403585297030642/",
       "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
       "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
