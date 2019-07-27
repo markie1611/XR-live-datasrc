@@ -387,10 +387,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/HKNewsAgency/videos/465562817555138/",
+      "#id": "https://www.facebook.com/HKNewsAgency/videos/2345165109056448/",
       "#title": "香港新聞社 HK News Agency",
       "#source": "香港新聞社 HK News Agency",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
