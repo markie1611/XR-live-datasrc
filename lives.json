@@ -135,10 +135,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/443631999813402/",
+      "#id": "https://www.facebook.com/onccnews/videos/2422621254636596/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
