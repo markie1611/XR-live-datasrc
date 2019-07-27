@@ -390,14 +390,14 @@
       "#id": "https://www.facebook.com/hsusueb/videos/2179469502350245/",
       "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
       "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/EdUHKSUEB/videos/474852706427420/",
       "#title": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board",
       "#source": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board ",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
