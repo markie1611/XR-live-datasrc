@@ -23,7 +23,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/448878352631236/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/529651687776241/",
       "#title": "香港蘋果日報 Apple Daily",
       "#source": "香港蘋果日報 Apple Daily HK",
       "active": true
@@ -205,7 +205,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/2607281875989521/",
+      "#id": "https://www.facebook.com/passiontimes/videos/625910984567970/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
       "active": true
@@ -348,7 +348,7 @@
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2866025266746820/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -390,7 +390,7 @@
       "#id": "https://www.facebook.com/hsusueb/videos/367389797255311/",
       "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
       "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
