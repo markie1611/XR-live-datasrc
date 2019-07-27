@@ -100,14 +100,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/JustProductionAus/videos/379956362641870/",
-      "#title": "JustProductionAus",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/UPMEDIA.MG/videos/419872271938391/",
-      "#title": "UPMEDIA.MG",
+      "#title": "上報 Up Media",
+      "#source": "上報 Up Media",
       "active": false
     },
     {
@@ -188,7 +183,7 @@
       "#id": "https://www.facebook.com/passiontimes/videos/467552457370734/",
       "#title": "鄭松泰 Cheng Chung-tai",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
