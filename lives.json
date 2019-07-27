@@ -65,10 +65,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2597644093593492/",
+      "#id": "https://www.facebook.com/standnewshk/videos/470943193462715/",
       "#title": "立場新聞 Stand News (5)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -180,7 +180,7 @@
       "#id": "https://www.facebook.com/socrec/videos/2427533034199197/",
       "#title": "社會記錄頻道 SocREC",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
