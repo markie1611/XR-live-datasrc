@@ -310,6 +310,27 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/cantonese.rfa/videos/682086355600422/",
+      "#title": "自由亞洲粵語 RFA Cantonese",
+      "#source": "自由亞洲粵語 RFA Cantonese",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/setnews/videos/652111198590869/",
+      "#title": "三立新聞 SETN",
+      "#source": "三立新聞 SETN",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/HKNewsAgency/videos/2345165109056448/",
+      "#title": "香港新聞社 HK News Agency",
+      "#source": "香港新聞社 HK News Agency",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/demosisto/videos/703538373400963/",
       "#title": "香港眾志 Demosistō",
       "#source": "香港眾志 Demosistō",
@@ -384,27 +405,6 @@
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/cantonese.rfa/videos/682086355600422/",
-      "#title": "自由亞洲粵語 RFA Cantonese",
-      "#source": "自由亞洲粵語 RFA Cantonese",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/setnews/videos/652111198590869/",
-      "#title": "三立新聞 SETN",
-      "#source": "三立新聞 SETN",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/HKNewsAgency/videos/2345165109056448/",
-      "#title": "香港新聞社 HK News Agency",
-      "#source": "香港新聞社 HK News Agency",
-      "active": true
     },
     {
       "type": "facebook",
