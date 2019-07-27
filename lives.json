@@ -9,10 +9,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/688923188214212/",
-      "#title": "有線新聞 i-Cable News (1)",
+      "#id": "https://www.facebook.com/icablenews/videos/914821665545679/",
+      "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -79,10 +79,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/2353435151414616/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/358676354804288/",
       "#title": "Hong Kong Free Press HKFP",
       "#source": "Hong Kong Free Press HKFP",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -318,9 +318,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/2849076655108550/",
-      "#title": "am730hk",
-      "active": false
+      "#id": "https://www.facebook.com/am730hk/videos/903290913360410/",
+      "#title": "am730",
+      "#source": "am730",
+      "active": true
     },
     {
       "type": "facebook",
