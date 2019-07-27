@@ -86,7 +86,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/1118730561649962/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/1108112069384790/",
       "#title": "Hong Kong Free Press HKFP",
       "#source": "Hong Kong Free Press HKFP",
       "active": true
@@ -194,7 +194,7 @@
       "#id": "https://www.facebook.com/am730hk/videos/587513601656433/",
       "#title": "am730",
       "#source": "am730",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -205,15 +205,22 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/376791906236406/",
+      "#id": "https://www.facebook.com/passiontimes/videos/693955867695344/",
       "#title": "鄭松泰 Cheng Chung-tai",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/478047046288855/",
       "#title": "熱血時報 PassionTimes (2)",
+      "#source": "熱血時報 PassionTimes",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/passiontimes/videos/460392474510885/",
+      "#title": "熱血時報 PassionTimes (3)",
       "#source": "熱血時報 PassionTimes",
       "active": true
     },
