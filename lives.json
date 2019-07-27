@@ -51,10 +51,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/453834505397697/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2370758783146379/",
       "#title": "立場新聞 Stand News (3)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -221,6 +221,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/460392474510885/",
       "#title": "熱血時報 PassionTimes (3)",
+      "#source": "熱血時報 PassionTimes",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/passiontimes/videos/636321146869464/",
+      "#title": "熱血時報 PassionTimes (4)",
       "#source": "熱血時報 PassionTimes",
       "active": true
     },
