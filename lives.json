@@ -79,17 +79,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/2362185817158498/",
+      "#id": "https://www.facebook.com/inmediahk/videos/494834211085704/",
       "#title": "香港獨立媒體網 inmediahk.net (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hongkongfp/videos/359726768260114/",
       "#title": "Hong Kong Free Press HKFP",
       "#source": "Hong Kong Free Press HKFP",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -103,7 +103,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/2089818064463323/",
       "#title": "Hong Kong Free Press HKFP (3)",
       "#source": "Hong Kong Free Press HKFP",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
