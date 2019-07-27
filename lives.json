@@ -10,127 +10,92 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/688923188214212/",
-      "#title": "icablenews",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/662814627556818/",
-      "#title": "icablenews-2",
+      "#title": "有線新聞 i-Cable News (1)",
+      "#source": "有線新聞 i-Cable News",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/949529882055248/",
-      "#title": "RTHK",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2389023694681438/",
-      "#title": "RTHK-2",
+      "#title": "香港電台視像新聞 RTHK VNEWS",
+      "#source": "香港電台視像新聞 RTHK VNEWS",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/711457699324823/",
-      "#title": "hk.nextmedia",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/2146877925611121/",
-      "#title": "hk.nextmedia-2",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/337095137234549/",
-      "#title": "hk.nextmedia-3",
+      "#title": "香港蘋果日報 Apple Daily",
+      "#source": "香港蘋果日報 Apple Daily HK",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/347607202839448/",
-      "#title": "now.comNews",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/2020452441392461/",
-      "#title": "icablenews-2",
+      "#title": "Now 新聞 Now News",
+      "#source": "Now 新聞 Now News",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/2188677371424332/",
-      "#title": "standnewshk",
+      "#title": "立場新聞 Stand News",
+      "#source": "立場新聞 Stand News",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/369332264018594/",
-      "#title": "standnewshk-2",
+      "#title": "立場新聞 Stand News (2)",
+      "#source": "立場新聞 Stand News",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/370476476912591/",
-      "#title": "standnewshk-3",
+      "#title": "立場新聞 Stand News (3)",
+      "#source": "立場新聞 Stand News",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/659560901195555/",
-      "#title": "standnewshk-4",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2528243607227120/",
-      "#title": "standnewshk-5",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/889524378048152/",
-      "#title": "standnewshk-6",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/655297038314005/",
-      "#title": "standnewshk-7",
+      "#title": "立場新聞 Stand News (4)",
+      "#source": "立場新聞 Stand News",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/872337159808525/",
-      "#title": "inmediahk",
+      "#title": "香港獨立媒體網 inmediahk.net",
+      "#source": "香港獨立媒體網 inmediahk.net",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/2479335312087628/",
-      "#title": "inmediahk-2",
+      "#title": "香港獨立媒體網 inmediahk.net (2)",
+      "#source": "香港獨立媒體網 inmediahk.net",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hongkongfp/videos/2353435151414616/",
-      "#title": "hongkongfp",
+      "#title": "Hong Kong Free Press HKFP",
+      "#source": "Hong Kong Free Press HKFP",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hongkongfp/videos/699566813803453/",
-      "#title": "hongkongfp-2",
+      "#title": "Hong Kong Free Press HKFP (2)",
+      "#source": "Hong Kong Free Press HKFP",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/theinitium/videos/2328536850533476/",
-      "#title": "theinitium",
+      "#title": "端傳媒 Initium Media",
+      "#source": "端傳媒 Initium Media",
       "active": false
     },
     {
