@@ -75,7 +75,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/433104577303939/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -257,7 +257,7 @@
       "#id": "https://www.youtube.com/embed/VdAuOf82WgA",
       "#title": "Global News",
       "#source": "Global News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
