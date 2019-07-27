@@ -191,10 +191,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/1108246619368993/",
+      "#id": "https://www.facebook.com/am730hk/videos/587513601656433/",
       "#title": "am730",
       "#source": "am730",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -205,7 +205,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/669003520193856/",
+      "#id": "https://www.facebook.com/passiontimes/videos/376791906236406/",
       "#title": "鄭松泰 Cheng Chung-tai",
       "#source": "熱血時報 PassionTimes",
       "active": false
