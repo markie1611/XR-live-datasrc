@@ -61,7 +61,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/932822460404598/",
       "#title": "立場新聞 Stand News (4)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -236,7 +236,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/725451384555287/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -348,7 +348,7 @@
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/1296397773856833/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
