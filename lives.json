@@ -47,7 +47,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/418344292109704/",
       "#title": "立場新聞 Stand News (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -320,7 +320,7 @@
       "#id": "https://www.facebook.com/cantonese.rfa/videos/682086355600422/",
       "#title": "自由亞洲粵語 RFA Cantonese",
       "#source": "自由亞洲粵語 RFA Cantonese",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
