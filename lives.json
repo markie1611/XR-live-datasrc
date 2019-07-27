@@ -54,7 +54,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/2370758783146379/",
       "#title": "立場新聞 Stand News (3)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -86,10 +86,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/1108112069384790/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/2252471984801597/",
       "#title": "Hong Kong Free Press HKFP",
       "#source": "Hong Kong Free Press HKFP",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
