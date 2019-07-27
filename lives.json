@@ -51,17 +51,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/490864521676500/",
+      "#id": "https://www.facebook.com/standnewshk/videos/453834505397697/",
       "#title": "立場新聞 Stand News (3)",
       "#source": "立場新聞 Stand News",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/453834505397697/",
+      "#id": "https://www.facebook.com/standnewshk/videos/490864521676500/",
       "#title": "立場新聞 Stand News (4)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
