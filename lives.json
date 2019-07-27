@@ -254,10 +254,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/0lKDkB18jKk",
+      "#id": "https://www.youtube.com/embed/dXELLkngvTA",
       "#title": "Ruptly",
       "#source": "Ruptly",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -346,25 +346,22 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/undergradnews/videos/1295932430559952/",
-      "#title": "undergradnews",
+      "#title": "香港大學學生會學苑即時新聞 Undergrad, H.K.U.S.U. Instant News",
+      "#source": "香港大學學生會學苑即時新聞 Undergrad, H.K.U.S.U. Instant News",
       "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/500639170680272/",
-      "#title": "maddog.hk",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/Ng.ManYuen/videos/584863112046167",
-      "#title": "Ng.ManYuen",
-      "active": false
+      "#id": "https://www.facebook.com/maddog.hk/videos/2334921800108654/",
+      "#title": "癲狗日報 Maddog.HK",
+      "#source": "癲狗日報 Maddog.HK",
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/setnews/videos/361551467843787/",
-      "#title": "setnews",
+      "#title": "三立新聞 SETN",
+      "#source": "三立新聞 SETN",
       "active": false
     },
     {
