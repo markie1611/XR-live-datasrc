@@ -215,7 +215,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/2370358046418635/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -274,28 +274,11 @@
       "active": false
     }, 
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/ABC7/videos/2454896098064978/",
-      "#title": "ABC7",
-      "active": false
-    },
-    {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/b64YtOvjpPE",
-      "#title": "TheEpochTimes",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/eWuW0zU2v60",
-      "#title": "TheEpochTimes-2",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/42JT0we8BYY",
-      "#title": "TheEpochTimes-2",
-      "active": false
+      "#id": "https://www.youtube.com/embed/ICNHhc18E7k",
+      "#title": "大紀元時報 The Epoch Times",
+      "#source": "大紀元時報 The Epoch Times",
+      "active": true
     },
     {
       "type": "youtube",
