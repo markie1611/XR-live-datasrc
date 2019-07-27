@@ -93,10 +93,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/490751098349142/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/393971217902183/",
       "#title": "Hong Kong Free Press HKFP (2)",
       "#source": "Hong Kong Free Press HKFP",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -380,10 +380,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/702478090164981/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/517800438761913/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
