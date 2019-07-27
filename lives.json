@@ -285,7 +285,7 @@
       "#id": "https://www.youtube.com/embed/qfn1Mt3fErU",
       "#title": "Euronews",
       "#source": "Euronews",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
