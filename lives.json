@@ -108,31 +108,36 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/1211783209005095/",
-      "#title": "HK01",
+      "#title": "01新聞 01 News",
+      "#source": "香港01 HK01",
       "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/1410421222446926",
-      "#title": "HK01-2",
+      "#title": "01新聞 01 News (2)",
+      "#source": "香港01 HK01",
       "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/763033634112920/",
-      "#title": "onccnews",
-      "active": false
+      "#id": "https://www.facebook.com/onccnews/videos/1189578294560144/",
+      "#title": "東網／東方日報 on.cc",
+      "#source": "東網／東方日報 on.cc",
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/436494280464066/",
-      "#title": "onccnews-2",
+      "#title": "東網／東方日報 on.cc (2)",
+      "#source": "東網／東方日報 on.cc",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/mingpaoinews/videos/2275354805895203/",
-      "#title": "mingpaoinews",
+      "#title": "明報即時新聞 Mingpao News",
+      "#source": "明報即時新聞 Mingpao News",
       "active": false
     },
     {
@@ -173,10 +178,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/467552457370734/",
+      "#id": "https://www.facebook.com/passiontimes/videos/701016683680894/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
