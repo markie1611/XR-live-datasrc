@@ -144,12 +144,14 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/OqwAXNgs3eE",
       "#title": "China Uncensored",
+      "#source": "China Uncensored",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/atvhongkong/videos/402639827124870/",
       "#title": "atvhongkong",
+      "#source": "atvhongkong",
       "active": false
     },
     {
@@ -192,10 +194,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/500822217356661/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/823184638077676/",
       "#title": "Truth Media Hong Kong",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -206,10 +208,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/2452280028126242/",
+      "#id": "https://www.facebook.com/376552872550155/videos/2370358046418635/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
