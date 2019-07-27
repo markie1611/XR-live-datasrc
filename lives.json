@@ -147,7 +147,7 @@
       "#source": "明報即時新聞 Mingpao News",
       "active": false
     },
-    {
+    { 
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/OqwAXNgs3eE",
       "#title": "China Uncensored",
@@ -177,10 +177,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/2427533034199197/",
+      "#id": "https://www.facebook.com/socrec/videos/2254145781562938/",
       "#title": "社會記錄頻道 SocREC",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -198,10 +198,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/398769750766337/",
+      "#id": "https://www.facebook.com/passiontimes/videos/1184405748409285/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -250,7 +250,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/2789474267789544/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -404,7 +404,7 @@
       "#id": "https://www.facebook.com/HKNewsAgency/videos/465562817555138/",
       "#title": "香港新聞社 HK News Agency",
       "#source": "香港新聞社 HK News Agency",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
