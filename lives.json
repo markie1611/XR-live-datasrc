@@ -198,17 +198,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/2350044571950211/",
+      "#id": "https://www.facebook.com/passiontimes/videos/355496882045666/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/478047046288855/",
+      "#id": "https://www.facebook.com/passiontimes/videos/488187861935253/",
       "#title": "熱血時報 PassionTimes (2)",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
