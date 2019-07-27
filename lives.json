@@ -96,7 +96,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/490751098349142/",
       "#title": "Hong Kong Free Press HKFP (2)",
       "#source": "Hong Kong Free Press HKFP",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -376,7 +376,7 @@
       "#id": "https://www.facebook.com/EdUHKSUEB/videos/2312580888854997/",
       "#title": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board",
       "#source": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board ",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
