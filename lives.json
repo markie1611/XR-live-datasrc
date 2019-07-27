@@ -37,14 +37,14 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2142562866034012/",
+      "#id": "https://www.facebook.com/standnewshk/videos/358957855021479/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
       "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/820736061656131/",
+      "#id": "https://www.facebook.com/standnewshk/videos/358957855021479/",
       "#title": "立場新聞 Stand News (2)",
       "#source": "立場新聞 Stand News",
       "active": false
@@ -205,10 +205,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/693955867695344/",
+      "#id": "https://www.facebook.com/passiontimes/videos/934280110239081/",
       "#title": "鄭松泰 Cheng Chung-tai",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
