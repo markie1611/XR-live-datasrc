@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/711457699324823/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/448878352631236/",
       "#title": "香港蘋果日報 Apple Daily",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
