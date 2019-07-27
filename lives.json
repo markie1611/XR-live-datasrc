@@ -184,10 +184,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/701016683680894/",
+      "#id": "https://www.facebook.com/passiontimes/videos/355306032053940/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -278,7 +278,7 @@
       "#id": "https://www.youtube.com/embed/ICNHhc18E7k",
       "#title": "大紀元時報 The Epoch Times",
       "#source": "大紀元時報 The Epoch Times",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
