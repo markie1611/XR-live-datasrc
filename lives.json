@@ -198,15 +198,8 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/1184405748409285/",
+      "#id": "https://www.facebook.com/passiontimes/videos/457931374764210/",
       "#title": "熱血時報 PassionTimes",
-      "#source": "熱血時報 PassionTimes",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/934280110239081/",
-      "#title": "鄭松泰 Cheng Chung-tai",
       "#source": "熱血時報 PassionTimes",
       "active": true
     },
