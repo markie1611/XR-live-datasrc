@@ -331,10 +331,17 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/2699669626777279/",
+      "#title": "香港新聞社 HK News Agency",
+      "#source": "香港新聞社 HK News Agency",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/demosisto/videos/703538373400963/",
-      "#title": "香港眾志 Demosistō",
-      "#source": "香港眾志 Demosistō",
-      "active": false
+      "#title": "BBC",
+      "#source": "BBC",
+      "active": true
     },
     {
       "type": "facebook",
@@ -390,7 +397,7 @@
       "#id": "https://www.facebook.com/hsusueb/videos/403585297030642/",
       "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
       "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
