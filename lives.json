@@ -58,10 +58,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/512662839473974/",
+      "#id": "https://www.facebook.com/standnewshk/videos/932822460404598/",
       "#title": "立場新聞 Stand News (4)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -348,7 +348,7 @@
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/600030107190365/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
