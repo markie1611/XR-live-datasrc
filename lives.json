@@ -54,7 +54,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/453834505397697/",
       "#title": "立場新聞 Stand News (3)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -75,7 +75,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/403834123814844/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -271,7 +271,7 @@
       "#id": "https://www.youtube.com/embed/dXELLkngvTA",
       "#title": "Ruptly",
       "#source": "Ruptly",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -282,10 +282,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/e0t62lzJ6-8",
+      "#id": "https://www.youtube.com/embed/qfn1Mt3fErU",
       "#title": "Euronews",
       "#source": "Euronews",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
