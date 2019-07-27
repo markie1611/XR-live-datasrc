@@ -295,9 +295,16 @@
       "active": true
     }, 
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/epochtimes.taiwan/videos/338979233705276/",
+      "#title": "大紀元時報 The Epoch Times",
+      "#source": "大紀元時報 The Epoch Times",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/ICNHhc18E7k",
-      "#title": "大紀元時報 The Epoch Times",
+      "#title": "大紀元時報 The Epoch Times (2)",
       "#source": "大紀元時報 The Epoch Times",
       "active": false
     },
