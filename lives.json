@@ -233,10 +233,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/339550853652612/",
+      "#id": "https://www.facebook.com/376552872550155/videos/360263724651037/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
