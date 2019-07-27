@@ -325,12 +325,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/2208780642766685/",
-      "#title": "am730hk-2",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/cuspcusp/videos/379670842686867/",
       "#title": "cuspcusp",
       "active": false
@@ -373,9 +367,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/flyagainla/videos/404073743649425/",
-      "#title": "flyagainla",
-      "active": false
+      "#id": "https://www.facebook.com/joshuawongchifung/videos/695329897557186/",
+      "#title": "黃之鋒 Joshua Wong",
+      "#source": "黃之鋒 Joshua Wong",
+      "active": true
     }
   ]
 }
