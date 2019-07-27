@@ -61,7 +61,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/486032925292769/",
       "#title": "立場新聞 Stand News (4)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -103,7 +103,7 @@
       "#id": "https://www.facebook.com/theinitium/videos/855249218183873/",
       "#title": "端傳媒 Initium Media",
       "#source": "端傳媒 Initium Media",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -156,10 +156,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/402639827124870/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/2432825990287031/",
       "#title": "亞視數碼媒體 ATV",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -362,7 +362,7 @@
       "#id": "https://www.facebook.com/hkucampustv/videos/1089578417895952/",
       "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
       "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -383,7 +383,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/702478090164981/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
