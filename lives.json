@@ -100,10 +100,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/theinitium/videos/855249218183873/",
+      "#id": "https://www.facebook.com/theinitium/videos/1472534279564869/",
       "#title": "端傳媒 Initium Media",
       "#source": "端傳媒 Initium Media",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -198,10 +198,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/355496882045666/",
+      "#id": "https://www.facebook.com/passiontimes/videos/495865207848521/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -363,6 +363,13 @@
       "#title": "香港大學學生會學苑即時新聞 Undergrad, H.K.U.S.U. Instant News",
       "#source": "香港大學學生會學苑即時新聞 Undergrad, H.K.U.S.U. Instant News",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hsusueb/videos/524819394951556/",
+      "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
+      "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
+      "active": true
     },
     {
       "type": "facebook",
