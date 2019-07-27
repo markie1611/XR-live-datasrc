@@ -135,7 +135,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/1189578294560144/",
+      "#id": "https://www.facebook.com/onccnews/videos/443631999813402/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
       "active": true
@@ -205,10 +205,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/516316012242797/",
+      "#id": "https://www.facebook.com/passiontimes/videos/2385083355040145/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -219,10 +219,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/823184638077676/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/2469903889921494/",
       "#title": "Truth Media Hong Kong",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -233,10 +233,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/483329915568465/",
+      "#id": "https://www.facebook.com/376552872550155/videos/339550853652612/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
