@@ -100,6 +100,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/hongkongfp/videos/2089818064463323/",
+      "#title": "Hong Kong Free Press HKFP (3)",
+      "#source": "Hong Kong Free Press HKFP",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/theinitium/videos/486492705487067/",
       "#title": "端傳媒 Initium Media",
       "#source": "端傳媒 Initium Media",
@@ -411,7 +418,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/717921445311129/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
