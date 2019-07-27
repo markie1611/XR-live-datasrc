@@ -254,10 +254,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/0XASQTEqn4A",
+      "#id": "https://www.youtube.com/embed/VdAuOf82WgA",
       "#title": "Global News",
       "#source": "Global News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
