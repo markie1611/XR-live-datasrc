@@ -426,13 +426,6 @@
       "#title": "黃之鋒 Joshua Wong",
       "#source": "黃之鋒 Joshua Wong",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/dee.sum/videos/10159018322899129/",
-      "#title": "dee.sum",
-      "#source": "dee.sum",
-      "active": true
     }
   ]
 }
