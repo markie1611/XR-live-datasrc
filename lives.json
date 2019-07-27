@@ -75,7 +75,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/2344347045834926/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -404,7 +404,7 @@
       "#id": "https://www.facebook.com/news.hkcd/videos/2309266876054169/",
       "#title": "香港商報",
       "#source": "香港商報",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
