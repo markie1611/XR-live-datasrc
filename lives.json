@@ -170,10 +170,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/363369821045688/",
+      "#id": "https://www.facebook.com/socrec/videos/2427533034199197/",
       "#title": "社會記錄頻道 SocREC",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -194,7 +194,7 @@
       "#id": "https://www.facebook.com/passiontimes/videos/351638612426125/",
       "#title": "鄭松泰 Cheng Chung-tai",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -227,51 +227,52 @@
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/auLKPYs0M0Q",
-      "#title": "WashingtonPost",
+      "#title": "Washington Post",
+      "#source": "Washington Post",
       "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/LKtU2oINZeE",
-      "#title": "NBC",
+      "#title": "NBC News",
+      "#source": "NBC News",
       "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/0XASQTEqn4A",
       "#title": "Global News",
+      "#source": "Global News",
       "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/0lKDkB18jKk",
       "#title": "Ruptly",
+      "#source": "Ruptly",
       "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/VmNIJWcfKyk",
-      "#title": "GuardianNews",
+      "#title": "Guardian News",
+      "#source": "Guardian News",
       "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/e0t62lzJ6-8",
-      "#title": "euronews",
+      "#title": "Euronews",
+      "#source": "Euronews",
       "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/O7SRDXoZLBg",
       "#title": "RT",
+      "#source": "RT",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/RTnews/videos/844598745918948/",
-      "#title": "RT-2",
-      "active": false
-    },  
+    }, 
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/ABC7/videos/2454896098064978/",
