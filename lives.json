@@ -205,10 +205,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/1243101572528846/",
+      "#id": "https://www.facebook.com/passiontimes/videos/716748768766614/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -348,7 +348,7 @@
       "#id": "https://www.facebook.com/bbcnewstrad/videos/1584242981706204/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
