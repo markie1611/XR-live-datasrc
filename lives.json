@@ -380,10 +380,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/setnews/videos/361551467843787/",
+      "#id": "https://www.facebook.com/cantonese.rfa/videos/682086355600422/",
+      "#title": "自由亞洲粵語 RFA Cantonese",
+      "#source": "自由亞洲粵語 RFA Cantonese",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/setnews/videos/652111198590869/",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
