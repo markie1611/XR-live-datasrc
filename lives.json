@@ -72,10 +72,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/403834123814844/",
+      "#id": "https://www.facebook.com/inmediahk/videos/2344347045834926/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -180,7 +180,7 @@
       "#id": "https://www.facebook.com/socrec/videos/2254145781562938/",
       "#title": "社會記錄頻道 SocREC",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -205,17 +205,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/488187861935253/",
+      "#id": "https://www.facebook.com/passiontimes/videos/2367735183273150/",
       "#title": "熱血時報 PassionTimes (2)",
       "#source": "熱血時報 PassionTimes",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/460392474510885/",
+      "#id": "https://www.facebook.com/passiontimes/videos/372789706715813/",
       "#title": "熱血時報 PassionTimes (3)",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
