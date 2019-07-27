@@ -58,17 +58,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/475328153280346/",
+      "#id": "https://www.facebook.com/standnewshk/videos/453834505397697/",
       "#title": "立場新聞 Stand News (4)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/872337159808525/",
+      "#id": "https://www.facebook.com/inmediahk/videos/403834123814844/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -82,7 +82,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/358676354804288/",
       "#title": "Hong Kong Free Press HKFP",
       "#source": "Hong Kong Free Press HKFP",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -191,10 +191,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/351638612426125/",
+      "#id": "https://www.facebook.com/passiontimes/videos/2511642102257518/",
       "#title": "鄭松泰 Cheng Chung-tai",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
