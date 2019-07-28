@@ -44,10 +44,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/499678610768661/",
+      "#id": "https://www.facebook.com/standnewshk/videos/511291409641551/",
       "#title": "立場新聞 Stand News (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -128,10 +128,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/2686787334673939/",
+      "#id": "https://www.facebook.com/hk01.news/videos/2488918244500930/",
       "#title": "01新聞 01 News",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
