@@ -79,10 +79,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/2364038650522262/",
+      "#id": "https://www.facebook.com/inmediahk/videos/458774704913759/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -100,10 +100,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/637570690055698/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/450533895799675/",
       "#title": "Hong Kong Free Press HKFP (2)",
       "#source": "Hong Kong Free Press HKFP",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -275,10 +275,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hsusueb/videos/481208079364620/",
+      "#id": "https://www.facebook.com/hsusueb/videos/492213948260737/",
       "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
       "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -289,10 +289,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/406027493594320/",
+      "#id": "https://www.facebook.com/376552872550155/videos/329817881227616/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
