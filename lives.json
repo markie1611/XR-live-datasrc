@@ -44,10 +44,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/277873796414816/",
+      "#id": "https://www.facebook.com/standnewshk/videos/363754727905974/",
       "#title": "立場新聞 Stand News (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -170,10 +170,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/848910458816402/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/626792861142135/",
       "#title": "亞視數碼媒體 ATV",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -201,7 +201,7 @@
       "#id": "https://www.facebook.com/socrec/videos/479940079457900/",
       "#title": "社會記錄頻道 SocREC (2)",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -408,10 +408,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/1409593595856219/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/364026700942499/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
