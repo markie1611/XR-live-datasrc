@@ -310,13 +310,6 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/MZvYGh3i13w",
-      "#title": "Ruptly",
-      "#source": "Ruptly",
-      "active": true
-    },
-    {
-      "type": "youtube",
       "#id": "https://www.youtube.com/embed/VmNIJWcfKyk",
       "#title": "Guardian News",
       "#source": "Guardian News",
@@ -331,10 +324,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/BaOtLKrnF8E",
+      "#id": "https://www.youtube.com/embed/6JEY13EQU24",
       "#title": "RT",
       "#source": "RT",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -342,6 +335,13 @@
       "#title": "RT (2)",
       "#source": "RT",
       "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/MZvYGh3i13w",
+      "#title": "Ruptly",
+      "#source": "Ruptly",
+      "active": true
     },
     {
       "type": "youtube",
