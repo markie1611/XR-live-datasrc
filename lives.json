@@ -421,13 +421,6 @@
       "active": false
     },
     {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/gk-hKplVd8E",
-      "#title": "啤梨頻道 BarryMa TV",
-      "#source": "啤梨頻道 BarryMa TV",
-      "active": true
-    },
-    {
       "type": "facebook",
       "#id": "https://www.facebook.com/2100room/videos/1829969383772639/",
       "#title": "TVBS",
