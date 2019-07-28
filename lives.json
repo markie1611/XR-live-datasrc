@@ -72,10 +72,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/487895588447736/",
+      "#id": "https://www.facebook.com/inmediahk/videos/2364038650522262/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -247,10 +247,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hkucampustv/videos/641270733034941/",
+      "#id": "https://www.facebook.com/hkucampustv/videos/2398217247130702/",
       "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
       "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
