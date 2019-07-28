@@ -54,7 +54,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/678805489260693/",
       "#title": "立場新聞 Stand News (3)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -132,20 +132,6 @@
       "#title": "01新聞 01 News (2)",
       "#source": "香港01 HK01",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/413680539526939/",
-      "#title": "香港電台視像新聞 RTHK VNEWS (2)",
-      "#source": "香港電台 RTHK",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/368384737205434/",
-      "#title": "香港蘋果日報 Apple Daily HK (2)",
-      "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
     },
     {
       "type": "facebook",
