@@ -93,10 +93,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/393971217902183/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/637570690055698/",
       "#title": "Hong Kong Free Press HKFP (2)",
       "#source": "Hong Kong Free Press HKFP",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
