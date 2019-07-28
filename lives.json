@@ -142,6 +142,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/413680539526939/",
+      "#title": "香港電台視像新聞 RTHK VNEWS (2)",
+      "#source": "香港電台 RTHK",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/379833156049408/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
