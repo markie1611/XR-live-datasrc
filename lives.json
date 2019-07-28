@@ -163,6 +163,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/YahooHongKongNews/videos/3492762270749410/",
+      "#title": "雅虎香港新聞 Yahoo HK News",
+      "#source": "雅虎香港新聞 Yahoo HK News",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/atvhongkong/videos/848910458816402/",
       "#title": "亞視數碼媒體 ATV",
       "#source": "亞視數碼媒體 ATV",
