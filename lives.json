@@ -65,10 +65,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/495884661221008/",
+      "#id": "https://www.facebook.com/standnewshk/videos/1370015713153568/",
       "#title": "立場新聞 Stand News (5)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -194,7 +194,7 @@
       "#id": "https://www.facebook.com/socrec/videos/236681600548443/",
       "#title": "社會記錄頻道 SocREC",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -347,6 +347,13 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/60At6dQ0_nY",
       "#title": "大紀元時報 The Epoch Times",
+      "#source": "大紀元時報 The Epoch Times",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/NsAGP9EA_q0",
+      "#title": "大紀元時報 The Epoch Times (2)",
       "#source": "大紀元時報 The Epoch Times",
       "active": true
     },
