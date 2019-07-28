@@ -37,17 +37,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/214739782762879/",
+      "#id": "https://www.facebook.com/standnewshk/videos/368498320506425/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/396816377848391/",
+      "#id": "https://www.facebook.com/standnewshk/videos/277873796414816/",
       "#title": "立場新聞 Stand News (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -240,6 +240,48 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/cuspcusp/videos/379670842686867/",
+      "#title": "中大學生報 Chinese University Student Press",
+      "#source": "中大學生報 Chinese University Student Press",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hkucampustv/videos/1089578417895952/",
+      "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
+      "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/cuhkcampusradio/videos/418139145454213/",
+      "#title": "中大校園電台 CUHK Campus Radio",
+      "#source": "中大校園電台 CUHK Campus Radio",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/undergradnews/videos/1295932430559952/",
+      "#title": "香港大學學生會學苑即時新聞 Undergrad, H.K.U.S.U. Instant News",
+      "#source": "香港大學學生會學苑即時新聞 Undergrad, H.K.U.S.U. Instant News",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hsusueb/videos/690940951416066/",
+      "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
+      "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/EdUHKSUEB/videos/474852706427420/",
+      "#title": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board",
+      "#source": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board ",
+      "active": false
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/376552872550155/videos/427446704536068/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
@@ -362,48 +404,6 @@
       "#id": "https://www.facebook.com/RTHKcityforum/videos/2056599964649453/",
       "#title": "香港電台城市論壇 RTHK City Forum",
       "#source": "香港電台 RTHK",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/cuspcusp/videos/379670842686867/",
-      "#title": "中大學生報 Chinese University Student Press",
-      "#source": "中大學生報 Chinese University Student Press",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hkucampustv/videos/1089578417895952/",
-      "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/cuhkcampusradio/videos/418139145454213/",
-      "#title": "中大校園電台 CUHK Campus Radio",
-      "#source": "中大校園電台 CUHK Campus Radio",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/undergradnews/videos/1295932430559952/",
-      "#title": "香港大學學生會學苑即時新聞 Undergrad, H.K.U.S.U. Instant News",
-      "#source": "香港大學學生會學苑即時新聞 Undergrad, H.K.U.S.U. Instant News",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hsusueb/videos/690940951416066/",
-      "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/EdUHKSUEB/videos/474852706427420/",
-      "#title": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board",
-      "#source": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board ",
       "active": false
     },
     {
