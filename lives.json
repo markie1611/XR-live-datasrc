@@ -58,10 +58,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/932822460404598/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2309006632486381/",
       "#title": "立場新聞 Stand News (4)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -250,7 +250,7 @@
       "#id": "https://www.facebook.com/hkucampustv/videos/641270733034941/",
       "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
       "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -271,7 +271,7 @@
       "#id": "https://www.facebook.com/hsusueb/videos/690940951416066/",
       "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
       "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
