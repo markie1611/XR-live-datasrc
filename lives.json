@@ -275,10 +275,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hsusueb/videos/492213948260737/",
+      "#id": "https://www.facebook.com/hsusueb/videos/878430562515355/",
       "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
       "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -418,7 +418,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/453235332193580/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
