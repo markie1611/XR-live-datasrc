@@ -38,9 +38,16 @@
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/HnazButkGb4",
-      "#title": "Now 新聞 Now News",
+      "#title": "Now 新聞 Now News (Youtube)",
       "#source": "Now 新聞 Now News",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/507281850101140/",
+      "#title": "Now 新聞 Now News",
+      "#source": "Now 新聞 Now News",
+      "active": true
     },
     {
       "type": "facebook",
