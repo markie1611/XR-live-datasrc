@@ -89,7 +89,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/344624823113344/",
       "#title": "Hong Kong Free Press HKFP",
       "#source": "Hong Kong Free Press HKFP",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -198,10 +198,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/884396745286347/",
+      "#id": "https://www.facebook.com/socrec/videos/1814226498723887/",
       "#title": "社會記錄頻道 SocREC",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
