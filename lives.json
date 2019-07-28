@@ -345,10 +345,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/RT89U1cC-AI",
+      "#id": "https://www.youtube.com/embed/60At6dQ0_nY",
       "#title": "大紀元時報 The Epoch Times",
       "#source": "大紀元時報 The Epoch Times",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -373,10 +373,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/HKNewsAgency/videos/2345165109056448/",
+      "#id": "https://www.facebook.com/HKNewsAgency/videos/1225062807671638/",
       "#title": "香港新聞社 HK News Agency",
       "#source": "香港新聞社 HK News Agency",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
