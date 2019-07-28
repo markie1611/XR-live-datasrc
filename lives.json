@@ -68,7 +68,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/808370609596773/",
       "#title": "立場新聞 Stand News (5)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -79,10 +79,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/458774704913759/",
+      "#id": "https://www.facebook.com/inmediahk/videos/842077186174519/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
