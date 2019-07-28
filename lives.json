@@ -121,7 +121,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/379833156049408/",
+      "#id": "https://www.facebook.com/hk01.news/videos/658264818024812/",
       "#title": "01新聞 01 News",
       "#source": "香港01 HK01",
       "active": true
@@ -135,10 +135,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/2422621254636596/",
+      "#id": "https://www.facebook.com/onccnews/videos/379833156049408/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
