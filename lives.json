@@ -173,7 +173,7 @@
       "#id": "https://www.facebook.com/YahooHongKongNews/videos/3492762270749410/",
       "#title": "雅虎香港新聞 Yahoo HK News",
       "#source": "雅虎香港新聞 Yahoo HK News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -429,10 +429,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/2100room/videos/1829969383772639/",
+      "#id": "https://www.facebook.com/tvbsfb/videos/491628851603234/",
       "#title": "TVBS",
       "#source": "TVBS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
