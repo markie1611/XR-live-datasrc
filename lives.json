@@ -177,10 +177,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/626792861142135/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/2711461518885673/",
       "#title": "亞視數碼媒體 ATV",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
