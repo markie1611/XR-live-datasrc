@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -16,17 +16,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2297660897216477/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1333161890184541/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/529651687776241/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/214940076089009/",
       "#title": "香港蘋果日報 Apple Daily",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -37,10 +37,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/352704648741756/",
+      "#id": "https://www.facebook.com/standnewshk/videos/214739782762879/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -121,10 +121,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/2353345514986286/",
+      "#id": "https://www.facebook.com/onccnews/videos/379833156049408/",
       "#title": "01新聞 01 News",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
