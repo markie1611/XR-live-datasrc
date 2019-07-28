@@ -44,7 +44,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/655549068291966/",
+      "#id": "https://www.facebook.com/standnewshk/videos/468741883910429/",
       "#title": "立場新聞 Stand News (2)",
       "#source": "立場新聞 Stand News",
       "active": false
@@ -103,7 +103,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/450533895799675/",
       "#title": "Hong Kong Free Press HKFP (2)",
       "#source": "Hong Kong Free Press HKFP",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -117,7 +117,7 @@
       "#id": "https://www.facebook.com/theinitium/videos/1075846972609633/",
       "#title": "端傳媒 Initium Media",
       "#source": "端傳媒 Initium Media",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -275,10 +275,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hsusueb/videos/878430562515355/",
+      "#id": "https://www.facebook.com/hsusueb/videos/814369168957092/",
       "#title": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
       "#source": "香港恒生大學學生會編輯委員會 Editorial Board, HSUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
