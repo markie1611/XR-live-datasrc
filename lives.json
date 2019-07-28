@@ -30,13 +30,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/368384737205434/",
-      "#title": "香港蘋果日報 Apple Daily HK (2)",
-      "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/930378730637506/",
       "#title": "Now 新聞 Now News",
       "#source": "Now 新聞 Now News",
@@ -145,6 +138,13 @@
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/413680539526939/",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/368384737205434/",
+      "#title": "香港蘋果日報 Apple Daily HK (2)",
+      "#source": "香港蘋果日報 Apple Daily HK",
       "active": true
     },
     {
