@@ -352,13 +352,6 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/NsAGP9EA_q0",
-      "#title": "大紀元時報 The Epoch Times (2)",
-      "#source": "大紀元時報 The Epoch Times",
-      "active": true
-    },
-    {
-      "type": "youtube",
       "#id": "https://www.youtube.com/embed/UsgJWZypxdY",
       "#title": "852郵報 Post852",
       "#source": "852郵報 Post852",
