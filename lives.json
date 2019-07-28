@@ -22,9 +22,9 @@
       "active": true
     },
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/214940076089009/",
-      "#title": "香港蘋果日報 Apple Daily",
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/bi2mzbpami8",
+      "#title": "香港蘋果日報 Apple Daily HK",
       "#source": "香港蘋果日報 Apple Daily HK",
       "active": true
     },
@@ -296,10 +296,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/ICNHhc18E7k",
+      "#id": "https://www.youtube.com/embed/RT89U1cC-AI",
       "#title": "大紀元時報 The Epoch Times",
       "#source": "大紀元時報 The Epoch Times",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
