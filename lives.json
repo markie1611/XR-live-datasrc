@@ -26,7 +26,7 @@
       "#id": "https://www.facebook.com/rthkPCA/videos/647175459121611/",
       "#title": "港台電視部－公共事務組",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -45,9 +45,9 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/507281850101140/",
-      "#title": "Now 新聞 Now News",
+      "#title": "Now 新聞 Now News (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -145,7 +145,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/2488918244500930/",
       "#title": "01新聞 01 News",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -159,7 +159,7 @@
       "#id": "https://www.facebook.com/onccnews/videos/531465394347546/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
