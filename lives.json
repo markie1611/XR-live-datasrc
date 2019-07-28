@@ -339,7 +339,7 @@
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/o-8u_jcLIUc",
-      "#title": "RT",
+      "#title": "RT (2)",
       "#source": "RT",
       "active": false
     },
@@ -411,7 +411,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/1409593595856219/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
