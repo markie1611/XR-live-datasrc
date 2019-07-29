@@ -9,17 +9,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/727096571067922/",
+      "#id": "https://www.facebook.com/icablenews/videos/369715033664065/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/rthkPCA/videos/647175459121611/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/491836864976962/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -37,7 +37,7 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/HnazButkGb4",
+      "#id": "https://www.facebook.com/now.comNews/videos/2380458915573342/",
       "#title": "Now 新聞 Now News (Youtube)",
       "#source": "Now 新聞 Now News",
       "active": false
@@ -51,10 +51,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/354316552164940/",
+      "#id": "https://www.facebook.com/standnewshk/videos/486204818820138/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -93,10 +93,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/842077186174519/",
+      "#id": "https://www.facebook.com/inmediahk/videos/457274568184230/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -142,10 +142,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/2488918244500930/",
+      "#id": "https://www.facebook.com/hk01.news/videos/2283792281936245/",
       "#title": "01新聞 01 News",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
