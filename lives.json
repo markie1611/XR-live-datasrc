@@ -156,10 +156,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/531465394347546/",
+      "#id": "https://www.facebook.com/onccnews/videos/1122127041315509/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -429,10 +429,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/457184511791436/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/703505016760030/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
