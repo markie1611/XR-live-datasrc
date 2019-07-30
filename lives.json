@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -19,7 +19,7 @@
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/463286084503263/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -68,7 +68,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/456598298253233/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -173,7 +173,7 @@
       "#id": "https://www.facebook.com/onccnews/videos/2337073773228038/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -481,7 +481,7 @@
       "#id": "https://www.facebook.com/heiheixd2/videos/2357479397707174/",
       "#title": "Ronnie Hei",
       "#source": "Ronnie Hei",
-      "active": true
+      "active": false
     }
   ]
 }
