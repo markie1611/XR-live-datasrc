@@ -23,6 +23,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/rthk31thisweek/videos/687350618360061/",
+      "#title": "香港電台視點31",
+      "#source": "香港電台視點31",
+      "active: true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/rthkPCA/videos/647175459121611/",
       "#title": "港台電視部－公共事務組",
       "#source": "香港電台 RTHK",
