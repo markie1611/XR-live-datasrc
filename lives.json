@@ -317,10 +317,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/329817881227616/",
+      "#id": "https://www.facebook.com/376552872550155/videos/2333701553560922/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -446,7 +446,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/331981707677692/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
