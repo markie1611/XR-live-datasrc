@@ -156,10 +156,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/1410421222446926",
+      "#id": "https://www.facebook.com/hk01.news/videos/347527536197941/",
       "#title": "01新聞 01 News (2)",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
