@@ -51,7 +51,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/469325037196874/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2623094691058819/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
       "active": true
@@ -145,7 +145,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/914323128901244/",
       "#title": "01新聞 01 News",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
