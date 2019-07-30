@@ -51,17 +51,17 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/",
+      "#id": "https://www.youtube.com/embed/sRYuudd3dwQ",
       "#title": "Now 新聞 Now News (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/1235832083262420/",
       "#title": "Now 新聞 Now News (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -468,6 +468,13 @@
       "#title": "黃之鋒 Joshua Wong",
       "#source": "黃之鋒 Joshua Wong",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/heiheixd2/videos/2357479397707174/",
+      "#title": "Ronnie Hei",
+      "#source": "Ronnie Hei",
+      "active": true
     }
   ]
 }
