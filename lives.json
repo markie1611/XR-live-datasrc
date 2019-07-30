@@ -25,7 +25,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/rthk31thisweek/videos/687350618360061/",
       "#title": "香港電台視點31",
-      "#source": "香港電台視點31",
+      "#source": "香港電台 RTHK",
       "active": true
     },
     {
@@ -436,10 +436,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/495669111180975/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/397981937578177/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
