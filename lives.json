@@ -54,7 +54,7 @@
       "#id": "https://www.facebook.com/now.comNews/videos/378638636383965/",
       "#title": "Now 新聞 Now News (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -166,7 +166,7 @@
       "#id": "https://www.facebook.com/onccnews/videos/1122127041315509/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
