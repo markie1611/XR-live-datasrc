@@ -47,7 +47,7 @@
       "#id": "https://www.facebook.com/applecitycrime/videos/2420451691572984/",
       "#title": "香港蘋果日報 Apple Daily HK",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -68,7 +68,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/1002185943484779/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -110,7 +110,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/440350896550487/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
