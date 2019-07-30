@@ -16,10 +16,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2887628241252706/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/361976624478395/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -43,6 +43,13 @@
       "active": false
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/applecitycrime/videos/2420451691572984/",
+      "#title": "香港蘋果日報 Apple Daily HK",
+      "#source": "香港蘋果日報 Apple Daily HK",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/",
       "#title": "Now 新聞 Now News (Youtube)",
@@ -58,10 +65,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/344901609736742/",
+      "#id": "https://www.facebook.com/standnewshk/videos/748025705655405/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -163,10 +170,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/1122127041315509/",
+      "#id": "https://www.facebook.com/onccnews/videos/2337073773228038/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
