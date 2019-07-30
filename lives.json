@@ -9,10 +9,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/369715033664065/",
+      "#id": "https://www.facebook.com/icablenews/videos/575768846284635/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -51,10 +51,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/378638636383965/",
+      "#id": "https://www.facebook.com/now.comNews/videos/2469233513158526/",
       "#title": "Now 新聞 Now News (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -152,7 +152,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/373428590040977/",
       "#title": "01新聞 01 News",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
