@@ -5,21 +5,21 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/575768846284635/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/1746112989021020/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -54,14 +54,14 @@
       "#id": "https://www.facebook.com/now.comNews/videos/2469233513158526/",
       "#title": "Now 新聞 Now News (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/344901609736742/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
