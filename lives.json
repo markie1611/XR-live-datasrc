@@ -323,6 +323,13 @@
       "active": false
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/cityusu.cbc/videos/957733304557661/",
+      "#title": "CityUSU",
+      "#source": "CityUSU",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/auLKPYs0M0Q",
       "#title": "Washington Post",
