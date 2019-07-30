@@ -65,17 +65,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/748025705655405/",
+      "#id": "https://www.facebook.com/standnewshk/videos/1002185943484779/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2925090594184845/",
+      "#id": "https://www.facebook.com/standnewshk/videos/525608768267469/",
       "#title": "立場新聞 Stand News (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -128,10 +128,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/450533895799675/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/2459130657483865/",
       "#title": "Hong Kong Free Press HKFP (2)",
       "#source": "Hong Kong Free Press HKFP",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
