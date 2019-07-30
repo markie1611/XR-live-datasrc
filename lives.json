@@ -366,10 +366,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/NsAGP9EA_q0",
+      "#id": "https://www.youtube.com/embed/af_yGgxA4n8",
       "#title": "大紀元時報 The Epoch Times",
       "#source": "大紀元時報 The Epoch Times",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -429,7 +429,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/350478609175046/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/495669111180975/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
       "active": true
