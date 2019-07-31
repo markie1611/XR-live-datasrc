@@ -37,10 +37,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/2255217278032117/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2379496808798742/",
       "#title": "香港蘋果日報 Apple Daily HK",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -58,10 +58,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/2298673360387444/",
+      "#id": "https://www.facebook.com/now.comNews/videos/397490114455334/",
       "#title": "Now 新聞 Now News (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
