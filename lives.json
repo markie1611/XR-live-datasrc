@@ -37,10 +37,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/bi2mzbpami8",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2255217278032117/",
       "#title": "香港蘋果日報 Apple Daily HK",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
