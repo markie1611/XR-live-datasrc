@@ -16,10 +16,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/492363698198363/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/436267253638885/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -58,10 +58,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/1235832083262420/",
+      "#id": "https://www.facebook.com/now.comNews/videos/2298673360387444/",
       "#title": "Now 新聞 Now News (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -310,7 +310,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/EdUHKSUEB/videos/474852706427420/",
+      "#id": "https://www.facebook.com/EdUHKSUEB/videos/410104506294855/",
       "#title": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board",
       "#source": "香港教育大學學生會編輯委員會 EdUHKSU Editorial Board ",
       "active": false
