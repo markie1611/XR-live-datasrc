@@ -16,10 +16,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/921484118202943/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/495184664577036/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2388749244540147/",
+      "#title": "香港電台視像新聞 RTHK VNEWS (2)",
+      "#source": "香港電台 RTHK",
+      "active": true
     },
     {
       "type": "facebook",
@@ -65,10 +72,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1199562160167847/",
+      "#id": "https://www.facebook.com/standnewshk/videos/1199505456923019/",
       "#title": "立場新聞 Stand News",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
