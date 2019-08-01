@@ -47,7 +47,7 @@
       "#id": "https://www.facebook.com/applecitycrime/videos/342539240019423/",
       "#title": "香港蘋果日報 Apple Daily HK",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -180,7 +180,7 @@
       "#id": "https://www.facebook.com/onccnews/videos/2524300717805802/",
       "#title": "東網／東方日報 on.cc",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
