@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2388749244540147/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/368537263856694/",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -114,10 +114,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/440350896550487/",
+      "#id": "https://www.facebook.com/inmediahk/videos/500716674013406/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
