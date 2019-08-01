@@ -166,7 +166,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/2303072553102912/",
       "#title": "01新聞 01 News",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -268,10 +268,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/1165182460351445/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/216175452620656/",
       "#title": "Truth Media Hong Kong",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
