@@ -44,10 +44,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/applecitycrime/videos/397082117603935/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/439427233308788/",
       "#title": "蘋果fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -58,10 +58,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/502029447220531/",
+      "#id": "https://www.facebook.com/now.comNews/videos/2429247360680640/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -79,10 +79,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1224369497745763/",
+      "#id": "https://www.facebook.com/standnewshk/videos/709836709463383/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -114,10 +114,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/376971079546148/",
+      "#id": "https://www.facebook.com/inmediahk/videos/393324554875597/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -163,10 +163,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/576937026168561/",
+      "#id": "https://www.facebook.com/hk01.news/videos/1498067417013135/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -268,10 +268,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/2014182498682778/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/598005514061815/",
       "#title": "Truth Media Hong Kong",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
