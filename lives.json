@@ -47,7 +47,7 @@
       "#id": "https://www.facebook.com/applecitycrime/videos/397082117603935/",
       "#title": "蘋果fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -72,7 +72,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2534245926621189/",
+      "#id": "https://www.facebook.com/standnewshk/videos/1384419815031103/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
       "active": false
