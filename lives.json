@@ -75,7 +75,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/1384419815031103/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -268,17 +268,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/598005514061815/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/2294672427253353/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/1087687501420848/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/346929102896223/",
       "#title": "TMHK LIVE (2)",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
