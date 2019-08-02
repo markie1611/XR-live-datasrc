@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -184,10 +184,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/501517153928080/",
+      "#id": "https://www.facebook.com/onccnews/videos/2627551113943270/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
