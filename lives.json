@@ -82,7 +82,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/709836709463383/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -271,7 +271,7 @@
       "#id": "https://www.facebook.com/TMHK.ORG/videos/598005514061815/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
