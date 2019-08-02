@@ -269,16 +269,16 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/598005514061815/",
-      "#title": "Truth Media Hong Kong",
+      "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/423513121583355/",
-      "#title": "Truth Media Hong Kong (2)",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/1087687501420848/",
+      "#title": "TMHK LIVE (2)",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
