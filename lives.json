@@ -219,7 +219,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/2315442771858076/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/2082019858570364/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
       "active": true
@@ -296,10 +296,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hkucampustv/videos/2398217247130702/",
+      "#id": "https://www.facebook.com/hkucampustv/videos/2356860621065825/",
       "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
       "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
