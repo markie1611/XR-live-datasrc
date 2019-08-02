@@ -51,10 +51,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/439427233308788/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/926155654394540/",
       "#title": "蘋果fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
