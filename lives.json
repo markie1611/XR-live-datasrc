@@ -26,14 +26,14 @@
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/360106654884104/",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/429307981005876/",
       "#title": "香港電台視像新聞 RTHK VNEWS (3)",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
