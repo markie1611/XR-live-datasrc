@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -16,7 +16,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2126867197607616/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/332785940943070/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
       "active": false
@@ -44,10 +44,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/applecitycrime/videos/343594873216230/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/397362670907902/",
       "#title": "香港蘋果日報 Apple Daily HK",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -57,16 +57,16 @@
       "active": false
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/373814310176512/",
+      "#title": "Now 新聞 Now News (Facebook)",
+      "#source": "Now 新聞 Now News",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/sRYuudd3dwQ",
       "#title": "Now 新聞 Now News (Youtube)",
-      "#source": "Now 新聞 Now News",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/880892535577293/",
-      "#title": "Now 新聞 Now News (Facebook)",
       "#source": "Now 新聞 Now News",
       "active": false
     },
@@ -114,10 +114,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/669550643542063/",
+      "#id": "https://www.facebook.com/inmediahk/videos/376971079546148/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
