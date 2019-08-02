@@ -170,10 +170,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/2295048207209403/",
+      "#id": "https://www.facebook.com/hk01.news/videos/331979584348766/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -467,7 +467,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/303561097111822/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
