@@ -16,7 +16,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/332785940943070/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/325905138293154/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
       "active": true
@@ -47,7 +47,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/397362670907902/",
       "#title": "香港蘋果日報 Apple Daily HK",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -61,7 +61,7 @@
       "#id": "https://www.facebook.com/now.comNews/videos/373814310176512/",
       "#title": "Now 新聞 Now News (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -117,7 +117,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/376971079546148/",
       "#title": "香港獨立媒體網 inmediahk.net",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -163,10 +163,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/358601098389395/",
+      "#id": "https://www.facebook.com/hk01.news/videos/368713240483290/",
       "#title": "01新聞 01 News",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
