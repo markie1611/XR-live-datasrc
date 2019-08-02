@@ -16,10 +16,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/887276764975214/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/616669235490151/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -177,10 +177,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/796184924109061/",
+      "#id": "https://www.facebook.com/onccnews/videos/335225297356436/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
