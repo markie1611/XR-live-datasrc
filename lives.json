@@ -278,7 +278,7 @@
       "#id": "https://www.facebook.com/TMHK.ORG/videos/1087687501420848/",
       "#title": "TMHK LIVE (2)",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -457,10 +457,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/2352460194803540/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/441795739753536/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
