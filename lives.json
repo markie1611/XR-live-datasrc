@@ -233,10 +233,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/833175673750001/",
-      "#title": "社會記錄頻道 SocREC",
+      "#id": "https://www.facebook.com/socrec/videos/517946642278425/",
+      "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
