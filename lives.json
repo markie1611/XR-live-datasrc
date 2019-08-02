@@ -79,10 +79,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1356553084493162/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2349835551942513/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -187,7 +187,7 @@
       "#id": "https://www.facebook.com/onccnews/videos/501517153928080/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -243,7 +243,7 @@
       "#id": "https://www.facebook.com/socrec/videos/517946642278425/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
