@@ -114,6 +114,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/2853795654692351/",
+      "#title": "立場直播 (6)",
+      "#source": "立場新聞 Stand News",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/656942208119355/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
@@ -128,10 +135,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/2507620425947831/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/726501561138952/",
       "#title": "HKFP Live",
       "#source": "Hong Kong Free Press",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
