@@ -131,7 +131,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/447734972732638/",
       "#title": "HKFP Live",
       "#source": "Hong Kong Free Press",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -474,7 +474,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/2874816479201897/",
       "#title": "癲狗FB Live (2)",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
