@@ -128,10 +128,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/903290560026520/",
+      "#id": "https://www.facebook.com/inmediahk/videos/439108606695048//",
       "#title": "獨媒直播 (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
