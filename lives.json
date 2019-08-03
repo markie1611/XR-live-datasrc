@@ -401,10 +401,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/af_yGgxA4n8",
+      "#id": "https://www.youtube.com/embed/J-HO__UnlVo",
       "#title": "大紀元時報 The Epoch Times",
       "#source": "大紀元時報 The Epoch Times",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
