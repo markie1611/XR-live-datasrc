@@ -484,11 +484,11 @@
       "active": false
     },
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/tvbsfb/videos/491628851603234/",
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/PIFDOabSovg/",
       "#title": "TVBS",
       "#source": "TVBS",
-      "active": false
+      "active": true
     }
   ]
 }
