@@ -45,16 +45,23 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/652140275307957/",
-      "#title": "蘋果fb live",
+      "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/407788506527470/",
-      "#title": "蘋果fb live (2)",
+      "#title": "蘋果 fb live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
       "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/NRlng2MaOT0",
+      "#title": "蘋果 Youtube live",
+      "#source": "香港蘋果日報 Apple Daily HK",
+      "active": true
     },
     {
       "type": "facebook",
