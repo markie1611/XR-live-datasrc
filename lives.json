@@ -261,10 +261,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/715390858898974/",
+      "#id": "https://www.facebook.com/passiontimes/videos/451469858786496/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -352,10 +352,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/cityusu.cbc/videos/957733304557661/",
-      "#title": "CityUSU",
-      "#source": "CityUSU",
-      "active": false
+      "#id": "https://www.facebook.com/cityusu.cbc/videos/433589564155796/",
+      "#title": "CBC LIVE",
+      "#source": "城市廣播 City Broadcasting Channel (CBC)",
+      "active": true
     },
     {
       "type": "youtube",
@@ -464,10 +464,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/340829693468742/",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2336272593130127/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -478,7 +478,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/491873474957850/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/2888729737866099/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
       "active": true
