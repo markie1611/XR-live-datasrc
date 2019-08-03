@@ -86,7 +86,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/376293499748781/",
+      "#id": "https://www.facebook.com/standnewshk/videos/487005752119229/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
       "active": true
@@ -485,10 +485,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/2451994001793074/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/884623678585690/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
