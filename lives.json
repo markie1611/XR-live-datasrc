@@ -243,7 +243,7 @@
       "#id": "https://www.facebook.com/passiontimes/videos/667743873701482/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -317,10 +317,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/379333969452193/",
+      "#id": "https://www.facebook.com/376552872550155/videos/430832354176789/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
