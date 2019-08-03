@@ -103,7 +103,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/2243423745783066/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -271,7 +271,7 @@
       "#id": "https://www.facebook.com/passiontimes/videos/398529044104766/",
       "#title": "熱時直播 (2)",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -467,7 +467,7 @@
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/452789758894933/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -481,7 +481,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/2888729737866099/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
