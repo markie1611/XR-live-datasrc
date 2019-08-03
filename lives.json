@@ -166,13 +166,6 @@
       "#id": "https://www.facebook.com/hk01.news/videos/1292394060911221/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/2973246239415881/",
-      "#title": "01直播 (2)",
-      "#source": "香港01 HK01",
       "active": false
     },
     {
@@ -185,14 +178,21 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/695246160897028/",
-      "#title": "港台直播 - 「希望明天」反暴力音樂集會",
+      "#title": "港台直播 - 維園反暴力集會",
       "#source": "香港電台 RTHK",
       "active": true
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/hk01.news/videos/375088403191926/",
+      "#title": "01直播 - 維園反暴力集會",
+      "#source": "香港01 HK01",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/581417002387461/",
-      "#title": "東網直播 - 「希望明天」反暴力音樂集會",
+      "#title": "東網直播 - 維園反暴力集會",
       "#source": "東網／東方日報 on.cc",
       "active": true
     },
