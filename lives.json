@@ -198,10 +198,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/1235305613294514/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/454642568715094/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -451,7 +451,14 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/maddog.hk/videos/1352717388215507/",
-      "#title": "癲狗日報 Maddog.HK",
+      "#title": "癲狗FB Live",
+      "#source": "癲狗日報 Maddog.HK",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/maddog.hk/videos/396096371034001/",
+      "#title": "癲狗FB Live (2)",
       "#source": "癲狗日報 Maddog.HK",
       "active": true
     },
