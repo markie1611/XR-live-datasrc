@@ -16,10 +16,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2206207116168434/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/908687276159596/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -86,10 +86,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/644499339371457/",
+      "#id": "https://www.facebook.com/standnewshk/videos/406623556634907/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
