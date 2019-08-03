@@ -72,10 +72,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/sRYuudd3dwQ",
+      "#id": "https://www.youtube.com/embed/Vne9Aya-ZP8",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
