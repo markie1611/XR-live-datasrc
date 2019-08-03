@@ -131,7 +131,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/656942208119355/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -341,7 +341,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/489136701846967/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
