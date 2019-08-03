@@ -387,10 +387,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/ZKC-C1nTbwc",
+      "#id": "https://www.youtube.com/embed/sZ8QecdCx-g",
       "#title": "大紀元時報 The Epoch Times",
       "#source": "大紀元時報 The Epoch Times",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
