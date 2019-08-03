@@ -79,10 +79,17 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/inmediahk/videos/368132070552514/",
+      "#title": "獨媒直播",
+      "#source": "香港獨立媒體網 inmediahk.net",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/478839599601793/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -94,37 +101,30 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/513270949410326/",
-      "#title": "立場直播 (3)",
+      "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/1102667026589341/",
-      "#title": "立場直播 (4)",
+      "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/808370609596773/",
-      "#title": "立場直播 (5)",
+      "#title": "立場直播 (4)",
       "#source": "立場新聞 Stand News",
       "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/2441740199251282/",
-      "#title": "立場直播 (6)",
+      "#title": "立場直播 (5)",
       "#source": "立場新聞 Stand News",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/368132070552514/",
-      "#title": "獨媒直播",
-      "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
     },
     {
       "type": "facebook",
