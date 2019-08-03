@@ -401,10 +401,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/cantonese.rfa/videos/682086355600422/",
-      "#title": "自由亞洲粵語 RFA Cantonese",
-      "#source": "自由亞洲粵語 RFA Cantonese",
-      "active": false
+      "#id": "https://www.facebook.com/cantonese.rfa/videos/369074160470777/",
+      "#title": "RFA 粵語直播",
+      "#source": "自由亞洲 Radio Free Asia",
+      "active": true
     },
     {
       "type": "youtube",
