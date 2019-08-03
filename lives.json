@@ -152,7 +152,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/422816958442471/",
       "#title": "HKFP Live",
       "#source": "Hong Kong Free Press",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -464,10 +464,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2336272593130127/",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/452789758894933/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
