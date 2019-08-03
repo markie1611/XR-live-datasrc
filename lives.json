@@ -491,6 +491,13 @@
       "active": false
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/seelifehk/videos/344284313141221/",
+      "#title": "See生活",
+      "#source": "See生活",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/beSaK_Q24Zw",
       "#title": "香港商報",
