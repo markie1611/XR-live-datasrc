@@ -100,17 +100,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/808370609596773/",
+      "#id": "https://www.facebook.com/standnewshk/videos/717109842035115/",
       "#title": "立場直播 (4)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2441740199251282/",
+      "#id": "https://www.facebook.com/standnewshk/videos/373215730049437/",
       "#title": "立場直播 (5)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -254,10 +254,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/433140930613015/",
+      "#id": "https://www.facebook.com/passiontimes/videos/1064589593711546/",
       "#title": "熱時直播 (3)",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
