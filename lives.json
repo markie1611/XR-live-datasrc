@@ -166,7 +166,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/395562504426001/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -418,7 +418,7 @@
       "#id": "https://www.youtube.com/embed/fxnIsdoMuyY",
       "#title": "RFA 粵語直播",
       "#source": "自由亞洲 Radio Free Asia",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
