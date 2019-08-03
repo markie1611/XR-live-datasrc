@@ -191,10 +191,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/YahooHongKongNews/videos/218700195697905/",
-      "#title": "雅虎香港新聞 Yahoo HK News",
+      "#id": "https://www.facebook.com/YahooHongKongNews/videos/434769067126162/",
+      "#title": "Yahoo 直播",
       "#source": "雅虎香港新聞 Yahoo HK News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
