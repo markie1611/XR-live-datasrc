@@ -485,7 +485,7 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/PIFDOabSovg/",
+      "#id": "https://www.youtube.com/embed/PIFDOabSovg",
       "#title": "TVBS",
       "#source": "TVBS",
       "active": true
