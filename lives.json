@@ -429,10 +429,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/setnews/videos/2346435008804099/",
+      "#id": "https://www.facebook.com/setnews/videos/506511886769900/",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -471,7 +471,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/2433480793597214/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/447371752660213/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
       "active": true
