@@ -114,13 +114,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/406623556634907/",
-      "#title": "立場直播 - 維園反暴力集會",
-      "#source": "立場新聞 Stand News",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/716308615484676/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
@@ -404,7 +397,7 @@
       "#id": "https://www.youtube.com/embed/iLalBGU_12E",
       "#title": "852郵報 Post852",
       "#source": "852郵報 Post852",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
