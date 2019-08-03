@@ -219,10 +219,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/373347750018511/",
+      "#id": "https://www.facebook.com/socrec/videos/905716283111355/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -243,7 +243,7 @@
       "#id": "https://www.facebook.com/passiontimes/videos/2538525892878603/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
