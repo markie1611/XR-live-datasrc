@@ -400,8 +400,8 @@
       "active": false
     },
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/cantonese.rfa/videos/369074160470777/",
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/fxnIsdoMuyY",
       "#title": "RFA 粵語直播",
       "#source": "自由亞洲 Radio Free Asia",
       "active": true
