@@ -450,10 +450,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/447371752660213/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/2330610717046661/",
       "#title": "癲狗日報 Maddog.HK",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
