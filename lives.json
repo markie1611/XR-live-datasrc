@@ -261,6 +261,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/passiontimes/videos/328166518071106/",
+      "#title": "熱時直播 (4)",
+      "#source": "熱血時報 PassionTimes",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/339874716962117/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
@@ -324,10 +331,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/503000057173710/",
+      "#id": "https://www.facebook.com/376552872550155/videos/405742406713152/",
       "#title": "米報 Rice Post (2)",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
