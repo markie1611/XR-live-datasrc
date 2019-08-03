@@ -96,7 +96,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/1132622316921078/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -271,13 +271,6 @@
       "#id": "https://www.facebook.com/passiontimes/videos/370393667188771/",
       "#title": "熱時直播 (3)",
       "#source": "熱血時報 PassionTimes",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/695246160897028/",
-      "#title": "港台直播 - 維園反暴力集會",
-      "#source": "香港電台 RTHK",
       "active": true
     },
     {
