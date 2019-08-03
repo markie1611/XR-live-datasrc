@@ -86,10 +86,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/345461583074957/",
+      "#id": "https://www.facebook.com/standnewshk/videos/630482460794622/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -121,10 +121,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/439108606695048//",
+      "#id": "https://www.facebook.com/inmediahk/videos/366386414048091/",
       "#title": "獨媒直播 (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -282,10 +282,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hkucampustv/videos/2356860621065825/",
+      "#id": "https://www.facebook.com/hkucampustv/videos/487129958733406/",
       "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
       "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
