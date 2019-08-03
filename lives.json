@@ -240,10 +240,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/794924820910011/",
+      "#id": "https://www.facebook.com/passiontimes/videos/667743873701482/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
