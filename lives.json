@@ -289,10 +289,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hkucampustv/videos/346157596321277/",
+      "#id": "https://www.facebook.com/hkucampustv/videos/684322282031568/",
       "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
       "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -471,10 +471,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/2874816479201897/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/400379017268727/",
       "#title": "癲狗FB Live (2)",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
