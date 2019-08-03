@@ -183,11 +183,18 @@
       "active": true
     },
     {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/o-C-8YQ0hYc",
+      "#title": "東網直播 (Youtube)",
+      "#source": "東網／東方日報 on.cc",
+      "active": true
+    },
+    {
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/895643380793305/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
