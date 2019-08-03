@@ -138,7 +138,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/450379999026224/",
       "#title": "HKFP Live",
       "#source": "Hong Kong Free Press",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -184,13 +184,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/581417002387461/",
-      "#title": "東網直播 - 維園反暴力集會",
-      "#source": "東網／東方日報 on.cc",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/mingpaoinews/videos/2275354805895203/",
       "#title": "明報即時新聞 Mingpao News",
       "#source": "明報即時新聞 Mingpao News",
@@ -208,7 +201,7 @@
       "#id": "https://www.facebook.com/YahooHongKongNews/videos/218700195697905/",
       "#title": "雅虎香港新聞 Yahoo HK News",
       "#source": "雅虎香港新聞 Yahoo HK News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -236,7 +229,7 @@
       "#id": "https://www.facebook.com/socrec/videos/363251517700087/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
