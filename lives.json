@@ -219,10 +219,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/646115545876113/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/1235305613294514/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -268,10 +268,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/420678838540888/",
+      "#id": "https://www.facebook.com/passiontimes/videos/435167817072280/",
       "#title": "熱時直播 (2)",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/passiontimes/videos/370393667188771/",
+      "#title": "熱時直播 (3)",
+      "#source": "熱血時報 PassionTimes",
+      "active": true
     },
     {
       "type": "facebook",
