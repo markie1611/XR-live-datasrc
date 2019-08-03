@@ -415,17 +415,17 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/J-HO__UnlVo",
+      "#id": "https://www.youtube.com/embed/ZKC-C1nTbwc",
       "#title": "大紀元時報 The Epoch Times",
       "#source": "大紀元時報 The Epoch Times",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/UsgJWZypxdY",
+      "#id": "https://www.youtube.com/embed/iLalBGU_12E",
       "#title": "852郵報 Post852",
       "#source": "852郵報 Post852",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -484,11 +484,11 @@
       "active": true
     },
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/news.hkcd/videos/2309266876054169/",
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/beSaK_Q24Zw",
       "#title": "香港商報",
       "#source": "香港商報",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
