@@ -64,6 +64,13 @@
       "active": true
     },
     {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Dj7yhio-HT4",
+      "#title": "蘋果 Youtube live (2)",
+      "#source": "香港蘋果日報 Apple Daily HK",
+      "active": true
+    },
+    {
       "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/458629144982730/",
       "#title": "Now 新聞 (Facebook)",
@@ -481,11 +488,11 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/400379017268727/",
       "#title": "癲狗FB Live (2)",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/ArmChannelTV/videos/481205875777229/",
+      "#id": "https://www.facebook.com/ArmChannelTV/videos/732893657128748/",
       "#title": "啱Channel",
       "#source": "啱Channel",
       "active": false
