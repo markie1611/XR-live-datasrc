@@ -240,10 +240,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/626565564532638/",
+      "#id": "https://www.facebook.com/passiontimes/videos/715390858898974/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -285,7 +285,7 @@
       "#id": "https://www.facebook.com/hkucampustv/videos/346157596321277/",
       "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
       "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
