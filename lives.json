@@ -489,20 +489,6 @@
       "#title": "TVBS",
       "#source": "TVBS",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/joshuawongchifung/videos/695329897557186/",
-      "#title": "黃之鋒 Joshua Wong",
-      "#source": "黃之鋒 Joshua Wong",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/heiheixd2/videos/2357479397707174/",
-      "#title": "Ronnie Hei",
-      "#source": "Ronnie Hei",
-      "active": false
     }
   ]
 }
