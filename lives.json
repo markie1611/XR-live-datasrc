@@ -262,16 +262,16 @@
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/768286636919257/",
-      "#title": "熱血時報 PassionTimes",
+      "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/2367735183273150/",
-      "#title": "熱血時報 PassionTimes (2)",
+      "#id": "https://www.facebook.com/passiontimes/videos/420678838540888/",
+      "#title": "熱時直播 (2)",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -429,7 +429,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/setnews/videos/652111198590869/",
+      "#id": "https://www.facebook.com/setnews/videos/2346435008804099/",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
       "active": false
