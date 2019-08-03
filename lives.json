@@ -44,6 +44,20 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/458629144982730/",
+      "#title": "Now 新聞 (Facebook)",
+      "#source": "Now 新聞 Now News",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Vne9Aya-ZP8",
+      "#title": "Now 新聞 (Youtube)",
+      "#source": "Now 新聞 Now News",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/652140275307957/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
@@ -68,20 +82,6 @@
       "#id": "https://www.youtube.com/embed/Dj7yhio-HT4",
       "#title": "蘋果 Youtube live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/458629144982730/",
-      "#title": "Now 新聞 (Facebook)",
-      "#source": "Now 新聞 Now News",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Vne9Aya-ZP8",
-      "#title": "Now 新聞 (Youtube)",
-      "#source": "Now 新聞 Now News",
       "active": true
     },
     {
@@ -149,10 +149,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/726501561138952/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/1363301603836599/",
       "#title": "HKFP Live",
       "#source": "Hong Kong Free Press",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
