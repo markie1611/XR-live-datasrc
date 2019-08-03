@@ -128,10 +128,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/332623024347083/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/756960138070553/",
       "#title": "HKFP Live",
       "#source": "Hong Kong Free Press",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -243,7 +243,7 @@
       "#id": "https://www.facebook.com/passiontimes/videos/794924820910011/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
