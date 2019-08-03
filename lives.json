@@ -194,7 +194,7 @@
       "#id": "https://www.facebook.com/YahooHongKongNews/videos/434769067126162/",
       "#title": "Yahoo 直播",
       "#source": "雅虎香港新聞 Yahoo HK News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -240,17 +240,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/370695337177786/",
+      "#id": "https://www.facebook.com/passiontimes/videos/794924820910011/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/500933384004809/",
       "#title": "熱時直播 (2)",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
