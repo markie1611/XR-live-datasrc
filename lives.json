@@ -128,10 +128,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/1088169148238322/",
+      "#id": "https://www.facebook.com/hongkongfp/videos/332623024347083/",
       "#title": "HKFP Live",
       "#source": "Hong Kong Free Press",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
