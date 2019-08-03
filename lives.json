@@ -121,10 +121,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/436710767053632/",
+      "#id": "https://www.facebook.com/inmediahk/videos/368132070552514/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -261,10 +261,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/530297010843187/",
+      "#id": "https://www.facebook.com/passiontimes/videos/768286636919257/",
       "#title": "熱血時報 PassionTimes",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -275,10 +275,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/515306355904208/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/333404897539976/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
