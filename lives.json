@@ -243,7 +243,7 @@
       "#id": "https://www.facebook.com/socrec/videos/296960361133662/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -299,7 +299,7 @@
       "#id": "https://www.facebook.com/TMHK.ORG/videos/386357075345561/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -352,10 +352,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/365835277415910/",
+      "#id": "https://www.facebook.com/376552872550155/videos/2613999928663055/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
