@@ -156,10 +156,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hongkongfp/videos/2290795067702089/",
+      "#id": "https://www.facebook.com/standnewshk/videos/774811999583730/",
       "#title": "HKFP Live",
       "#source": "Hong Kong Free Press",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
