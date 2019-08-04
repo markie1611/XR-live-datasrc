@@ -327,7 +327,7 @@
       "#id": "https://www.facebook.com/TMHK.ORG/videos/1500111496797496/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -492,10 +492,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/bbcnewstrad/videos/470917520353538/",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/396579474305912/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
