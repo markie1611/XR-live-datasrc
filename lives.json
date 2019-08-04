@@ -138,7 +138,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/716181618803883/",
       "#title": "獨媒直播 (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -299,21 +299,21 @@
       "#id": "https://www.youtube.com/embed/sstYbu5Y1qk",
       "#title": "TMHK LIVE (Youtube)",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/YgSV1enzd_s",
       "#title": "TMHK LIVE (Youtube, 2)",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/448212849067386/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/1500111496797496/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
