@@ -131,7 +131,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/361194591446110/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -243,7 +243,7 @@
       "#id": "https://www.facebook.com/socrec/videos/2328016017236218/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
