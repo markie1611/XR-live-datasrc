@@ -44,17 +44,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/468331880672230/",
+      "#id": "https://www.facebook.com/now.comNews/videos/468151577096438/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/5ScQhtskiZ0",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -142,10 +142,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/716181618803883/",
+      "#id": "https://www.facebook.com/inmediahk/videos/289901935181116/",
       "#title": "獨媒直播 (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
