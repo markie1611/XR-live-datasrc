@@ -117,14 +117,14 @@
       "#id": "https://www.facebook.com/standnewshk/videos/1123743801160024/",
       "#title": "立場直播 (5)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/477498213039223/",
       "#title": "立場直播 (6)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
