@@ -243,7 +243,7 @@
       "#id": "https://www.facebook.com/atvhongkong/videos/408408559784449/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -264,14 +264,14 @@
       "#id": "https://www.facebook.com/socrec/videos/428174691123679/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/1137358689985264/",
       "#title": "SocREC 直播 (2)",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
