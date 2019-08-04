@@ -89,21 +89,21 @@
       "#id": "https://www.facebook.com/standnewshk/videos/477044009526049/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/2957744130925000/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/327062404844642/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -194,7 +194,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/419498685440303/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
