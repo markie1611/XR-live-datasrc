@@ -380,10 +380,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/359644414706454/",
+      "#id": "https://www.facebook.com/376552872550155/videos/513692045858517/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -520,10 +520,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/2109849932459413/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/2268026580126327/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
