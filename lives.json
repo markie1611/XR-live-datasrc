@@ -348,7 +348,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/365835277415910/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -488,7 +488,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/2113186625454155/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
