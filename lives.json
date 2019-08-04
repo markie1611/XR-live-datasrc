@@ -44,10 +44,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/458629144982730/",
+      "#id": "https://www.facebook.com/now.comNews/videos/468331880672230/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -86,7 +86,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/641677546331063/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2323982801048273/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
       "active": true
@@ -131,7 +131,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/1266890496830185/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -191,10 +191,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/895643380793305/",
+      "#id": "https://www.facebook.com/onccnews/videos/492238334865387/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
