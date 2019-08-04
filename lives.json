@@ -65,10 +65,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/407788506527470/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/340903923518938/",
       "#title": "蘋果 fb live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
