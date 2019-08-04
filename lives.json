@@ -128,7 +128,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/906331813076540/",
+      "#id": "https://www.facebook.com/inmediahk/videos/361194591446110/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
       "active": true
@@ -290,16 +290,16 @@
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/T-xJGh6uNn4",
-      "#title": "TMHK LIVE",
+      "#title": "TMHK LIVE (Youtube)",
       "#source": "Truth Media Hong Kong",
       "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/494807151281209/",
-      "#title": "TMHK LIVE (2)",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/386357075345561/",
+      "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -485,10 +485,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/884623678585690/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/2113186625454155/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
