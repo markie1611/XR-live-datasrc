@@ -261,10 +261,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/428174691123679/",
+      "#id": "https://www.facebook.com/socrec/videos/2072344223072063/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -345,10 +345,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hkucampustv/videos/684322282031568/",
+      "#id": "https://www.facebook.com/hkucampustv/videos/400485910585970/",
       "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
       "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -495,7 +495,7 @@
       "#id": "https://www.facebook.com/bbcnewstrad/videos/470917520353538/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -509,7 +509,7 @@
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/391488261552680/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -520,10 +520,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/439175760007002/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/2109849932459413/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
