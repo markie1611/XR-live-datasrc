@@ -47,21 +47,21 @@
       "#id": "https://www.facebook.com/now.comNews/videos/468331880672230/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/ZWlOz4Ag5rY",
+      "#id": "https://www.youtube.com/embed/5ScQhtskiZ0",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/440608883455216/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -72,10 +72,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/NRlng2MaOT0",
+      "#id": "https://www.youtube.com/embed/0dYOG-cVTOA",
       "#title": "蘋果 Youtube live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -191,17 +191,17 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/o-C-8YQ0hYc",
+      "#id": "https://www.youtube.com/embed/sF5smc0lqzQ",
       "#title": "東網直播 (Youtube)",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/492238334865387/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -296,24 +296,31 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/T-xJGh6uNn4",
+      "#id": "https://www.youtube.com/embed/sstYbu5Y1qk",
       "#title": "TMHK LIVE (Youtube)",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/YgSV1enzd_s",
+      "#title": "TMHK LIVE (Youtube, 2)",
+      "#source": "Truth Media Hong Kong",
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/448212849067386/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/2894857040589330/",
       "#title": "TMHK LIVE (2)",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
