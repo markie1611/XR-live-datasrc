@@ -58,10 +58,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/612528539272762/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/440608883455216/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -86,10 +86,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/474716643075151/",
+      "#id": "https://www.facebook.com/standnewshk/videos/641677546331063/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
