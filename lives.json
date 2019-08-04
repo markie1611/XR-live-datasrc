@@ -16,10 +16,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/336473210591366/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/937850663227973/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -68,7 +68,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/340903923518938/",
       "#title": "蘋果 fb live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -86,7 +86,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/888828704816320/",
+      "#id": "https://www.facebook.com/standnewshk/videos/730518954067800/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
       "active": true
@@ -219,10 +219,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/454642568715094/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/383332655719515/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -240,10 +240,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/2328016017236218/",
+      "#id": "https://www.facebook.com/socrec/videos/296960361133662/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
