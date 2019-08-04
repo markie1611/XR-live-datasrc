@@ -61,7 +61,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/612528539272762/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -128,7 +128,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/459365831288366/",
+      "#id": "https://www.facebook.com/inmediahk/videos/1266890496830185/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
       "active": false
@@ -152,7 +152,7 @@
       "#id": "https://www.facebook.com/hongkongfp/videos/2540609712841111/",
       "#title": "HKFP Live",
       "#source": "Hong Kong Free Press",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
