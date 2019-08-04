@@ -450,7 +450,7 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/NFxmfAlYQAg",
+      "#id": "https://www.youtube.com/embed/vIXXHmJ2CKE",
       "#title": "Ruptly",
       "#source": "Ruptly",
       "active": true
@@ -566,6 +566,13 @@
       "#title": "TVBS",
       "#source": "TVBS",
       "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/MjO5duQGfJ8",
+      "#title": "JASON(大J)",
+      "#source": "JASON(大J)",
+      "active": true
     }
   ]
 }
