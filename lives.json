@@ -324,10 +324,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/1500111496797496/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/2453509298021449/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
