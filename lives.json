@@ -100,10 +100,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2325596821034766/",
+      "#id": "https://www.facebook.com/standnewshk/videos/1359311444232095/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -313,7 +313,7 @@
       "#id": "https://www.youtube.com/embed/RyIL-sG5DFI",
       "#title": "TMHK LIVE (Youtube)",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -450,10 +450,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/M0-H90HIFP0",
+      "#id": "https://www.youtube.com/embed/NFxmfAlYQAg",
       "#title": "Ruptly",
       "#source": "Ruptly",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
