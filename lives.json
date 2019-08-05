@@ -96,7 +96,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/346362279620302/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -401,10 +401,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/359761938277665/",
+      "#id": "https://www.facebook.com/376552872550155/videos/919395481749851/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -422,10 +422,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/cityusu.cbc/videos/433589564155796/",
+      "#id": "https://www.facebook.com/cityusu.cbc/videos/700870997020243/",
       "#title": "CBC LIVE",
       "#source": "城市廣播 City Broadcasting Channel (CBC)",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
