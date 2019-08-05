@@ -107,10 +107,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/770992609982829/",
+      "#id": "https://www.facebook.com/standnewshk/videos/731701370602642/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -268,10 +268,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/scmp/videos/924872757864912/",
+      "#id": "https://www.facebook.com/scmp/videos/536995753781219/",
       "#title": "South China Morning Post",
       "#source": "South China Morning Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
