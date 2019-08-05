@@ -257,7 +257,7 @@
       "#id": "https://www.facebook.com/atvhongkong/videos/721853998266038/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -292,7 +292,7 @@
       "#id": "https://www.facebook.com/am730hk/videos/658997131264071/",
       "#title": "am730",
       "#source": "am730",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
