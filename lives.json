@@ -71,6 +71,13 @@
       "active": true
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/902652346763757/",
+      "#title": "蘋果 fb live (3)",
+      "#source": "香港蘋果日報 Apple Daily HK",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/0dYOG-cVTOA",
       "#title": "蘋果 Youtube live",
