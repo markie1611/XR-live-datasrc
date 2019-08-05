@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/710381769427088/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2356530751287665/",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -292,14 +292,14 @@
       "#id": "https://www.facebook.com/am730hk/videos/324258955117284/",
       "#title": "am730",
       "#source": "am730",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/am730hk/videos/715571755560893/",
       "#title": "am730 (2)",
       "#source": "am730",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -401,10 +401,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/367211107548667/",
+      "#id": "https://www.facebook.com/376552872550155/videos/1236337979859781/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
