@@ -89,7 +89,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/437168916888536/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -142,7 +142,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/370094066962404/",
+      "#id": "https://www.facebook.com/inmediahk/videos/409306319696237/",
       "#title": "獨媒直播 (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
       "active": true
@@ -401,7 +401,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/919395481749851/",
+      "#id": "https://www.facebook.com/376552872550155/videos/600051747190019/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
       "active": true
