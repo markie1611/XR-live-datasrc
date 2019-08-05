@@ -121,17 +121,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2090201211283343/",
+      "#id": "https://www.facebook.com/standnewshk/videos/455178221704893/",
       "#title": "立場直播 (6)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/3407426659283142/",
+      "#id": "https://www.facebook.com/standnewshk/videos/572685299802505/",
       "#title": "立場直播 (7)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -149,10 +149,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/344824829798545/",
+      "#id": "https://www.facebook.com/inmediahk/videos/378945836155915/",
       "#title": "獨媒直播 (3)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -520,10 +520,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/bbcnewstrad/videos/473961410051668/",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/217881272461385/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
