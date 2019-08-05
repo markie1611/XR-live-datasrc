@@ -135,17 +135,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/504833330325606/",
+      "#id": "https://www.facebook.com/inmediahk/videos/2098010240494850/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/332517407634801/",
+      "#id": "https://www.facebook.com/inmediahk/videos/353981585477676/",
       "#title": "獨媒直播 (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
