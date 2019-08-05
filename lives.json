@@ -47,7 +47,7 @@
       "#id": "https://www.facebook.com/now.comNews/videos/499437444165073/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -275,10 +275,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/2072344223072063/",
+      "#id": "https://www.facebook.com/socrec/videos/1231886350305632/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
