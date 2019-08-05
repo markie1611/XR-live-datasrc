@@ -415,6 +415,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/376552872550155/videos/336029993951589/",
+      "#title": "米報 Rice Post (3)",
+      "#source": "米報 Rice Post",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/cityusu.cbc/videos/433589564155796/",
       "#title": "CBC LIVE",
       "#source": "城市廣播 City Broadcasting Channel (CBC)",
@@ -516,7 +523,7 @@
       "#id": "https://www.facebook.com/bbcnewstrad/videos/473961410051668/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
