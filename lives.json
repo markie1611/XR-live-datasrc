@@ -65,10 +65,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/340903923518938/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2087478418215526/",
       "#title": "蘋果 fb live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -484,11 +484,11 @@
       "active": false
     },
     {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/5hn3jL-Q1FQ",
+      "type": "facebook",
+      "#id": "https://www.facebook.com/setnews/videos/221796998700109/",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
