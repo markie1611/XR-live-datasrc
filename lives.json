@@ -107,10 +107,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2360532450884239/",
+      "#id": "https://www.facebook.com/standnewshk/videos/884050301973158/",
       "#title": "立場直播 (4)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -271,7 +271,7 @@
       "#id": "https://www.facebook.com/socrec/videos/896615970718798/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
