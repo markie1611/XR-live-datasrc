@@ -93,17 +93,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/488398525228768/",
+      "#id": "https://www.facebook.com/standnewshk/videos/454337035408522/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1343417842501017/",
+      "#id": "https://www.facebook.com/standnewshk/videos/891641311215902/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -509,7 +509,7 @@
       "#id": "https://www.youtube.com/embed/jHTjRc-M07c",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -548,10 +548,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/707670652994337/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/332759764273031/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
