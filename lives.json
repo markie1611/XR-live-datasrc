@@ -282,10 +282,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/2372991819647488/",
+      "#id": "https://www.facebook.com/am730hk/videos/657335528100945/",
       "#title": "am730",
       "#source": "am730",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -600,7 +600,7 @@
       "#id": "https://www.facebook.com/joshuawongchifung/videos/1912275922207161/",
       "#title": "黃之鋒 Joshua Wong",
       "#source": "黃之鋒 Joshua Wong",
-      "active": true
+      "active": false
     }
   ]
 }
