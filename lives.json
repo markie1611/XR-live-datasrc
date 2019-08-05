@@ -138,14 +138,14 @@
       "#id": "https://www.facebook.com/inmediahk/videos/466274584223237/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/498460444314039/",
+      "#id": "https://www.facebook.com/inmediahk/videos/370094066962404/",
       "#title": "獨媒直播 (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
