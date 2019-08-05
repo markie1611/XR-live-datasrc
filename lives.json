@@ -16,7 +16,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/rthkPCA/videos/716219178809691/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/717584902003103/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
       "active": true
@@ -44,10 +44,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/499437444165073/",
+      "#id": "https://www.facebook.com/now.comNews/videos/877298965978511/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
