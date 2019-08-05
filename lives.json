@@ -401,10 +401,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/681571039008935/",
+      "#id": "https://www.facebook.com/376552872550155/videos/491695118324464/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -513,10 +513,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/bbcnewstrad/videos/396579474305912/",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/473961410051668/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
