@@ -271,14 +271,14 @@
       "#id": "https://www.facebook.com/socrec/videos/380370679525287/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/489749078458909/",
       "#title": "SocREC 直播 (2)",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -541,10 +541,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/498740827555932/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/2280951082003842/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
