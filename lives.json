@@ -124,7 +124,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/2367635256823449/",
       "#title": "立場直播 (5)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -282,10 +282,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/378874982817531/",
+      "#id": "https://www.facebook.com/socrec/videos/489749078458909/",
       "#title": "SocREC 直播 (2)",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -408,17 +408,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/566496903883134/",
+      "#id": "https://www.facebook.com/376552872550155/videos/2333643090182345/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/490544641770567/",
+      "#id": "https://www.facebook.com/376552872550155/videos/566496903883134/",
       "#title": "米報 Rice Post (2)",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
