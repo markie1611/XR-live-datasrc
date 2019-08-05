@@ -79,10 +79,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/0dYOG-cVTOA",
+      "#id": "https://www.youtube.com/embed/XZ4NZt3HV-U",
       "#title": "蘋果 Youtube live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -198,10 +198,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/1079939582202540/",
+      "#id": "https://www.facebook.com/hk01.news/videos/893208961057822/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
