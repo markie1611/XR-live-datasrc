@@ -114,10 +114,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1458040347669969/",
+      "#id": "https://www.facebook.com/standnewshk/videos/376146426431950/",
       "#title": "立場直播 (5)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -594,6 +594,13 @@
       "#title": "JASON(大J)",
       "#source": "JASON(大J)",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/joshuawongchifung/videos/1912275922207161/",
+      "#title": "黃之鋒 Joshua Wong",
+      "#source": "黃之鋒 Joshua Wong",
+      "active": true
     },
     {
       "type": "facebook",
