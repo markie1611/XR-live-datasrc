@@ -107,7 +107,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2374863749295607/",
+      "#id": "https://www.facebook.com/standnewshk/videos/457925385000491/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
       "active": false
@@ -121,7 +121,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/899283230444307/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2367635256823449/",
       "#title": "立場直播 (5)",
       "#source": "立場新聞 Stand News",
       "active": true
@@ -408,10 +408,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/729191930852065/",
+      "#id": "https://www.facebook.com/376552872550155/videos/359874338040985/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
