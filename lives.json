@@ -96,7 +96,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/851335418573423/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -110,7 +110,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/2375429116004591/",
       "#title": "立場直播 (4)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -271,21 +271,21 @@
       "#id": "https://www.facebook.com/socrec/videos/444021662995103/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/socrec/videos/2365376416875749/",
       "#title": "SocREC 直播 (2)",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/am730hk/videos/657335528100945/",
       "#title": "am730",
       "#source": "am730",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -404,7 +404,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/491695118324464/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -418,7 +418,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/336029993951589/",
       "#title": "米報 Rice Post (3)",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -548,7 +548,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/382446672457408/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/895108737515178/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
       "active": true
