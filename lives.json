@@ -163,10 +163,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/2342513865838262/",
+      "#id": "https://www.facebook.com/inmediahk/videos/622080398286277/",
       "#title": "獨媒直播 (4)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -289,10 +289,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/507361690021714/",
+      "#id": "https://www.facebook.com/am730hk/videos/381535205748851/",
       "#title": "am730",
       "#source": "am730",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
