@@ -110,7 +110,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/1331099893709612/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -226,10 +226,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/359246601419835/",
+      "#id": "https://www.facebook.com/onccnews/videos/515616382519549/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -523,7 +523,7 @@
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/217625285809156/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
