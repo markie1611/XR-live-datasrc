@@ -75,7 +75,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/902652346763757/",
       "#title": "蘋果 fb live (3)",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -520,10 +520,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/391488261552680/",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/587942931758654/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
