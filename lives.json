@@ -226,10 +226,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/383462642373312/",
+      "#id": "https://www.facebook.com/onccnews/videos/359246601419835/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
