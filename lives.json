@@ -44,7 +44,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/1227791287422878/",
+      "#id": "https://www.facebook.com/now.comNews/videos/392264321427890/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
       "active": true
@@ -103,7 +103,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/904816793217233/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -268,10 +268,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
+      "#id": "https://www.facebook.com/scmp/videos/924872757864912/",
       "#title": "South China Morning Post",
       "#source": "South China Morning Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
