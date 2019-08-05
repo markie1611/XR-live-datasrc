@@ -275,10 +275,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/489749078458909/",
+      "#id": "https://www.facebook.com/socrec/videos/2365376416875749/",
       "#title": "SocREC 直播 (2)",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -401,10 +401,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/2333643090182345/",
+      "#id": "https://www.facebook.com/376552872550155/videos/591986794660710/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
