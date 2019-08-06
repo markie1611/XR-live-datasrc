@@ -54,7 +54,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/898368967187202/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -345,10 +345,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/709664626124698/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/524879621583234/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -551,7 +551,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/1306464999522501/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
