@@ -51,7 +51,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/2118480975123704/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/898368967187202/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
       "active": true
@@ -348,7 +348,7 @@
       "#id": "https://www.facebook.com/TMHK.ORG/videos/709664626124698/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
