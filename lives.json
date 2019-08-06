@@ -12,7 +12,7 @@
         "#id": "https://www.facebook.com/icablenews/videos/353610458916223/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -40,7 +40,7 @@
       "#id": "https://www.facebook.com/now.comNews/videos/381073709272441/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -75,7 +75,7 @@
       "#id": "https://www.youtube.com/embed/All6b2uVtno",
       "#title": "蘋果 Youtube live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -194,7 +194,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/411177616410242/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
