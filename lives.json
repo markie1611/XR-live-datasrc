@@ -499,6 +499,13 @@
     },
     {
       "type": "youtube",
+      "#id": "https://www.youtube.com/embed/wjFnZstlj2c",
+      "#title": "The Sun Live",
+      "#source": "The Sun Newspaper",
+      "active": true
+    },
+    {
+      "type": "youtube",
       "#id": "https://www.youtube.com/embed/sZ8QecdCx-g",
       "#title": "大紀元時報 The Epoch Times",
       "#source": "大紀元時報 The Epoch Times",
