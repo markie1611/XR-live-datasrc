@@ -23,6 +23,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/379724049394987/",
+      "#title": "香港電台視像新聞 RTHK VNEWS (2)",
+      "#source": "香港電台 RTHK",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/rthk31thisweek/videos/687350618360061/",
       "#title": "香港電台視點31",
       "#source": "香港電台 RTHK",
@@ -219,10 +226,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/2509372715975277/",
+      "#id": "https://www.facebook.com/onccnews/videos/921240418213119/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
