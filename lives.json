@@ -520,10 +520,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/jHTjRc-M07c",
+      "#id": "https://www.youtube.com/embed/GMd_uft6UlE",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
