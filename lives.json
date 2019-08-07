@@ -261,10 +261,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/2459606480934451/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/2359262957671634/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
