@@ -107,10 +107,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2891757970896228/",
+      "#id": "https://www.facebook.com/standnewshk/videos/357624185156006/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -149,10 +149,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/897438940632437/",
+      "#id": "https://www.facebook.com/inmediahk/videos/2526317384101905/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -208,7 +208,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/2111364609169635/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -548,10 +548,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2514752468546039/",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/412269936299766/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
