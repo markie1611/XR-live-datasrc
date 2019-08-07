@@ -457,10 +457,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/piH46BarNdM",
+      "#id": "https://www.youtube.com/embed/EYTHm7vhsEk",
       "#title": "Global News",
       "#source": "Global News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
