@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -68,7 +68,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/379784839392063/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -103,7 +103,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/696581964114268/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -152,7 +152,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/505061313636251/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
