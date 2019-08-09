@@ -43,7 +43,8 @@
       "active": false
     },
     {
-      "type": "facebook",
+      "type
+B, x q#1w: "facebook",
       "#id": "https://www.facebook.com/rthkPCA/videos/647175459121611/",
       "#title": "港台電視部－公共事務組",
       "#source": "香港電台 RTHK",
@@ -51,10 +52,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/665580137294254/",
+      "#id": "https://www.facebook.com/now.comNews/videos/363702540950768/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
