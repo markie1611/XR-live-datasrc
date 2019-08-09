@@ -12,7 +12,7 @@
       "#id": "https://www.facebook.com/icablenews/videos/777339732669076/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -26,7 +26,7 @@
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/1170168016486922/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -54,7 +54,7 @@
       "#id": "https://www.facebook.com/now.comNews/videos/522549915165755/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -68,7 +68,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/374431036595124/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -103,14 +103,14 @@
       "#id": "https://www.facebook.com/standnewshk/videos/507198073362515/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/350812102469156/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -149,10 +149,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/919383728415829/",
+      "#id": "https://www.facebook.com/inmediahk/videos/2365990736994878/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -208,7 +208,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/362926821066676/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -236,7 +236,7 @@
       "#id": "https://www.facebook.com/onccnews/videos/406137670034021/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -278,7 +278,7 @@
       "#id": "https://www.facebook.com/scmp/videos/362677527736572/",
       "#title": "South China Morning Post",
       "#source": "South China Morning Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -362,7 +362,7 @@
       "#id": "https://www.facebook.com/TMHK.ORG/videos/507537480000489/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -555,10 +555,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/1377882202360081/",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2053900858048531/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -572,7 +572,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/412279236303759/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
