@@ -159,7 +159,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/703576610063706/",
       "#title": "獨媒直播 (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -558,7 +558,7 @@
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/1876169262513172/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -569,7 +569,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/1348891961929172/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/1129609944093294/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
       "active": true
