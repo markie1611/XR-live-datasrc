@@ -12,7 +12,7 @@
       "#id": "https://www.facebook.com/icablenews/videos/361322241436300/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -54,7 +54,7 @@
       "#id": "https://www.facebook.com/now.comNews/videos/363702540950768/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -68,7 +68,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/482718135863771/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -86,10 +86,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/YU6iNSMSelA",
+      "#id": "https://www.youtube.com/embed/HXO1cYgL51A",
       "#title": "蘋果 Youtube live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -100,10 +100,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/542389662963696/",
+      "#id": "https://www.facebook.com/standnewshk/videos/364685760826673/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -149,7 +149,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/928557630819708/",
+      "#id": "https://www.facebook.com/inmediahk/videos/384279405611232/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
       "active": true
@@ -208,7 +208,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/369795277021105/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -527,10 +527,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/GMd_uft6UlE",
+      "#id": "https://www.youtube.com/embed/91O4G8lftrA",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
