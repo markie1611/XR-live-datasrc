@@ -163,10 +163,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/488058735352774/",
+      "#id": "https://www.facebook.com/inmediahk/videos/719072345193712/",
       "#title": "獨媒直播 (3)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
