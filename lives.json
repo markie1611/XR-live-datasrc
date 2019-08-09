@@ -65,10 +65,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/374431036595124/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/494813171319916/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -555,10 +555,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/769775243437376/",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/1876169262513172/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": false
     },
     {
       "type": "facebook",
