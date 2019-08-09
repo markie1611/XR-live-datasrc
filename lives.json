@@ -23,14 +23,14 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1246558282180592/",
+      "#id": "",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/778127302619632/",
+      "#id": "",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
       "active": false
@@ -51,7 +51,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/363702540950768/",
+      "#id": "",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
       "active": false
@@ -629,6 +629,27 @@
       "#title": "黃之鋒 Joshua Wong",
       "#source": "黃之鋒 Joshua Wong",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1246558282180592/",
+      "#title": "香港電台視像新聞 RTHK VNEWS",
+      "#source": "香港電台 RTHK",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/408262406467298/",
+      "#title": "香港電台視像新聞 RTHK VNEWS (2)",
+      "#source": "香港電台 RTHK",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/1088980191491243/",
+      "#title": "Now 新聞 (Facebook)",
+      "#source": "Now 新聞 Now News",
+      "active": true
     }
   ]
 }
