@@ -152,7 +152,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/380982155949744/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -348,7 +348,7 @@
       "#id": "https://www.youtube.com/embed/uC7EZyijZRs",
       "#title": "TMHK LIVE (Youtube)",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
