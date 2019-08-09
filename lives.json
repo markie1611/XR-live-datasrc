@@ -104,7 +104,7 @@ B, x q#1w: "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/542389662963696/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -206,10 +206,10 @@ B, x q#1w: "facebook",
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/372369256781044/",
+      "#id": "https://www.facebook.com/hk01.news/videos/369795277021105/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
