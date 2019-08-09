@@ -86,10 +86,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/HXO1cYgL51A",
+      "#id": "https://www.youtube.com/embed/3iTlS-MBS_4",
       "#title": "蘋果 Youtube live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -436,10 +436,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/cityusu.cbc/videos/700870997020243/",
+      "#id": "https://www.facebook.com/cityusu.cbc/videos/864504027256644/",
       "#title": "CBC LIVE",
       "#source": "城市廣播 City Broadcasting Channel (CBC)",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -530,7 +530,7 @@
       "#id": "https://www.youtube.com/embed/91O4G8lftrA",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
