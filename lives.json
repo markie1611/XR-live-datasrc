@@ -107,10 +107,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2106599232982828/",
+      "#id": "https://www.facebook.com/standnewshk/videos/350812102469156/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -471,10 +471,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/qfn1Mt3fErU",
+      "#id": "https://www.youtube.com/embed/olYBdknySw0",
       "#title": "Euronews",
       "#source": "Euronews",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
