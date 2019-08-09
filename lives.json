@@ -226,10 +226,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/3Qlgud1WCek",
+      "#id": "https://www.youtube.com/embed/zSjd5x9XHtA",
       "#title": "東網直播 (Youtube)",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
