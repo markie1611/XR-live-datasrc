@@ -107,10 +107,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/602820506910967/",
+      "#id": "https://www.facebook.com/standnewshk/videos/574330746728772/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -436,10 +436,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/cityusu.cbc/videos/864504027256644/",
+      "#id": "https://www.facebook.com/cityusu.cbc/videos/408965539738664/",
       "#title": "CBC LIVE",
       "#source": "城市廣播 City Broadcasting Channel (CBC)",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
