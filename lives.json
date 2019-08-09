@@ -149,10 +149,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/394771274729923/",
+      "#id": "https://www.facebook.com/inmediahk/videos/928557630819708/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -212,10 +212,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/353628195571232/",
+      "#id": "https://www.facebook.com/hk01.news/videos/393797381270277/",
       "#title": "01直播 (2)",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
