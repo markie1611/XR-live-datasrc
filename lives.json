@@ -275,10 +275,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/scmp/videos/536995753781219/",
+      "#id": "https://www.facebook.com/scmp/videos/362677527736572/",
       "#title": "South China Morning Post",
       "#source": "South China Morning Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -359,10 +359,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/487933295114579/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/507537480000489/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -569,10 +569,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/488716781906370/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/412279236303759/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
