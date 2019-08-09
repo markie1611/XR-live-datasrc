@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/604720803385732/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/876161209420210/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -43,8 +43,7 @@
       "active": false
     },
     {
-      "type
-B, x q#1w: "facebook",
+      "type": "facebook",
       "#id": "https://www.facebook.com/rthkPCA/videos/647175459121611/",
       "#title": "港台電視部－公共事務組",
       "#source": "香港電台 RTHK",
