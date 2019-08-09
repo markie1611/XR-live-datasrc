@@ -208,14 +208,14 @@
       "#id": "https://www.facebook.com/hk01.news/videos/342636560025297/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/hk01.news/videos/393797381270277/",
       "#title": "01直播 (2)",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -236,7 +236,7 @@
       "#id": "https://www.facebook.com/onccnews/videos/1145498388958663/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -264,7 +264,7 @@
       "#id": "https://www.facebook.com/atvhongkong/videos/844291075971174/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
