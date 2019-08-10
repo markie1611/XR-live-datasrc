@@ -23,6 +23,27 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/522549915165755/",
+      "#title": "Now 新聞 (Facebook)",
+      "#source": "Now 新聞 Now News",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/jMOxmqAmV-8/?autoplay=1",
+      "#title": "Now 新聞 (Youtube)",
+      "#source": "Now 新聞 Now News",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/rthkPCA/videos/430981087505993/",
+      "#title": "港台電視部－公共事務組",
+      "#source": "香港電台 RTHK",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/344354256440767/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
@@ -37,38 +58,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/625343554621588/",
-      "#title": "港台直播 - 福建社團聯會「止暴制亂、反獨保家」誓師大會",
-      "#source": "香港電台 RTHK",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/rthk31thisweek/videos/687350618360061/",
       "#title": "香港電台視點31",
       "#source": "香港電台 RTHK",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/rthkPCA/videos/430981087505993/",
-      "#title": "港台電視部－公共事務組",
-      "#source": "香港電台 RTHK",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/522549915165755/",
-      "#title": "Now 新聞 (Facebook)",
-      "#source": "Now 新聞 Now News",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/jMOxmqAmV-8/?autoplay=1",
-      "#title": "Now 新聞 (Youtube)",
-      "#source": "Now 新聞 Now News",
-      "active": true
     },
     {
       "type": "facebook",
@@ -268,10 +261,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/844291075971174/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/666193483806675/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -636,6 +629,13 @@
       "#title": "黃之鋒 Joshua Wong",
       "#source": "黃之鋒 Joshua Wong",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/625343554621588/",
+      "#title": "港台直播 - 福建社團聯會「止暴制亂、反獨保家」誓師大會",
+      "#source": "香港電台 RTHK",
+      "active": true
     }
   ]
 }
