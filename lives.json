@@ -631,13 +631,6 @@
       "active": false
     },
     {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Q107UiTI07I/?autoplay=1",
-      "#title": "Peter Wan",
-      "#source": "Peter Wan",
-      "active": true
-    },
-    {
       "type": "facebook",
       "#id": "https://www.facebook.com/joshuawongchifung/videos/1912275922207161/",
       "#title": "黃之鋒 Joshua Wong",
