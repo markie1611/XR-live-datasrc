@@ -439,7 +439,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/672701286578141/",
       "#title": "米報 Rice Post (2)",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -635,7 +635,7 @@
       "#id": "https://www.youtube.com/embed/Q107UiTI07I/?autoplay=1",
       "#title": "Peter Wan",
       "#source": "Peter Wan",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
