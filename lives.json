@@ -40,7 +40,7 @@
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/410658326240186/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -124,7 +124,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/1609906359144981/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -159,7 +159,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/715753595551547/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -271,7 +271,7 @@
       "#id": "https://www.facebook.com/atvhongkong/videos/373017039983465/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
