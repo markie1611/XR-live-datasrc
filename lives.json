@@ -37,14 +37,14 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2061200317319216/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/410658326240186/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2357715497776863/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/410658326240186/",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
       "active": false
