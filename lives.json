@@ -443,91 +443,91 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/auLKPYs0M0Q",
+      "#id": "https://www.youtube.com/embed/auLKPYs0M0Q/?autoplay=1",
       "#title": "Washington Post",
       "#source": "Washington Post",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/LKtU2oINZeE",
+      "#id": "https://www.youtube.com/embed/LKtU2oINZeE/?autoplay=1",
       "#title": "NBC News",
       "#source": "NBC News",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/A8AUY0Znv8s",
+      "#id": "https://www.youtube.com/embed/A8AUY0Znv8s/?autoplay=1",
       "#title": "Global News",
       "#source": "Global News",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/VmNIJWcfKyk",
+      "#id": "https://www.youtube.com/embed/VmNIJWcfKyk/?autoplay=1",
       "#title": "Guardian News",
       "#source": "Guardian News",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/olYBdknySw0",
+      "#id": "https://www.youtube.com/embed/olYBdknySw0/?autoplay=1",
       "#title": "Euronews",
       "#source": "Euronews",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/6JEY13EQU24",
+      "#id": "https://www.youtube.com/embed/6JEY13EQU24/?autoplay=1",
       "#title": "RT",
       "#source": "RT",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/o-8u_jcLIUc",
+      "#id": "https://www.youtube.com/embed/o-8u_jcLIUc/?autoplay=1",
       "#title": "RT (2)",
       "#source": "RT",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/vIXXHmJ2CKE",
+      "#id": "https://www.youtube.com/embed/vIXXHmJ2CKE/?autoplay=1",
       "#title": "Ruptly",
       "#source": "Ruptly",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/wjFnZstlj2c",
+      "#id": "https://www.youtube.com/embed/wjFnZstlj2c/?autoplay=1",
       "#title": "The Sun Live",
       "#source": "The Sun Newspaper",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/sZ8QecdCx-g",
+      "#id": "https://www.youtube.com/embed/sZ8QecdCx-g/?autoplay=1",
       "#title": "大紀元時報 The Epoch Times",
       "#source": "大紀元時報 The Epoch Times",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/cywrjkxEoTs",
+      "#id": "https://www.youtube.com/embed/cywrjkxEoTs/?autoplay=1",
       "#title": "852郵報 Post852",
       "#source": "852郵報 Post852",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/fxnIsdoMuyY",
+      "#id": "https://www.youtube.com/embed/fxnIsdoMuyY/?autoplay=1",
       "#title": "RFA 粵語直播",
       "#source": "自由亞洲 Radio Free Asia",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/91O4G8lftrA",
+      "#id": "https://www.youtube.com/embed/91O4G8lftrA/?autoplay=1",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
       "active": false
@@ -597,21 +597,21 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/beSaK_Q24Zw",
+      "#id": "https://www.youtube.com/embed/beSaK_Q24Zw/?autoplay=1",
       "#title": "香港商報",
       "#source": "香港商報",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/PIFDOabSovg",
+      "#id": "https://www.youtube.com/embed/PIFDOabSovg/?autoplay=1",
       "#title": "TVBS",
       "#source": "TVBS",
       "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/MjO5duQGfJ8",
+      "#id": "https://www.youtube.com/embed/MjO5duQGfJ8/?autoplay=1",
       "#title": "JASON(大J)",
       "#source": "JASON(大J)",
       "active": false
