@@ -37,6 +37,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/625343554621588/",
+      "#title": "港台直播 - 福建社團聯會「止暴制亂、反獨保家」誓師大會,
+      "#source": "香港電台 RTHK",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/rthk31thisweek/videos/687350618360061/",
       "#title": "香港電台視點31",
       "#source": "香港電台 RTHK",
@@ -103,7 +110,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/878959819138969/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -615,6 +622,13 @@
       "#title": "JASON(大J)",
       "#source": "JASON(大J)",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/siukinnwong/videos/10211713513991860/",
+      "#title": "黃兆健",
+      "#source": "黃兆健",
+      "active": true
     },
     {
       "type": "facebook",
