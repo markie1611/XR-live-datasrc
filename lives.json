@@ -37,13 +37,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/rthkPCA/videos/430981087505993/",
-      "#title": "港台電視部－公共事務組",
-      "#source": "香港電台 RTHK",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/367245187504976/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
@@ -174,6 +167,13 @@
       "#title": "獨媒直播 (4)",
       "#source": "香港獨立媒體網 inmediahk.net",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/rthkPCA/videos/430981087505993/",
+      "#title": "港台電視部－公共事務組",
+      "#source": "香港電台 RTHK",
+      "active": true
     },
     {
       "type": "facebook",
