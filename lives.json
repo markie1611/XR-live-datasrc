@@ -233,17 +233,17 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/QQiNxA9vzv8/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/FnvlvkVx7Eg/?autoplay=1",
       "#title": "東網直播 (Youtube)",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/842659392795356/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -628,7 +628,7 @@
       "#id": "https://www.facebook.com/siukinnwong/videos/10211713513991860/",
       "#title": "黃兆健",
       "#source": "黃兆健",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
