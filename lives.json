@@ -65,10 +65,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/4UlZgxsgub8/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/jMOxmqAmV-8/?autoplay=1",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -296,10 +296,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/2332464300171237/",
+      "#id": "https://www.facebook.com/socrec/videos/885883421769137/",
       "#title": "SocREC 直播 (2)",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -520,10 +520,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/cywrjkxEoTs/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/wNkUz6f35vo/?autoplay=1",
       "#title": "852郵報 Post852",
       "#source": "852郵報 Post852",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
