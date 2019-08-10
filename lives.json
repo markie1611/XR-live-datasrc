@@ -324,10 +324,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/924722957885025/",
+      "#id": "https://www.facebook.com/passiontimes/videos/1743770115755878/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -621,13 +621,6 @@
       "#id": "https://www.youtube.com/embed/MjO5duQGfJ8/?autoplay=1",
       "#title": "JASON(大J)",
       "#source": "JASON(大J)",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/siukinnwong/videos/10211713513991860/",
-      "#title": "黃兆健",
-      "#source": "黃兆健",
       "active": false
     },
     {
