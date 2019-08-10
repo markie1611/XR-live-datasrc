@@ -247,7 +247,7 @@
     },
     { 
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/OqwAXNgs3eE",
+      "#id": "https://www.youtube.com/embed/OqwAXNgs3eE/?autoplay=1",
       "#title": "China Uncensored",
       "#source": "China Uncensored",
       "active": false
