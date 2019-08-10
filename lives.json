@@ -275,6 +275,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/atvhongkong/videos/2359640400800993/",
+      "#title": "香港追擊搜 (2)",
+      "#source": "亞視數碼媒體 ATV",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/ABCNews/videos/414639495801280/",
       "#title": "ABC News",
       "#source": "ABC News",
