@@ -492,10 +492,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/6JEY13EQU24/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/0EUBNvzihHM/?autoplay=1",
       "#title": "RT",
       "#source": "RT",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
