@@ -488,7 +488,7 @@
       "#id": "https://www.youtube.com/embed/FU8IDsTh8F8/?autoplay=1",
       "#title": "Euronews",
       "#source": "Euronews",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
