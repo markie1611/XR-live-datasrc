@@ -159,7 +159,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/731075777338863/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -205,7 +205,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/504004607021031/",
+      "#id": "https://www.facebook.com/hk01.news/videos/507129183383924/",
       "#title": "01直播",
       "#source": "香港01 HK01",
       "active": true
