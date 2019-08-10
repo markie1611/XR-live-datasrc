@@ -629,6 +629,13 @@
       "#title": "黃之鋒 Joshua Wong",
       "#source": "黃之鋒 Joshua Wong",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/345296129709079/",
+      "#title": "香港電台視像新聞 RTHK VNEWS (3)",
+      "#source": "香港電台 RTHK",
+      "active": true
     }
   ]
 }
