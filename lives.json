@@ -47,7 +47,7 @@
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/2357715497776863/",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -110,7 +110,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/648803152195823/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
