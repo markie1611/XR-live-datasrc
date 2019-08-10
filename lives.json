@@ -264,7 +264,7 @@
       "#id": "https://www.facebook.com/atvhongkong/videos/666193483806675/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -285,7 +285,7 @@
       "#id": "https://www.facebook.com/socrec/videos/2116097251835714/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -422,10 +422,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/853774225004097/",
+      "#id": "https://www.facebook.com/376552872550155/videos/927538447606351/",
       "#title": "米報 Rice Post (2)",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -516,7 +516,7 @@
       "#id": "https://www.youtube.com/embed/wNkUz6f35vo/?autoplay=1",
       "#title": "852郵報 Post852",
       "#source": "852郵報 Post852",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
