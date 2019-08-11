@@ -9,10 +9,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/872637819784278/",
+      "#id": "https://www.facebook.com/icablenews/videos/801759646963762/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -156,10 +156,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/637416913413353/",
+      "#id": "https://www.facebook.com/inmediahk/videos/2910541592352081/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
