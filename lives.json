@@ -114,10 +114,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/521315288608729/",
+      "#id": "https://www.facebook.com/standnewshk/videos/689910828087070/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -156,10 +156,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/2910541592352081/",
+      "#id": "https://www.facebook.com/inmediahk/videos/495803684555317/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -415,17 +415,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/687673995030500/",
+      "#id": "https://www.facebook.com/376552872550155/videos/876733746033098/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/2365508047020931/",
+      "#id": "https://www.facebook.com/376552872550155/videos/504786170092501/",
       "#title": "米報 Rice Post (2)",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -569,10 +569,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/376765446343717/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/2453480184744594/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
