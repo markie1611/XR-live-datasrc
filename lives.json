@@ -117,7 +117,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/689910828087070/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -138,7 +138,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/496218171132444/",
       "#title": "立場直播 (5)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -271,7 +271,7 @@
       "#id": "https://www.facebook.com/atvhongkong/videos/459248601295293/",
       "#title": "香港追擊搜 (2)",
       "#source": "亞視數碼媒體 ATV",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -334,7 +334,7 @@
       "#id": "https://www.facebook.com/passiontimes/videos/2412472542200337/",
       "#title": "熱時直播 (2)",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -418,14 +418,14 @@
       "#id": "https://www.facebook.com/376552872550155/videos/707349893047082/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/376552872550155/videos/2667909993242738/",
       "#title": "米報 Rice Post (2)",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -572,7 +572,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/2247128198933455/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
