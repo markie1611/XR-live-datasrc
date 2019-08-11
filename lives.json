@@ -289,10 +289,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/509700689575022/",
+      "#id": "https://www.facebook.com/socrec/videos/408670239771262/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -415,25 +415,26 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/1020939324743037/",
-      "#title": "米報 Rice Post",
-      "#source": "米報 Rice Post",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/2601705276548254/",
-      "#title": "米報 Rice Post (2)",
-      "#source": "米報 Rice Post",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/cityusu.cbc/videos/506093960194743/",
       "#title": "CBC LIVE",
       "#source": "城市廣播 City Broadcasting Channel (CBC)",
       "active": false
     },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/376552872550155/videos/961698964172578/",
+      "#title": "米報 Rice Post",
+      "#source": "米報 Rice Post",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/376552872550155/videos/2393301727452021/",
+      "#title": "米報 Rice Post (2)",
+      "#source": "米報 Rice Post",
+      "active": true
+    },
+
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/auLKPYs0M0Q/?autoplay=1",
