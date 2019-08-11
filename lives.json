@@ -12,7 +12,7 @@
       "#id": "https://www.facebook.com/icablenews/videos/2298082607112287/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": true
+      "active": false
    },
     {
       "type": "facebook",
@@ -264,7 +264,7 @@
       "#id": "https://www.facebook.com/atvhongkong/videos/432891000769144/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -327,7 +327,7 @@
       "#id": "https://www.facebook.com/passiontimes/videos/474105626472437/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
