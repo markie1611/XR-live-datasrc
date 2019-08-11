@@ -226,17 +226,17 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/yVHY01HG4RI/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/D2AHv79Bbvc/?autoplay=1",
       "#title": "東網直播 (Youtube)",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/2404181089847347/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
