@@ -436,10 +436,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/cityusu.cbc/videos/408965539738664/",
+      "#id": "https://www.facebook.com/cityusu.cbc/videos/506093960194743/",
       "#title": "CBC LIVE",
       "#source": "城市廣播 City Broadcasting Channel (CBC)",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
