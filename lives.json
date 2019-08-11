@@ -37,14 +37,14 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/346946282893825/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2660972757270863/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/477716286120375/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/346946282893825/",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
       "active": false
@@ -159,7 +159,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/2895929513811652/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -205,7 +205,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/368836130706684/",
+      "#id": "https://www.facebook.com/hk01.news/videos/344697666420680/",
       "#title": "01直播",
       "#source": "香港01 HK01",
       "active": true
@@ -327,14 +327,14 @@
       "#id": "https://www.facebook.com/passiontimes/videos/348968739385638/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/343437283227554/",
       "#title": "熱時直播 (2)",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
