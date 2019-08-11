@@ -418,14 +418,14 @@
       "#id": "https://www.facebook.com/376552872550155/videos/876733746033098/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/376552872550155/videos/504786170092501/",
       "#title": "米報 Rice Post (2)",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
