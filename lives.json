@@ -534,10 +534,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/bbcnewstrad/videos/452184745373555/",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/367533223886930/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
