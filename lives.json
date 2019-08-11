@@ -324,17 +324,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/2323968957865574/",
+      "#id": "https://www.facebook.com/passiontimes/videos/358548601757622/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/489782828476092/",
+      "#id": "https://www.facebook.com/passiontimes/videos/1291452257695422/",
       "#title": "熱時直播 (2)",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -415,7 +415,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/640750056416441/",
+      "#id": "https://www.facebook.com/376552872550155/videos/687673995030500/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
       "active": true
