@@ -131,7 +131,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/919562961710558/",
       "#title": "立場直播 (4)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -159,7 +159,7 @@
       "#id": "https://www.facebook.com/inmediahk/videos/495803684555317/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -572,7 +572,7 @@
       "#id": "https://www.facebook.com/maddog.hk/videos/697268784078991/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
