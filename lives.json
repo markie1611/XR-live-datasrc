@@ -117,7 +117,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/3359512767399636/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -341,7 +341,7 @@
       "#id": "https://www.facebook.com/passiontimes/videos/378024132896252/",
       "#title": "熱時直播 (3)",
       "#source": "熱血時報 PassionTimes",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
