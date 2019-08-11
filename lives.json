@@ -33,7 +33,7 @@
       "#id": "https://www.youtube.com/embed/5nwKNa-EAFU/?autoplay=1",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
