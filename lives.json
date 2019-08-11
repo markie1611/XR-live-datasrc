@@ -569,10 +569,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/maddog.hk/videos/2453480184744594/",
+      "#id": "https://www.facebook.com/maddog.hk/videos/697268784078991/",
       "#title": "癲狗FB Live",
       "#source": "癲狗日報 Maddog.HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
