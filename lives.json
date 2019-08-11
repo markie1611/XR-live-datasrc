@@ -30,10 +30,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/jMOxmqAmV-8/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/-hw0lPBDHq8/?autoplay=1",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -107,17 +107,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/402627960365188/",
+      "#id": "https://www.facebook.com/standnewshk/videos/634831997007476/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/656475691501395/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2173123779645769/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -226,10 +226,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/FnvlvkVx7Eg/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/yVHY01HG4RI/?autoplay=1",
       "#title": "東網直播 (Youtube)",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
