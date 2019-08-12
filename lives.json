@@ -429,13 +429,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/2397901243619345/",
-      "#title": "米報 Rice Post",
-      "#source": "米報 Rice Post",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/fans.hkgolden/videos/422811635037248/",
       "#title": "高登討論區 HKGolden",
       "#source": "高登討論區 HKGolden",
@@ -443,12 +436,18 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/748206358930837/",
+      "#id": "https://www.facebook.com/376552872550155/videos/2397901243619345/",
+      "#title": "米報 Rice Post",
+      "#source": "米報 Rice Post",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/376552872550155/videos/913153832382776/",
       "#title": "米報 Rice Post (2)",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
-
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/auLKPYs0M0Q/?autoplay=1",
