@@ -9,10 +9,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/354812012123100/",
+      "#id": "https://www.facebook.com/icablenews/videos/409706966568753/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": false
+      "active": true
    },
     {
       "type": "facebook",
@@ -264,7 +264,7 @@
       "#id": "https://www.facebook.com/atvhongkong/videos/674741313001346/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
