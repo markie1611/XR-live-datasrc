@@ -345,10 +345,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/g8lt3-Ji7G0/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/vL7rkO6ZX-A/?autoplay=1",
       "#title": "TMHK LIVE (Youtube)",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
