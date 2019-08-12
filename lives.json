@@ -37,10 +37,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/362348078029897/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2757773524251852/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -446,7 +446,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/913153832382776/",
       "#title": "米報 Rice Post (2)",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
