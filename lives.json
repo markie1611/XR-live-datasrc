@@ -264,7 +264,7 @@
       "#id": "https://www.facebook.com/atvhongkong/videos/633336833855473/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -306,7 +306,7 @@
       "#id": "https://www.facebook.com/am730hk/videos/495050654389791/",
       "#title": "am730",
       "#source": "am730",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -528,10 +528,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/91O4G8lftrA/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/pP22tWPV6EI/?autoplay=1",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
