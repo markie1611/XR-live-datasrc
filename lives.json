@@ -107,10 +107,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2300925123276266/",
+      "#id": "https://www.facebook.com/standnewshk/videos/457192824833359/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -261,10 +261,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/432891000769144/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/633336833855473/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
