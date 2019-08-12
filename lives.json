@@ -9,6 +9,48 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2401189756664100/",
+      "#title": "香港電台視像新聞 RTHK VNEWS (3)",
+      "#source": "香港電台 RTHK",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2666638640027681/",
+      "#title": "蘋果 fb live (2)",
+      "#source": "香港蘋果日報 Apple Daily HK",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/1547437755392326/",
+      "#title": "立場直播 (3)",
+      "#source": "立場新聞 Stand News",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/395633934415652/",
+      "#title": "BBC",
+      "#source": "BBC",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/369626310369449/",
+      "#title": "TMHK LIVE",
+      "#source": "Truth Media Hong Kong",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/717418522014098/",
+      "#title": "Michael Yon",
+      "#source": "Michael Yon",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/409706966568753/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
@@ -51,13 +93,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2127146404063770/",
-      "#title": "香港電台視像新聞 RTHK VNEWS (3)",
-      "#source": "香港電台 RTHK",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/rthkPCA/videos/430981087505993/",
       "#title": "港台電視部－公共事務組",
       "#source": "香港電台 RTHK",
@@ -76,13 +111,6 @@
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
       "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/461810401331740/",
-      "#title": "蘋果 fb live (2)",
-      "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
     },
     {
       "type": "facebook",
@@ -118,13 +146,6 @@
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
       "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/485585702244506/",
-      "#title": "立場直播 (3)",
-      "#source": "立場新聞 Stand News",
-      "active": false
     },
     {
       "type": "facebook",
@@ -359,13 +380,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/507537480000489/",
-      "#title": "TMHK LIVE",
-      "#source": "Truth Media Hong Kong",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/TMHK.ORG/videos/2894857040589330/",
       "#title": "TMHK LIVE (2)",
       "#source": "Truth Media Hong Kong",
@@ -542,23 +556,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/bbcnewstrad/videos/2476064485746998/",
-      "#title": "BBC",
-      "#source": "BBC",
-      "active": true
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/CivilHumanRightsFront/videos/561905774342746/",
       "#title": "民間人權陣線 Civil Human Rights Front",
       "#source": "民間人權陣線 Civil Human Rights Front",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/1263413960496114/",
-      "#title": "Michael Yon",
-      "#source": "Michael Yon",
       "active": false
     },
     {
