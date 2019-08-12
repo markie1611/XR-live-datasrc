@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/443145116408986/",
+      "#id": "https://www.facebook.com/now.comNews/videos/452035968984093/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
