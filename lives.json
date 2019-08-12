@@ -215,7 +215,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/746754065739836/",
       "#title": "01直播 (2)",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -257,7 +257,7 @@
       "#id": "https://www.facebook.com/YahooHongKongNews/videos/487995008652471/",
       "#title": "Yahoo 直播",
       "#source": "雅虎香港新聞 Yahoo HK News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
