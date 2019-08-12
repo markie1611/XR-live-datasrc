@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/JvWw9u0vWxI?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -33,7 +33,7 @@
       "#id": "https://www.youtube.com/embed/nJfdwWd3BZk/?autoplay=1",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -117,7 +117,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/504685406966538/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -208,7 +208,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/2443046025754641/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -481,7 +481,7 @@
       "#id": "https://www.youtube.com/embed/e4juPPrdZYM/?autoplay=1",
       "#title": "Euronews",
       "#source": "Euronews",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
