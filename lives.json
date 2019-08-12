@@ -96,7 +96,7 @@
       "#id": "https://www.youtube.com/embed/GPXX5Y1OpgA/?autoplay=1",
       "#title": "蘋果 Youtube live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -229,7 +229,7 @@
       "#id": "https://www.youtube.com/embed/2voZmMivQ9g/?autoplay=1",
       "#title": "東網直播 (Youtube)",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
