@@ -37,10 +37,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1397275883757243/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/3053635891343851/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -560,13 +560,6 @@
       "#title": "Michael Yon",
       "#source": "Michael Yon",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/3053635891343851/",
-      "#title": "香港電台城市論壇 RTHK City Forum",
-      "#source": "香港電台 RTHK",
-      "active": true
     },
     {
       "type": "facebook",
