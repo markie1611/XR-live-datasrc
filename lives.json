@@ -226,10 +226,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/D2AHv79Bbvc/?autoplay=1",
+      "#id": "2voZmMivQ9g",
       "#title": "東網直播 (Youtube)",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -303,10 +303,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/am730hk/videos/698043670626021/",
+      "#id": "https://www.facebook.com/am730hk/videos/495050654389791/",
       "#title": "am730",
       "#source": "am730",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
