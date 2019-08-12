@@ -72,10 +72,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/2104349336343880/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/1398909506939123/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -114,10 +114,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/342647426680858/",
+      "#id": "https://www.facebook.com/standnewshk/videos/491703084897677/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -205,10 +205,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/697237690749475/",
+      "#id": "https://www.facebook.com/hk01.news/videos/688161024991780/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -282,10 +282,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/scmp/videos/362677527736572/",
+      "#id": "https://www.facebook.com/scmp/videos/423664654911842/",
       "#title": "South China Morning Post",
       "#source": "South China Morning Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
