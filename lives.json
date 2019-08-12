@@ -72,10 +72,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/717726648677693/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2104349336343880/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -121,10 +121,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/490539941762703/",
+      "#id": "https://www.facebook.com/standnewshk/videos/485585702244506/",
       "#title": "立場直播 (3)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -261,10 +261,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/633336833855473/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/674741313001346/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -563,10 +563,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKcityforum/videos/2056599964649453/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/3053635891343851/",
       "#title": "香港電台城市論壇 RTHK City Forum",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
