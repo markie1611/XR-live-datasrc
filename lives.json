@@ -51,10 +51,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1143920175798278/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2127146404063770/",
       "#title": "香港電台視像新聞 RTHK VNEWS (3)",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -306,7 +306,7 @@
       "#id": "https://www.facebook.com/am730hk/videos/698043670626021/",
       "#title": "am730",
       "#source": "am730",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
