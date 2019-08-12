@@ -9,62 +9,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2401189756664100/",
-      "#title": "香港電台視像新聞 RTHK VNEWS (3)",
-      "#source": "香港電台 RTHK",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/2666638640027681/",
-      "#title": "蘋果 fb live (2)",
-      "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/1547437755392326/",
-      "#title": "立場直播 (3)",
-      "#source": "立場新聞 Stand News",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2251730888257867/",
-      "#title": "立場直播 (4)",
-      "#source": "立場新聞 Stand News",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/bbcnewstrad/videos/395633934415652/",
-      "#title": "BBC",
-      "#source": "BBC",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/scmp/videos/415963732371589/",
-      "#title": "South China Morning Post",
-      "#source": "South China Morning Post",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/369626310369449/",
-      "#title": "TMHK LIVE",
-      "#source": "Truth Media Hong Kong",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/717418522014098/",
-      "#title": "Michael Yon",
-      "#source": "Michael Yon",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/409706966568753/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
@@ -86,10 +30,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/5nwKNa-EAFU/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/nJfdwWd3BZk/?autoplay=1",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -104,6 +48,13 @@
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2401189756664100/",
+      "#title": "香港電台視像新聞 RTHK VNEWS (3)",
+      "#source": "香港電台 RTHK",
+      "active": true
     },
     {
       "type": "facebook",
@@ -125,6 +76,13 @@
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2666638640027681/",
+      "#title": "蘋果 fb live (2)",
+      "#source": "香港蘋果日報 Apple Daily HK",
+      "active": true
     },
     {
       "type": "facebook",
@@ -160,6 +118,20 @@
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/1547437755392326/",
+      "#title": "立場直播 (3)",
+      "#source": "立場新聞 Stand News",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/2251730888257867/",
+      "#title": "立場直播 (4)",
+      "#source": "立場新聞 Stand News",
+      "active": true
     },
     {
       "type": "facebook",
@@ -233,10 +205,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/688161024991780/",
+      "#id": "https://www.facebook.com/hk01.news/videos/530976850979430/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -310,10 +282,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/socrec/videos/408670239771262/",
+      "#id": "https://www.facebook.com/socrec/videos/657923314691789/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -345,6 +317,20 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/395633934415652/",
+      "#title": "BBC",
+      "#source": "BBC",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/scmp/videos/415963732371589/",
+      "#title": "South China Morning Post",
+      "#source": "South China Morning Post",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/passiontimes/videos/474105626472437/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
@@ -362,6 +348,13 @@
       "#id": "https://www.facebook.com/passiontimes/videos/378024132896252/",
       "#title": "熱時直播 (3)",
       "#source": "熱血時報 PassionTimes",
+      "active": false
+    },
+     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/369626310369449/",
+      "#title": "TMHK LIVE",
+      "#source": "Truth Media Hong Kong",
       "active": false
     },
     {
@@ -436,10 +429,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/961698964172578/",
+      "#id": "https://www.facebook.com/376552872550155/videos/2397901243619345/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -601,6 +594,13 @@
       "#id": "https://www.youtube.com/embed/PIFDOabSovg/?autoplay=1",
       "#title": "TVBS",
       "#source": "TVBS",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/717418522014098/",
+      "#title": "Michael Yon",
+      "#source": "Michael Yon",
       "active": false
     },
     {
