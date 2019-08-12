@@ -30,9 +30,23 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/2251730888257867/",
+      "#title": "立場直播 (4)",
+      "#source": "立場新聞 Stand News",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/bbcnewstrad/videos/395633934415652/",
       "#title": "BBC",
       "#source": "BBC",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/scmp/videos/415963732371589/",
+      "#title": "South China Morning Post",
+      "#source": "South China Morning Post",
       "active": true
     },
     {
@@ -146,13 +160,6 @@
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
       "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2449641868389925/",
-      "#title": "立場直播 (4)",
-      "#source": "立場新聞 Stand News",
-      "active": false
     },
     {
       "type": "facebook",
@@ -299,13 +306,6 @@
       "#id": "https://www.facebook.com/ABCNews/videos/414639495801280/",
       "#title": "ABC News",
       "#source": "ABC News",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/scmp/videos/2421757798150450/",
-      "#title": "South China Morning Post",
-      "#source": "South China Morning Post",
       "active": false
     },
     {
