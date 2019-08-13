@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/JvWw9u0vWxI?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -208,7 +208,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/726149304502149/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -607,7 +607,7 @@
       "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2325228167736869/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
