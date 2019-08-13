@@ -310,10 +310,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/bbcnewstrad/videos/483936005516907/",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/2244693995841841/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -422,10 +422,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/fans.hkgolden/videos/2428997637135844/",
+      "#id": "https://www.facebook.com/fans.hkgolden/videos/2342646945812260/",
       "#title": "高登討論區 HKGolden",
       "#source": "高登討論區 HKGolden",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -436,10 +436,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/656566031511796/",
+      "#id": "https://www.facebook.com/376552872550155/videos/696219890876343/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
