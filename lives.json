@@ -26,14 +26,14 @@
       "#id": "https://www.facebook.com/now.comNews/videos/409710649649106/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/nJfdwWd3BZk/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/x7IvjtgSawY/?autoplay=1",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
