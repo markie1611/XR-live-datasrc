@@ -110,7 +110,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/478442676270208/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -212,10 +212,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/746754065739836/",
+      "#id": "https://www.facebook.com/hk01.news/videos/606610596529752/",
       "#title": "01直播 (2)",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
