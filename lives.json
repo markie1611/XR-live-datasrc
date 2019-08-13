@@ -93,13 +93,6 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/4K1PVyfqn_Q/?autoplay=1",
-      "#title": "蘋果 Youtube live",
-      "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
-    },
-    {
-      "type": "youtube",
       "#id": "https://www.youtube.com/embed/Dj7yhio-HT4/?autoplay=1",
       "#title": "蘋果 Youtube live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
@@ -202,6 +195,13 @@
       "#title": "上報 Up Media",
       "#source": "上報 Up Media",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk01.news/videos/2111406925830551/",
+      "#title": "01直播",
+      "#source": "香港01 HK01",
+      "active": true
     },
     {
       "type": "facebook",
@@ -428,10 +428,10 @@
       "active": false
     },
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/2111406925830551/",
-      "#title": "01直播",
-      "#source": "香港01 HK01",
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/4K1PVyfqn_Q/?autoplay=1",
+      "#title": "蘋果 Youtube live",
+      "#source": "香港蘋果日報 Apple Daily HK",
       "active": true
     },
     {
