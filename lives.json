@@ -75,7 +75,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/442839306563416/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -268,7 +268,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/527441561360771/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/5274f41561360771/",
       "#title": "香港追擊搜 (2)",
       "#source": "亞視數碼媒體 ATV",
       "active": true
@@ -432,7 +432,7 @@
       "#id": "https://www.facebook.com/fans.hkgolden/videos/359359838332491/",
       "#title": "高登討論區 HKGolden",
       "#source": "高登討論區 HKGolden",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
