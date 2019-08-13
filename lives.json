@@ -205,10 +205,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/922215081457119/",
+      "#id": "https://www.facebook.com/hk01.news/videos/2111406925830551/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -268,10 +268,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/1197053407168653/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/527441561360771/",
       "#title": "香港追擊搜 (2)",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
