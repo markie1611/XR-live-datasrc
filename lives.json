@@ -37,10 +37,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1338643962960436/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/359963004945408/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -117,7 +117,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/374263873515064/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -327,7 +327,7 @@
       "#id": "https://www.facebook.com/scmp/videos/685054502010747/",
       "#title": "South China Morning Post",
       "#source": "South China Morning Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
