@@ -26,7 +26,7 @@
       "#id": "https://www.facebook.com/now.comNews/videos/361364728146407/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -107,17 +107,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/740502256381908/",
+      "#id": "https://www.facebook.com/standnewshk/videos/791280881286957/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/472691669960507/",
+      "#id": "https://www.facebook.com/standnewshk/videos/374263873515064/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
