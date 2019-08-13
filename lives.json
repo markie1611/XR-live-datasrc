@@ -310,10 +310,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/bbcnewstrad/videos/447171419473634/",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/483936005516907/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -422,7 +422,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/fans.hkgolden/videos/404233850450077/",
+      "#id": "https://www.facebook.com/fans.hkgolden/videos/2428997637135844/",
       "#title": "高登討論區 HKGolden",
       "#source": "高登討論區 HKGolden",
       "active": true
