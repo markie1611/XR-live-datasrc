@@ -40,14 +40,14 @@
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/462359111161540/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2251075665015014/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/388999368424040/",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -72,17 +72,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/484186352392175/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/442839306563416/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/2666638640027681/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/425741221375531/",
       "#title": "蘋果 fb live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -107,17 +107,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/706015709844390/",
+      "#id": "https://www.facebook.com/standnewshk/videos/478442676270208/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/504685406966538/",
+      "#id": "https://www.facebook.com/standnewshk/videos/387059651947540/",
       "#title": "立場直播 (2)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -261,10 +261,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/atvhongkong/videos/674741313001346/",
+      "#id": "https://www.facebook.com/atvhongkong/videos/469275053620091/",
       "#title": "香港追擊搜",
       "#source": "亞視數碼媒體 ATV",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -439,7 +439,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/2385951665008735/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
