@@ -317,6 +317,13 @@
     },
     {
       "type": "facebook",
+      "#id": "https://www.facebook.com/bbcnewstrad/videos/413257752642541/",
+      "#title": "BBC (2)",
+      "#source": "BBC",
+      "active": true
+    },
+    {
+      "type": "facebook",
       "#id": "https://www.facebook.com/scmp/videos/364210980940769/",
       "#title": "South China Morning Post",
       "#source": "South China Morning Post",
