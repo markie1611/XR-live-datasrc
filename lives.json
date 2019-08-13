@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/755004451600754/",
+      "#id": "https://www.facebook.com/now.comNews/videos/438529503539770/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -212,10 +212,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/606610596529752/",
+      "#id": "https://www.facebook.com/hk01.news/videos/482296522590017/",
       "#title": "01直播 (2)",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
