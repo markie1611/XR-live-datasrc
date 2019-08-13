@@ -313,14 +313,14 @@
       "#id": "https://www.facebook.com/bbcnewstrad/videos/483936005516907/",
       "#title": "BBC",
       "#source": "BBC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/scmp/videos/364210980940769/",
       "#title": "South China Morning Post",
       "#source": "South China Morning Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
