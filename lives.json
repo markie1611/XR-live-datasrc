@@ -100,10 +100,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/497225477704155/",
+      "#id": "https://www.facebook.com/standnewshk/videos/387396555493972/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -439,7 +439,7 @@
       "#id": "https://www.facebook.com/376552872550155/videos/2446598418896633/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
