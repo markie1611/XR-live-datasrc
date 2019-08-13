@@ -82,7 +82,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/425741221375531/",
       "#title": "蘋果 fb live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -128,10 +128,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2251730888257867/",
+      "#id": "https://www.facebook.com/standnewshk/videos/345536322999054/",
       "#title": "立場直播 (4)",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
