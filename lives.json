@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/438529503539770/",
+      "#id": "https://www.facebook.com/now.comNews/videos/361364728146407/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -324,10 +324,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/scmp/videos/415963732371589/",
+      "#id": "https://www.facebook.com/scmp/videos/685054502010747/",
       "#title": "South China Morning Post",
       "#source": "South China Morning Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -436,10 +436,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/376552872550155/videos/2385951665008735/",
+      "#id": "https://www.facebook.com/376552872550155/videos/2512848798803607/",
       "#title": "米報 Rice Post",
       "#source": "米報 Rice Post",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
