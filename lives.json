@@ -93,6 +93,13 @@
     },
     {
       "type": "youtube",
+      "#id": "https://www.youtube.com/embed/4K1PVyfqn_Q/?autoplay=1",
+      "#title": "蘋果 Youtube live",
+      "#source": "香港蘋果日報 Apple Daily HK",
+      "active": true
+    },
+    {
+      "type": "youtube",
       "#id": "https://www.youtube.com/embed/Dj7yhio-HT4/?autoplay=1",
       "#title": "蘋果 Youtube live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
@@ -331,10 +338,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/passiontimes/videos/2362171203866277/",
+      "#id": "https://www.facebook.com/passiontimes/videos/737625579999698/",
       "#title": "熱時直播",
       "#source": "熱血時報 PassionTimes",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -433,13 +440,6 @@
       "#title": "高登討論區 HKGolden",
       "#source": "高登討論區 HKGolden",
       "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/4K1PVyfqn_Q/?autoplay=1",
-      "#title": "蘋果 Youtube live",
-      "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
     },
     {
       "type": "facebook",
