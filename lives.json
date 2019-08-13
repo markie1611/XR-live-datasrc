@@ -33,14 +33,14 @@
       "#id": "https://www.youtube.com/embed/x7IvjtgSawY/?autoplay=1",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/449302175925374/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -229,7 +229,7 @@
       "#id": "https://www.youtube.com/embed/G2YQbgi70j0/?autoplay=1",
       "#title": "東網直播 (Youtube)",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
