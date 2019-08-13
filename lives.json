@@ -432,7 +432,7 @@
       "#id": "https://www.facebook.com/fans.hkgolden/videos/2342646945812260/",
       "#title": "高登討論區 HKGolden",
       "#source": "高登討論區 HKGolden",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -604,10 +604,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/351087075806230/",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2097698017198311/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
