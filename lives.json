@@ -229,7 +229,7 @@
       "#id": "https://www.youtube.com/embed/G2YQbgi70j0/?autoplay=1",
       "#title": "東網直播 (Youtube)",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
