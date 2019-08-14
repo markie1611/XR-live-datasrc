@@ -13,7 +13,7 @@
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
       "active": false
-   },
+    },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/742719766180366/",
@@ -40,7 +40,7 @@
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/498436717632876/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -236,7 +236,7 @@
       "#id": "https://www.facebook.com/onccnews/videos/477061699743089/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
