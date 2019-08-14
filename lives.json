@@ -26,7 +26,7 @@
       "#id": "https://www.facebook.com/now.comNews/videos/2403821803223921/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -37,7 +37,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/381782259191332/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2380776188873451/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
       "active": true
@@ -159,14 +159,14 @@
       "#id": "https://www.facebook.com/inmediahk/videos/2335940250006825/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/378597189522848/",
       "#title": "獨媒直播 (2)",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -285,7 +285,7 @@
       "#id": "https://www.facebook.com/socrec/videos/956967147973094/",
       "#title": "SocREC 直播",
       "#source": "社會記錄頻道 SocREC",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -362,7 +362,7 @@
       "#id": "https://www.facebook.com/TMHK.ORG/videos/409977856311463/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
