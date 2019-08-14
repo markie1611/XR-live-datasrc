@@ -544,7 +544,7 @@
       "#id": "https://www.youtube.com/embed/Hhv7qLyMyiI/?autoplay=1",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
