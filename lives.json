@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/2403821803223921/",
+      "#id": "https://www.facebook.com/now.comNews/videos/719676001803003/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -37,7 +37,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2380776188873451/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2252747091706467/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
       "active": true
@@ -107,10 +107,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2368586486582280/",
+      "#id": "https://www.facebook.com/standnewshk/videos/715831998830066/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -156,10 +156,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/2335940250006825/",
+      "#id": "https://www.facebook.com/inmediahk/videos/512353212909919/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -359,10 +359,10 @@
     },
      {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/409977856311463/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/338318593713843/",
       "#title": "TMHK LIVE",
       "#source": "Truth Media Hong Kong",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
