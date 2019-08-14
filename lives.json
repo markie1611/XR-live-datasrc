@@ -208,7 +208,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/975027752849814/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -541,10 +541,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/pP22tWPV6EI/?autoplay=1",
+      "#id": "https://www.youtube.com/embed/Hhv7qLyMyiI/?autoplay=1",
       "#title": "三立新聞 SETN",
       "#source": "三立新聞 SETN",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
