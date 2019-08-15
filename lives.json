@@ -5,14 +5,14 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/JvWw9u0vWxI?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/1398182636999357/",
+      "#id": "https://www.facebook.com/icablenews/videos/2117269738573938/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/410257989837820/",
+      "#id": "https://www.facebook.com/now.comNews/videos/1469217799898271/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -37,10 +37,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/453732915177106/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/1368940243254156/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -72,10 +72,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/733190153768110/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/656330658178321/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -205,10 +205,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/380171375978302/",
+      "#id": "https://www.facebook.com/hk01.news/videos/367730544153879/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -359,8 +359,15 @@
     },
      {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/908576692830252/",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/472701623278964/",
       "#title": "TMHK LIVE",
+      "#source": "Truth Media Hong Kong",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/2894857040589330/",
+      "#title": "TMHK LIVE (2)",
       "#source": "Truth Media Hong Kong",
       "active": false
     },
@@ -380,13 +387,6 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/TMHK.ORG/videos/2894857040589330/",
-      "#title": "TMHK LIVE (2)",
-      "#source": "Truth Media Hong Kong",
-      "active": false
-    },
-    {
-      "type": "facebook",
       "#id": "https://www.facebook.com/cuspcusp/videos/379670842686867/",
       "#title": "中大學生報 Chinese University Student Press",
       "#source": "中大學生報 Chinese University Student Press",
@@ -394,10 +394,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hkucampustv/videos/2177057692403777/",
+      "#id": "https://www.facebook.com/hkucampustv/videos/476027226279213/",
       "#title": "香港大學學生會校園電視 Campus TV, HKUSU",
       "#source": "香港大學學生會校園電視 Campus TV, HKUSU",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
