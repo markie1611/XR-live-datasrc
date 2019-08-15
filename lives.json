@@ -9,10 +9,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/1165304493674535/",
+      "#id": "https://www.facebook.com/icablenews/videos/1398182636999357/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -23,10 +23,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/364678397541358/",
+      "#id": "https://www.facebook.com/now.comNews/videos/410257989837820/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
@@ -37,10 +37,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/498436717632876/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/453732915177106/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -107,7 +107,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/613927829134083/",
+      "#id": "https://www.facebook.com/standnewshk/videos/1163899657130270/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
       "active": true
@@ -208,7 +208,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/380171375978302/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
