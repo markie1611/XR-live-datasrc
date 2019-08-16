@@ -5,14 +5,14 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/JvWw9u0vWxI?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/2413580162302937/",
+      "#id": "https://www.facebook.com/icablenews/videos/2352661731727323/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -23,24 +23,24 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/now.comNews/videos/2299846787012653/",
+      "#id": "https://www.facebook.com/now.comNews/videos/669882500157115/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/x7IvjtgSawY/?autoplay=1",
+      "#id": "",
       "#title": "Now 新聞 (Youtube)",
       "#source": "Now 新聞 Now News",
       "active": false
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2526970814191341/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/935473353456855/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -72,10 +72,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/511733996035866/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/890321668002451/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
