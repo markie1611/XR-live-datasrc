@@ -5,14 +5,14 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/JvWw9u0vWxI?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/678257382688953/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -26,7 +26,7 @@
       "#id": "https://www.facebook.com/now.comNews/videos/669882500157115/",
       "#title": "Now 新聞 (Facebook)",
       "#source": "Now 新聞 Now News",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -75,7 +75,7 @@
       "#id": "https://www.facebook.com/hk.nextmedia/videos/890321668002451/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -110,7 +110,7 @@
       "#id": "https://www.facebook.com/standnewshk/videos/2359050777667145/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -208,7 +208,7 @@
       "#id": "https://www.facebook.com/hk01.news/videos/890942864607859/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
