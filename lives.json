@@ -9,10 +9,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/449047205686922/",
+      "#id": "https://www.facebook.com/icablenews/videos/2289119864672077/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -37,17 +37,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/497437960820049/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/408453376445315/",
       "#title": "香港電台視像新聞 RTHK VNEWS",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/475368386590916/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/887589831620638/",
       "#title": "香港電台視像新聞 RTHK VNEWS (2)",
       "#source": "香港電台 RTHK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -72,10 +72,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/496664024493304/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/876132426090186/",
       "#title": "蘋果 fb live",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -107,10 +107,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/512646906149995/",
+      "#id": "https://www.facebook.com/standnewshk/videos/447989892597998/",
       "#title": "立場直播",
       "#source": "立場新聞 Stand News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -156,10 +156,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/2191215910987364/",
+      "#id": "https://www.facebook.com/inmediahk/videos/454380808446716/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -205,17 +205,17 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/1258691987669647/",
+      "#id": "https://www.facebook.com/hk01.news/videos/445339769647502/",
       "#title": "01直播",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/482296522590017/",
+      "#id": "https://www.facebook.com/hk01.news/videos/353713892245519/",
       "#title": "01直播 (2)",
       "#source": "香港01 HK01",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -233,10 +233,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/2508977072503501/",
+      "#id": "https://www.facebook.com/onccnews/videos/2155303254766772/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
