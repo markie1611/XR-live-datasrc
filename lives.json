@@ -604,10 +604,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/2325228167736869/",
+      "#id": "https://www.facebook.com/MichaelYonFanPage/videos/760892817719479/",
       "#title": "Michael Yon",
       "#source": "Michael Yon",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
