@@ -9,10 +9,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/678257382688953/",
+      "#id": "https://www.facebook.com/icablenews/videos/486073421956163/",
       "#title": "有線新聞 i-Cable News",
       "#source": "有線新聞 i-Cable News",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -72,10 +72,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/425741221375531/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/875934439446529/",
       "#title": "蘋果 fb live (2)",
       "#source": "香港蘋果日報 Apple Daily HK",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
