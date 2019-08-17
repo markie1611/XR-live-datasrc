@@ -149,7 +149,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/454380808446716/",
+      "#id": "https://www.facebook.com/inmediahk/videos/742736282827882/",
       "#title": "獨媒直播",
       "#source": "香港獨立媒體網 inmediahk.net",
       "active": false
@@ -226,10 +226,10 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/onccnews/videos/692799884478429/",
+      "#id": "https://www.facebook.com/onccnews/videos/513267046083089/",
       "#title": "東網直播",
       "#source": "東網／東方日報 on.cc",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
