@@ -1,7 +1,11 @@
-# Calm Down and Read Below
+# Data Sources for NCE Lives
 
-The site is currently unavailable due to some technical issues in GitHub affected the deployment process.
+Main Site: https://ncehk2019.github.io/nce-live/
 
-We hope GitHub can solve the issues as soon as possible. Sorry for any inconvenience caused.
+Mirror Site: https://nce-live.web.app/
 
-We have a mirror site now, please try https://nce-live.web.app/
+Site Repo: https://github.com/ncehk2019/nce-live
+
+Our telegram channel: https://t.me/ncelive
+
+Feel free to raise issue if you have any suggestion or question. 
