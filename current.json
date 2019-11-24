@@ -66,15 +66,15 @@
       "active": true
     }
 ],
-	"current": [
-		{
-			"type": "youtube",
-			"media": "offline",
-			"mediaTitle": "Extinction Rebellion",
-			"video": "offline_oUIDL4SB60g",
-			"videoTitle": "Extinction Rebellion",
-			"videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
-		}
-	],
-	"lastUpdTs": "2019-11-24T07:34:11.539Z"
+"current": [
+    {
+      "type": "youtube",
+      "media": "offline",
+      "mediaTitle": "Extinction Rebellion",
+      "video": "offline_oUIDL4SB60g",
+      "videoTitle": "Extinction Rebellion",
+      "videoSrc": "https://www.youtube.com/embed/videoseries?list=PLnzA40Blbb2mKmbNfQBCFBlgzYJ2czgWU&autoplay=1"
+    }
+  ],
+  "lastUpdTs": "2019-11-24T11:56:22.807Z"
 }
